@@ -1,0 +1,39 @@
+ID,name,address_key,eircode,x,y,full_address,county,Type
+1,Midland Regional Hospital Portlaoise,Dublin Road,R32RW61,248539.8285,198821.7809,"Dublin Road, Portlaoise, Co. Laois, ",Laois,Hospital
+2,Midland Regional Hospital Tullamore,Arden Road,R35NY51,233923.1455,225877.1039,"Arden Road, Tullamore, Co. Offaly, ",Offaly,Hospital
+3,St James's Hospital Dublin,James's Street,D08NHY1,313433.6436,233460.873,"James's Street, Dublin 8, ",Dublin,Hospital
+4,Naas General Hospital,Craddockstown Road,W91AE76,289392.2816,218724.4999,"Craddockstown Road, Naas, Co. Kildare, ",Kildare,Hospital
+5,The Adelaide & Meath Hospital (Tallaght Hospital) Dublin,Tallaght,,308195.7986,227903.5429,"Tallaght, Dublin 24",Dublin,Hospital
+6,Cavan General Hospital,Lisdarn,H12A5D7,241108.2195,305926.719,"Lisdarn, Cavan, ", Cavan,Hospital
+7,Louth County Hospital Dundalk,Dublin Road,,304933.9162,305486.799,"Dublin Road, Dundalk",Louth,Hospital
+8,Monaghan Hospital,Monaghan,H18NV91,266828.5975,333908.8821,"Monaghan, ",Monaghan,Hospital
+9,Our Lady of Lourdes Hospital Drogheda,Drogheda,A92VW28,308563.4386,276047.75,"Drogheda, Co. Louth, ",Louth,Hospital
+10,Connolly Hospital Dublin,Mill Road,D15X40D,308545.2076,238839.27,"Mill Road, Dublin 15, ",Dublin,Hospital
+11,Beaumont Hospital,Beaumont Road,D09C562,318014.4006,239461.7999,"Beaumont Road, Dublin 9, ",Dublin,Hospital
+12,St Luke's General Hospital Kilkenny,Freshford Road,R95FY71,249849.5305,157441.6319,"Freshford Road, Kilkenny, ", Kilkenny,Hospital
+13,Wexford General Hospital,Newtown Road, Y35y17d,303401.8406,122304.6848,"Newtown Road, Wexford, Y35y17d", Wexford,Hospital
+14,Our Lady's Hospital Navan,Navan,C15RK7Y,286123.9386,267517.563,"Navan, Co. Meath, ",Meath,Hospital
+15,Midland Regional Hospital Mullingar,Longford Road,N91NA43,243131.5005,254000.7,"Longford Road, Mullingar, Co. Westmeath, ",Westmeath,Hospital
+16,St Columcille's Hospital,Bray Road,D18V9K1,324650.0136,223005.9479,"Bray Road, Loughlinstown, Co. Dublin, ",Dublin,Hospital
+17,St Vincent's University Hospital, Nutley Lane,D04T6F4,319049.9696,231076.2339,"Elm Park, Nutley Lane, Dublin 4, ",Dublin,Hospital
+18,St Michael's Hospital Dun Laoghaire,George's Street Lower,A96P902,324095.6746,228667.4989,"George's Street Lower, Dun Laoghaire, Co. Dublin, ",Dublin,Hospital
+19,Mater Misericordiae Hospital,Eccles Street,D07R2WY,315270.9066,235749.3699,"Eccles Street, Dublin 7, ",Dublin,Hospital
+20,South Tipperary General Hospital,Western Road,E91VY40,219438.4595,122665.8848,"Western Road, Clonmel, Co. Tipperary, ",Tipperary,Hospital
+21,University Hospital Waterford,Dunmore Road,X91ER8E,262910.9695,111129.5228,"Dunmore Road, Waterford, ", Waterford,Hospital
+22,Bantry General Hospital,Carrignagat,P75DX93,99695.28536,48014.02974,"Carrignagat, Bantry, Co. Cork, ",Cork,Hospital
+23,Cork University Hospital,Wilton,T12DC4A,164819.4034,70216.09277,"Wilton, Cork, ", Cork,Hospital
+24,Mallow General Hospital,Kilknockin,P51N288,154551.0944,100117.7888,"Kilknockin, Mallow, Co. Cork, ",Cork,Hospital
+25,Ennis Hospital,Gort Road,V95HN29,133732.5354,178235.0779,"Gort Road, Ennis, Co. Clare, ",Clare,Hospital
+26,Roscommon County Hospital,Ardsallagh Beg,F42AX61,188388.3285,263899.813,"Ardsallagh Beg, Co. Roscommon, ",Roscommon,Hospital
+27,Mercy University Hospital,Grenville Place,T12WE28,166764.5734,71915.37076,"Grenville Place, Cork, ", Cork,Hospital
+28,Nenagh Hospital,Tyone,E45PT86,187094.4565,178527.3649,"Tyone, Nenagh, Co. Tipperary, ",Tipperary,Hospital
+29,Sligo Regional Hospital,The Mall,F91H684,169786.3464,336269.7351,"The Mall, Sligo, ", Sligo,Hospital
+30,University Hospital Galway,Newcastle Road,H91YR71,128926.2994,225582.2939,"Newcastle Road, Galway, ", Galway,Hospital
+31,Portiuncula Hospital,Ballinasloe,H53T971,184339.0425,230731.3919,"Ballinasloe, Co. Galway, ",Galway,Hospital
+32,South Infirmary Victoria University Hospital,Old Blackrock Road,T12X23H,168045.1354,71328.93777,"Old Blackrock Road, Cork, ",Cork,Hospital
+33,St John's Hospital,St. John's Square,,158298.4279,157008.8367,"St. John's Square, Limerick",Limerick,Hospital
+34,Letterkenny University Hospital,Kilmacrennan Road,F92AE81,216990.1175,412551.1811,"Kilmacrennan Road, Letterkenny, Co. Donegal, ",Donegal,Hospital
+35,Merlin Park University Hospital,Galway,H91N973,133719.3214,225686.7119,"Galway, ",Galway,Hospital
+36,University Hospital Kerry,Tralee,V92NX94,84653.57835,113945.3278,"Tralee, Co. Kerry, ",Kerry,Hospital
+37,University Hospital Limerick,Saint Nessan's Road,V94F858,155741.1214,154029.2699,"Saint Nessan's Road, Dooradoyle, Limerick, ",Limerick,Hospital
+38,Mayo General Hospital,Westport Road,F23H529,114195.8524,289970.125,"Westport Road, Castlebar, Co. Mayo, ",Mayo,Hospital

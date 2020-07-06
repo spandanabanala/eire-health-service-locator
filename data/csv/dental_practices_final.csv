@@ -1,0 +1,942 @@
+Id,service_name,full_address,address_key,County,x,y,Type
+1,2 Radharc an Oilean,"2 Island View House, Harbour Road, Howth, Co. Dublin", Harbour Road,Dublin,328656.3,239213.6,Dental
+2,Abbeyglebe Dental Practice,"The Glebe, Donegal", Donegal,Donegal,192691.824,377890.765,Dental
+3,Abbeyleix Dental,"St Ritas, New Row, Abbeyleix, Co. Laois",St Ritas,Laois,243779.001,184984.725,Dental
+4,Abbeytrinity Dental Practice,"High Street, Tuam, Co. Galway",High Street,Galway,143274.875,251890.078,Dental
+5,Absolute Dental Care,"2 College Street, Carlow Town, Co. Carlow",College Street,Carlow,272227.038,176742.111,Dental
+6,Aesthetica Dental Care,"Grange Clinic, Grange Road, Dublin 13", Grange Road,Dublin,322171.1,239820.1,Dental
+7,Airport Dental Surgery,"Rathmacullig West, Ballygarvan, Co. Cork",Rathmacullig West,Cork,167549.688,66219.094,Dental
+8,Alexandra Dental Practice,"6 Alexandra Terrace, O Connell Avenue, Limerick", O Connell Avenue,Limerick,157090.047,156196.25,Dental
+9,Allsmile Dental Practice,"St John's Gate Street, Wexford",St John's Gate Street,Wexford,304717.191,121914.235,Dental
+10,Applewood Dental Centre,"6 Applewood Village Green, Applewood, Swords, Co. Dublin", Applewood,Dublin,317389.563,248228.688,Dental
+11,Ardfallen Dental Practice,"Douglas Road, Cork",Douglas Road,Cork,169240.462,70218.812,Dental
+12,Ardfert Dental Practice,"Ardfert Medical Centre, Ardfert, Co. Kerry",Ardfert Medical Centre,Kerry,78789.727,120725.203,Dental
+13,Ashbourne Dental Centre,"Frederick Street, Ashbourne, Co. Meath",Frederick Street,Meath,306269.969,252612.781,Dental
+15,Ashbourne Dental Practice,"Frederick Street, Ashbourne, Co. Meath",Frederick Street,Meath,306269.969,252612.781,Dental
+17,Ashgrove Dental,"ashgrove dental, Dublin Road, Naas, Co. Kildare", Dublin Road,Kildare,289982.994,220148.864,Dental
+18,Avondale Dental Clinic,"Vevay Road, Bray, Co. Wicklow",Vevay Road,Wicklow,326589.863,217546.753,Dental
+19,Ayrfield Medical Centre,"Granges Road, Kilkenny",Granges Road,Kilkenny,250022.797,156509.281,Dental
+20,Balbriggan Dental Care,"59 Drogheda Street, Balbriggan, Co. Dublin",Drogheda Street,Dublin,320014.017,263989.564,Dental
+21,Ballantyne Dental Practice,"Grana Oge, Garden Vale, Athlone, Co. Westmeath",Grana Oge,Westmeath,204360.872,241647.727,Dental
+22,Ballina Dental Practice,"Kevin Barry Street, Ballina, Co. Mayo",Kevin Barry Street,Mayo,124222.698,318760.852,Dental
+23,Ballincollig Dental,"East Gate, Ballincollig, Co. Cork",East Gate,Cork,159801.725,70788.036,Dental
+24,Ballinrobe Dental Surgery,"Mason's Close, Church Lane, Ballinrobe, Co. Mayo", Church Lane,Mayo,119305.82,264325.938,Dental
+25,Ballinteer Dental Centre,"47 Ballinteer Avenue, Dublin 16",Ballinteer Avenue,Dublin,316692.438,226459.357,Dental
+26,Ballyconnell Dental Surgery,"Main Street, Ballyconnell, Co. Cavan",Main Street,Cavan,227291.496,318673.563,Dental
+27,Ballyowen Castle Medical&Dental Centre,"Ballyowen Shopping Centre, Lucan, Co. Dublin", Lucan,Dublin,305124.964,234159.898,Dental
+29,Bandon Dental Care,"66 South Main Street, Bandon, Co. Cork", Main Street,Cork,149007.375,54864.77,Dental
+30,Barna Village Dental Practice,"An ChÃ©ibh, Bearna, Co. na Gaillimhe",An ChÃ©ibh,Galway,123201.6644,222907.9379,Dental
+31,Bastion Court Dental Practice,"Bastion Court, Connaught Street, Athlone, Co. Westmeath", Connaught Street,Westmeath,203618.078,241299.406,Dental
+32,Beacon Dental Clinic,"Beacon Court, Sandyford Industrial Estate, Dublin 18", Sandyford Industrial Estate,Dublin,318813.625,226447.031,Dental
+33,Bedford Dental Practice,"Bedford Place, Navan, Co. Meath", Navan,Meath,287048.893,267654.576,Dental
+34,Beechwood Dental,"9 Dunville Avenue, Dublin 6", Dunville Avenue,Dublin,316306.187,231460.965,Dental
+35,Belfield Dental,"174 Stillorgan Road, Donnybrook, Dublin 4",Stillorgan Road,Dublin,318769.416,230384.639,Dental
+36,Belgrave Dental Clinic,"1 Belgrave Square East, Dublin 6", Belgrave Square East,Dublin,315992.29,231737.401,Dental
+37,Belvedere Dental,"54 Belvedere Drive, Lisduggan, Co. Waterford", Belvedere Drive,Waterford,259123.174,111499.395,Dental
+38,Berkerley Dental Centre,"14 Greenhills Road, Walkinstown, Dublin 12",Greenhills Road,Dublin,309905.762,229193.672,Dental
+39,Bilberry Dental Practice,"2 Grattan Quay, Waterford City, Co. Waterford",Grattan Quay,Waterford,260155.468,112792.866,Dental
+40,Bishop Street Dental Clinic,"Bishop Street, Newcastle West, Co. Limerick",Bishop Street,Limerick,128035.328,133882.171,Dental
+41,Bishop's Street Dental Practice,"8 Bishop Street, Cobh, Co. Cork",Bishop Street,Cork,179787.801,66797.531,Dental
+42,Blackglen Dental,"Blackglen Village Centre, Blackglen, Dublin 18", Blackglen,Dublin,317295.188,225671.563,Dental
+43,Blackrock Dental Surgery,"Main Street, Blackrock, Co. Louth",Main Street,Louth,307372.313,302886.313,Dental
+44,Blackrock Orthodontics,"26 Mount Merrion Avenue, Blackrock, Co. Dublin", Merrion Avenue,Dublin,321039.25,229412.984,Dental
+45,Blessing Dental Surgery,"Unit 9  Village Court, Strand Road, Portmarnock, Co. Dublin", Strand Road,Dublin,323986.212,242952.465,Dental
+46,Blue Poppy Dental Practice,"Mill Court Mews, The Diamond, Donegal",Mill Court Mews,Donegal,192936.042,378330.814,Dental
+47,Boroimhe Dental Practice,"Boroimhe Shopping Centre, Boroimhe, Swords, Co. Dublin", Boroimhe,Dublin,317130.438,245499.047,Dental
+48,Bowe Dental Clinic,"Q Retail Park, Roxboro, Limerick", Roxboro,Limerick,158160.625,155284.141,Dental
+49,Boyle Dental Centre,"Elphin Street, Boyle, Co. Roscommon",Elphin Street,Roscommon,180194.763,302294.26,Dental
+50,Boyne House,"Church Hill, Navan, Co. Meath", Navan,Meath,287049.648,267703.887,Dental
+51,Boyne House,"Church Hill, Navan, Co. Meath", Navan,Meath,287077.767,267699.988,Dental
+52,Brasscock Dental Practice,"Unit 23  Ballinakill Shopping Centre, Dunmore Road, Waterford City", Dunmore Road,Waterford,263781.438,110255.719,Dental
+53,Breaffy Dental,"Breaffy Medical and Business Centre, Castlebar, Co. Mayo", Castlebar,Mayo,118737.695,289130.406,Dental
+54,Brews Hill Dental Centre,"32 Brews Hill, Navan, Co. Meath", Navan,Meath,286538.208,267599.329,Dental
+56,Bridge House Dental Practice,"Bridge House, Charlotte Quay, Limerick",Bridge House,Limerick,158058.672,157342.516,Dental
+57,Bridge Place Dental Surgery,"3 Bridge Place, Tralee, Co. Kerry", Tralee,Kerry,83438.789,114345.914,Dental
+58,Briggs Lane Dental Practice,"Briggs Lane, Ferrybank, Arklow, Co. Wicklow",Briggs Lane,Wicklow,325020.875,173976,Dental
+59,Broadale Dental Practice,"Maryborough Hill, Douglas, Cork",Maryborough Hill,Cork,171545.536,68143.844,Dental
+60,Browne Orthodontics,"South Main Street, Bandon, Co. Cork",South Main Street,Cork,149090.988,54901.825,Dental
+61,Burren Dental Practice,"4 High Street, Ennis, Co. Clare", High Street,Clare,133792.235,177450.059,Dental
+62,Cabinteely Dental Centre,"2 St Gabriels Court, Bray Road, Dublin 18", Bray Road,Dublin,323415.188,225016.5,Dental
+63,Cabra Dental Centre,"82 Cabra Road, Dublin 7", Cabra Road,Dublin,314193.367,235864.906,Dental
+64,Cahill' s Dental Surgery,"108/110  Saint Mobhi Road, Dublin 9",Saint Mobhi Road,Dublin,315354.664,236971.29,Dental
+65,Callan Dental Practice,"Mill Street, Callan, Co. Kilkenny",Mill Street,Kilkenny,241492.438,143784.719,Dental
+66,Carlow Dental Clinic,"Montgomery House, Athy Road, Carlow", Athy Road,Carlow,272137.598,177135.423,Dental
+67,Carlyle Dental Practice,"9 Goldsmith Terrace, Quinsboro Road, Bray, Co. Wicklow", Quinsboro Road,Wicklow,326657.297,218777.525,Dental
+68,Carrigdene Dental Centre,"Togher Road, Cork",Togher Road,Cork,166021.48,69500.303,Dental
+69,Carrigtwohill Dental Practice,"Main Street, Carrigtwohill, Co. Cork",Main Street,Cork,182310.781,73021.469,Dental
+70,Castle Clinic,"150 Main Street, Castleisland, Co. Kerry", Main Street,Kerry,100382.215,109980.215,Dental
+71,Castle Dental Practice,"Chapel Street, Ballyshannon, Co. Donegal",Chapel Street,Donegal,187751.516,361655.688,Dental
+72,Castle Orthodontics,"Church View, Dublin Road, Portlaoise, Co. Laois", Dublin Road,Laois,247517.206,198557.443,Dental
+73,Castle Orthodontics,"Kilfane House, Kilkenny Road, Carlow",Kilfane House,Carlow,271928.535,176177.803,Dental
+74,Castle Orthodontics,"Castle Road, Kilkenny",Castle Road,Kilkenny,251031.414,155469.259,Dental
+75,Castlebar Orthodontic Practice,"Rush Street, Castlebar, Co. Mayo",Rush Street,Mayo,114704.989,290622.059,Dental
+76,Castleknock Dental Practice,"2 Main Street, Castleknock, Dublin 15", Main Street,Dublin,309026.414,237132.593,Dental
+77,Castleknock Orthodontis,"Ashleigh Centre, Castleknock, Dublin 15",Ashleigh Centre,Dublin,309145.5,237086.234,Dental
+78,Castlelawn Dental Pratice,"Terryland Medical Centre, Coolough Road, Galway", Coolough Road,Galway,130221.484,226811.594,Dental
+79,Central Dental Clinic,"Calimar, Leixlip Road, Lucan, Co. Dublin", Leixlip Road,Dublin,303158.748,235075.077,Dental
+80,Central Dental Clinic,"Unit 1, 4 Lower Main Street, Lucan, Co. Dublin", Lower Main Street,Dublin,303211.25,235153.797,Dental
+81,Church Street Dental Practice,"Church Street, Kanturk, Co. Cork",Church Street,Cork,138010.421,103201.457,Dental
+82,Church Street Dental Practice,"73 Church Street, Cavan", Church Street,Cavan,242033.002,305211.932,Dental
+83,Church street Dental Surgery,"73 Church Street, Cavan, Co. Cavan",Church Street,Cavan,260332.594,313819.156,Dental
+84,City Dental,"24A Wicklow Street, Dublin 2, Dublin", Wicklow Street,Dublin,315818.338,233908.421,Dental
+85,Citywest Medical and Dental Centre,"Citywest Shopping Centre, Fortunes Walk, Saggart, Co. Dublin", Fortunes Walk,Dublin,305232.875,226931.484,Dental
+86,Clane Dental Surgery,"The Woods Centre, Main Street, Clane, Co. Kildare", Main Street,Kildare,287640.878,227812.618,Dental
+87,Claregalway Dental Surgery,"Baile ChlÃ¡ir, Co. na Gaillimhe",Baile ChlÃ¡ir,Galway,137011.6564,232703.3439,Dental
+88,Clarendon Surgery,"65 Castleknock Road, Dublin 15",Castleknock Road,Dublin,308473.147,238183.107,Dental
+89,Cleachtas FiaclÃ³ra,"PrÃ­omhshrÃ¡id, Daingean UÃ­ ChÃºis, Co. ChiarraÃ­",PrÃ­omhshrÃ¡id,Kerry,44786.1213,101231.9878,Dental
+90,Cleachtas FiaclÃ³ra,"Teach TrÃ¡chtÃ¡la, BÃ³thar na SlÃ©ibhe, Maigh Cuilinn, Co. na Gaillimhe",Teach TrÃ¡chtÃ¡la,Galway,121399.6804,232498.3129,Dental
+91,Clifden Dental Practcie,"Station House Courtyard, Clifden, Co. Galway",Station House Courtyard,Galway,66081.953,250637.344,Dental
+92,"Clinic FiaclÃ³ireachta Mhaigh Cuilinn,","Aonad 2 GÃ¡irdÃ­n MhÃ¡ire, Cill RÃ¡ine, Maigh Cuilinn, Co. na Gaillimhe",Aonad 2 GÃ¡irdÃ­n MhÃ¡ire,Galway,121299.4004,232756.4999,Dental
+93,Clinical Dental Technician,"Main Street, Sallins, Co. Kildare, W91tx26",Main Street,Kildare,289074.8136,222841.9219,Dental
+94,Clinical Dental Technician,"Unit 1, Childers Road Enterprise Centre, Childers Road, Limerick, V94hx70",Childers Road,Limerick,159444.6184,156171.3989,Dental
+95,Clinical Dental Technician,"56a Carysfort Avenue, Blackrock, Co. Dublin, A94c890", Carysfort Avenue,Dublin,321345.3006,229199.5999,Dental
+96,Clinical Dental Technician,"61/62 Patrick Street, Dublin 8, D08pdh5", Patrick Street,Dublin,315064.4996,233693.9229,Dental
+97,Clinical Dental Technician,"Henry Street Medical Centre, Henry Street, Roscommon, F42vn32", Henry Street,Roscommon,187213.4065,264139.781,Dental
+98,Clinical Dental Technician,"37 Glaslough Street, Monaghan, H18a096",Glaslough Street,Monaghan,267263.9065,334005.3811,Dental
+99,Clinical Dental Technician,"27 Church Street, Portlaoise, Co. Laois, R32pf89",Church Street,Laois,246915.025,198397.1858,Dental
+100,Clinical Dental Technician,"Unit 1d Friary Business Park, Friary Road, Naas, Co. Kildare, W91pr53", Friary Road,Kildare,289490.1836,219559.9149,Dental
+101,Clinical Dental Technician,"17 Manor Street, Waterford, X91f25a",Manor Street,Waterford,260558.4655,111907.5108,Dental
+102,Clinical Dental Technician,"Walkinstown Medical Centre, 133 Walkinstown Road, Dublin 12, D12px7a", Walkinstown Road,Dublin,311132.2266,231144.5969,Dental
+103,Clinical Dental Technician,"2 Priory Square, Dean Street, Kilkenny, R95n7xr", Dean Street,Kilkenny,250245.8235,156257.0719,Dental
+104,Clinical Dental Technician ,"4 Old Dublin Road, Carlow", Old Dublin Road,Carlow,272263.3106,177013.0139,Dental
+105,Clinical Dental Technician - Q Denture,"Rose Cottage, Main Street, Lucan Village, Co. Dublin, K78e021", Main Street,Dublin,303105.0956,235099.7319,Dental
+106,Clinical Dental Technician and Dental Practice,"Abbey Street, Wicklow",Abbey Street,Wicklow,331311.9702,193964.8278,Dental
+107,Clonakilty Dental Centre,"5 Western Road, Clonakilty, Co. Cork",Western Road,Cork,138275.428,41523.807,Dental
+108,Clontarf Dental Practice,"189 Clontarf Road, Dublin 3",Clontarf Road,Dublin,320101.646,235853.623,Dental
+109,Clyde Court Dental,"5 Clyde Court, Clyde Road, Ballsbridge, Dublin 4", Clyde Road,Dublin,317614.625,232447.831,Dental
+110,Confidental,"29 Castle Street, Cahir, Co. Tipperary",Castle Street,Tipperary,205144.665,124716.568,Dental
+111,Conor Clune Dental Practice,"Douglas Medical Centre, Douglas, Cork", Douglas,Cork,169988.017,69506.356,Dental
+112,Coole Dental Practice,"Coole Dental, Coole, Co. Westmeath", Coole,Westmeath,242152.5,272096,Dental
+113,Corabbey Dental Clinic,"Unit 1  Corabby Court, Midleton, Co. Cork", Midleton,Cork,188335.125,73475.828,Dental
+114,Cork City Dental,"Blackpool Bridge, Cork",Blackpool Bridge,Cork,167425.578,73303.453,Dental
+115,Cork City Dental,"4 Lavitt's Quay, Cork",Lavitt's Quay,Cork,167620.484,72046.563,Dental
+116,Cork Clinic Orthodontics,"Suite 23  Cork Clinic, Western Road, Cork", Western Road,Cork,165719.915,71326.568,Dental
+117,Cork Dental Care,"Unit 1, 1 Georges Quay, Cork",Georges Quay,Cork,167707.99,71437.152,Dental
+118,Cork Dental Care,"6 Mount Verdon Terrace, Wellington Road, Cork", Wellington Road,Cork,168114.693,72326.285,Dental
+119,Cork Dental Clinic,"Old Quarter House, Ballincollig, Co. Cork", Ballincollig,Cork,159431.797,70967.383,Dental
+120,Cork House Dental Clinic,"Cork House, Wine Street, Sligo", Wine Street,Sligo,168848.888,336051.032,Dental
+121,Cork Road Clinic,"Cork Road, Carrigaline, Co. Cork",Cork Road,Cork,173070.031,62864.363,Dental
+122,Cornmarket Dental Practice,"Cornmarket Tower, Robert Street, Limerick", Robert Street,Limerick,157879.682,157068.993,Dental
+123,Corrib Dental,"Calbro Court, Tuam Road, Galway", Tuam Road,Galway,130970.906,226476.563,Dental
+124,Court Street Dental Centre,"31 Court Street, Enniscorthy, Co. Wexford",Court Street,Wexford,297243.578,139729.738,Dental
+125,Cresent Dental,"Dooradoyle House, Dooradoyle Road, Limerick",Dooradoyle House,Limerick,156390.734,154082.203,Dental
+126,Crestfield Dental Practice,"Glanmire Medical Centre, Glanmire, Co. Cork",Glanmire Medical Centre,Cork,172935.453,75305.352,Dental
+127,Crosslane Medical Clinic,"Crosslanes, Drogheda, Co. Louth",Crosslanes,Louth,308456.401,276187.732,Dental
+128,Crotty Orthodontics,"Rhodaville House, Douglas, Co. Cork",Rhodaville House,Cork,169214.004,70176.522,Dental
+129,Crotty Orthodontics,"10 Wolfe Tone Way, Clonakilty, Co. Cork",Wolfe Tone Way,Cork,138891.617,41535.269,Dental
+130,Daly Dental Surgery,"Eastland House, Dublin Road, Tuam, Co. Galway",Eastland House,Galway,143711.723,251836.616,Dental
+131,David Mc Conville Specialist Dentistry,"Tirconaill Street, Donegal",Tirconaill Street,Donegal,193026.332,378650.455,Dental
+132,Dean St Dental Practice,"3 Priory Square, Dean Street, Kilkenny City",Priory Square,Kilkenny,250316.157,156230.834,Dental
+133,Declan Ward Orthodontics,"208 Botanic Avenue, Glasnevin, Dublin 9",Botanic Avenue,Dublin,315324.753,237188.706,Dental
+134,Dennehy's Cross Dental Practice,"Beltra, Model Farm Road, Cork", Model Farm Road,Cork,165106.487,70834.603,Dental
+135,Denny Street Dental Surgery,"11 Denny Street, Tralee, Co. Kerry",Denny Street,Kerry,83611.2,114296.329,Dental
+136,Dental Centre,"Market Cross, James Street, Kilkenny City, Co. Kilkenny", James Street,Kilkenny,250471.421,155938.594,Dental
+137,Dental Clinic,"Markievicz House, Barrack Street, Sligo",Markievicz House,Sligo,169129.334,336456.606,Dental
+138,Dental Clinic,"Navan Gate, Trim, Co. Meath",Navan Gate,Meath,280382.344,257077.625,Dental
+140,Dental Options,"Clane General Hospital, Clane, Co. Kildare", Clane,Kildare,286654.188,227319.188,Dental
+141,Dental Pracice,"37 North Strand Road, Dublin 3",North Strand Road,Dublin,316973.778,235501.688,Dental
+142,Dental Pracrtice,"River Road, Blanchardstown, Dublin 15",River Road,Dublin,308274.313,238550.906,Dental
+143,Dental Practice,"99 Upper Georges Street, Dun Laoghaire, Co. Dublin", Upper Georges Street,Dublin,324498.688,228398.063,Dental
+144,Dental Practice,"12 Dodsboro Road, Lucan, Co. Dublin", Dodsboro Road,Dublin,302473.614,234612.928,Dental
+145,Dental Practice,"Lower Main Street, Lucan, Co. Dublin",Lower Main Street,Dublin,303412.094,235370.266,Dental
+146,Dental Practice,"2 Mount Pleasant, Sandycove Road, Sandycove, Co. Dublin", Sandycove Road,Dublin,325471.969,227841.641,Dental
+147,Dental Practice,"Cumberland House, Emmet Square, Birr, Co. Offaly",Cumberland House,Offaly,206018.411,205074.008,Dental
+148,Dental Practice,"Chapel Lane, Ferbane, Co. Offaly",Chapel Lane,Offaly,211400.875,224509,Dental
+149,Dental Practice,"Rock House, Cormac Street, Tullamore, Co. Offaly", Cormac Street,Offaly,233637.797,224593.68,Dental
+150,Dental Practice,"Patrick Street, Tullamore, Co. Offaly",Patrick Street,Offaly,233828.129,225133.267,Dental
+151,Dental Practice,"3 Jessop Street, Portlaoise, Co. Laois",Jessop Street,Laois,246960.947,198419.772,Dental
+152,Dental Practice,"Roslevin, Ballymahon Road, Athlone, Co. Westmeath", Ballymahon Road,Westmeath,204490.797,241883.656,Dental
+153,Dental Practice,"Medical Centre, Church Street, Moate, Co. Westmeath", Church Street,Westmeath,218401.016,238475.938,Dental
+154,Dental Practice,"Castle Street, Mullingar, Co. Westmeath",Castle Street,Westmeath,243802.665,253137.785,Dental
+155,Dental Practice,"Martin's Lane, Mullingar, Co. Westmeath",Martin's Lane,Westmeath,243655.406,253067.375,Dental
+156,Dental Practice,"5 Keon's Terrace, Longford, Co. Longford",Keon's Terrace,Longford,213476.913,275195.294,Dental
+157,Dental Practice,"Earls Street, Longford, Co. Longford",Earls Street,Longford,213456.411,274986.676,Dental
+158,Dental Practice,"Barrack Street, Bailieborough, Co. Cavan",Barrack Street,Cavan,267731.625,296684.813,Dental
+159,Dental Practice,"Onomy House, Main Street, Castleblayney, Co. Monaghan", Main Street,Monaghan,282729.442,319751.389,Dental
+160,Dental Practice,"12A The Diamond, Monaghan, Co. Monaghan",The Diamond,Monaghan,267305.122,333792.861,Dental
+161,Dental Practice,"18 Annesley, Bridge Road, Dublin 3", Bridge Road,Dublin,317370.866,236085.453,Dental
+162,Dental Practice,"173 Ballymun Road, Dublin 11", Ballymun Road,Dublin,315480.652,239102.95,Dental
+163,Dental Practice,"224 Collins Avenue, Dublin 9", Collins Avenue,Dublin,317848.976,237930.943,Dental
+164,Dental Practice,"64 Upper Drumcondra Road, Dublin 9",Upper Drumcondra Road,Dublin,316304.322,237020.171,Dental
+165,Dental Practice,"1 Manor Place, Dublin 7",Manor Place,Dublin,314285.3,234886.5,Dental
+166,Dental Practice,"304 North Circular Road, Dublin 7",North Circular Road,Dublin,314820.391,235811.654,Dental
+167,Dental Practice,"56A Marian Road, Dublin 14", Marian Road,Dublin,313547.478,228249.081,Dental
+168,Dental Practice,"1A Charlotte Street, Newbridge, Co. Kildare",Charlotte Street,Kildare,280378.344,215129.641,Dental
+169,Dental Practice,"Unit 1 Chapel Mews, Chapel Lane, Sallins, Co. Kildare", Chapel Lane,Kildare,289208.5,222985.266,Dental
+170,Dental Practice,"7 Carlton Villas, Novara Avenue, Bray, Co. Wicklow", Novara Avenue,Wicklow,326520.839,218523.397,Dental
+171,Dental Practice,"1 Florence Road, Bray, Co. Wicklow",Florence Road,Wicklow,326524.69,218638.28,Dental
+172,Dental Practice,"93 Main Street, Bray, Co. Wicklow",Main Street,Wicklow,326351.152,218616.706,Dental
+173,Dental Practice,"42 Baggot Street Lower, Dublin 2",Baggot Street Lower,Dublin,316668.645,233271.021,Dental
+174,Dental Practice,"75A Sandymount Road, Dublin 4", Sandymount Road,Dublin,318836.688,232895.282,Dental
+175,Dental Practice,"79 Morehampton Road, Dublin 4", Morehampton Road,Dublin,317285.882,231884.189,Dental
+176,Dental Practice,"188 Rathgar Road, Dublin 6",Rathgar Road,Dublin,315490.176,231422.322,Dental
+177,Dental Practice,"69 Orwell Park Rise, Templeogue, Dublin 6",Orwell Park Rise,Dublin,311806.813,228970.016,Dental
+178,Dental Practice,"1A Grosvenor Road, Dublin 6",Grosvenor Road,Dublin,315458.609,231492.849,Dental
+179,Dental Practice,"130 Terenure Road North, Dublin 6",Terenure Road North,Dublin,314453.127,230231.528,Dental
+180,Dental Practice,"631 South Circular Road, Kilmainham, Dublin 8", South Circular Road,Dublin,312760.715,233506.16,Dental
+181,Dental Practice,"11A Grattan Crescent, Dublin 8, Dublin", Grattan Crescent,Dublin,311882.608,233471.928,Dental
+182,Dental Practice,"Unit 10 Le Fanu Shopping Centre, Le Fanu Road, Dublin 10", Le Fanu Road,Dublin,309516.605,233803.495,Dental
+183,Dental Practice,"276 Ballyfermot Road, Dublin 10", Ballyfermot Road,Dublin,309881.147,233707.22,Dental
+184,Dental Practice,"353 Ballyfermot Road, Dublin 10", Ballyfermot Road,Dublin,309424.952,233688.778,Dental
+185,Dental Practice,"137 Galtymore Road, Dublin 12",Galtymore Road,Dublin,312018.574,232882.948,Dental
+186,Dental Practice,"153 Drimnagh Road, Dublin 12",Drimnagh Road,Dublin,311594.45,231707.742,Dental
+187,Dental Practice,"109 Old County Road, Dublin 12",Old County Road,Dublin,313005.771,232104.705,Dental
+188,Dental Practice,"16 Walkinstown Road, Dublin 12",Walkinstown Road,Dublin,311385.061,231612.063,Dental
+189,Dental Practice,"325 Crumlin Road, Dublin 12",Crumlin Road,Dublin,312450.781,232003.047,Dental
+190,Dental Practice,"49 Main Street, Dublin 14",Main Street,Dublin,314378.53,228970.965,Dental
+191,Dental Practice,"Bellavista, 125 Upper Churchtown Road, Dublin 14",Upper Churchtown Road,Dublin,316318.421,228632.915,Dental
+192,Dental Practice,"8 Sandyford Hall Centre, Kilgobbin Road, Dublin 18", Kilgobbin Road,Dublin,319072.344,225396.109,Dental
+193,Dental Practice,"14 Palmerstown Park, Kennelsfort Road, Dublin 20", Kennelsfort Road,Dublin,308007.125,234625.058,Dental
+194,Dental Practice,"51 Mountain Park, Tallaght, Dublin 24", Tallaght,Dublin,309708.95,227210.846,Dental
+195,Dental Practice,"23 Maplewood Road, Springfield, Dublin 24",Maplewood Road,Dublin,307906.84,227550.089,Dental
+196,Dental Practice,"19 Summerhill Road, Glasthule, Dun Laoghaire, Co. Dublin",Summerhill Road,Dublin,325030.732,228032.799,Dental
+197,Dental Practice,"235 Rochestown Avenue, Dun Laoghaire, Co. Dublin",Rochestown Avenue,Dublin,324373.162,225724.728,Dental
+198,Dental Practice,"10 Pakenham Road, Monkstown, Co. Dublin",Pakenham Road,Dublin,323350.14,228434.58,Dental
+199,Dental Practice,"30 Sandycove Road, Sandycove, Co. Dublin",Sandycove Road,Dublin,325697.401,227786.318,Dental
+200,Dental Practice,"19 Aubrey Park, Shankill, Co. Dublin", Aubrey Park,Dublin,325406.9,221664.3,Dental
+201,Dental Practice,"8 Church Street, Tullamore, Co. Offaly", Church Street,Offaly,234053.455,225007.096,Dental
+202,Dental Practice,"41 Church Street, Tullamore, Co. Offaly",Church Street,Offaly,234091.219,225044.703,Dental
+203,Dental Practice,"26 Church Street, Portlaoise, Co. Laois",Church Street,Laois,246991.825,198385.074,Dental
+204,Dental Practice,"25 St Patricks Terrace, Castlemaine Street, Athlone, Co. Westmeath", Castlemaine Street,Westmeath,204762.844,241279.734,Dental
+205,Dental Practice,"18 Northgate Street, Athlone, Co. Westmeath",Northgate Street,Westmeath,204001.066,241627.276,Dental
+206,Dental Practice,"15 Main Street, Ballymahon, Co. Longford", Main Street,Longford,215497.766,257257.688,Dental
+207,Dental Practice,"21 North Road, Monaghan Town, Co. Monaghan", North Road,Monaghan,267052.987,333973.412,Dental
+208,Dental Practice,"35 Fairview Strand, Fairview, Dublin 3", Fairview Strand,Dublin,317295.625,236156.75,Dental
+209,Dental Practice,"1 Castle Avenue, Dublin 3", Castle Avenue,Dublin,319246.932,236012.057,Dental
+210,Dental Practice,"86 Griffith Avenue, Dublin 9", Griffith Avenue,Dublin,317295.368,237188.307,Dental
+211,Dental Practice,"145 Navan Road, Dublin 7",Navan Road,Dublin,312627.376,236321.652,Dental
+212,Dental Practice,"10 Main Street, Finglas, Dublin 11",Main Street,Dublin,313303.481,238992.178,Dental
+213,Dental Practice,"4A Main Street, Finglas, Dublin 11",Main Street,Dublin,313303.481,238992.178,Dental
+214,Dental Practice,"329 Blanchardstown Centre, Blanchardstown, Dublin 15", Blanchardstown,Dublin,307143.997,239276.016,Dental
+215,Dental Practice,"210 Briarwood Lawn, Mulhuddart, Dublin 15",Briarwood Lawn,Dublin,306229.842,240014.67,Dental
+216,Dental Practice,"28 Fair Street, Drogheda, Co. Louth", Fair Street,Louth,308623.661,275313.027,Dental
+217,Dental Practice,"41 Fair Street, Drogheda, Co. Louth", Fair Street,Louth,308561.254,275354.24,Dental
+218,Dental Practice,"25 Anne Street, Dundalk, Co. Louth",Anne Street,Louth,304481.362,306891.842,Dental
+219,Dental Practice,"24 Jocelyn Street, Dundalk, Co. Louth",Jocelyn Street,Louth,305266.938,307392.656,Dental
+220,Dental Practice,"7 Roden Place, Dundalk, Co. Louth", Roden Place,Louth,305040.094,307341.531,Dental
+221,Dental Practice,"39 Dublin Street, Dundalk, Co. Louth", Dublin Street,Louth,304575.237,306721.693,Dental
+222,Dental Practice,"2 Castle Park, Ashbourne, Co. Meath",Castle Park,Meath,306318.938,252027.016,Dental
+223,Dental Practice,"24 Danieli Drive, Artane, Dublin 5", Danieli Drive,Dublin,319448.725,238333.369,Dental
+224,Dental Practice,"6 Chapel Street, Balbriggan, Co. Dublin",Chapel Street,Dublin,320018.728,263816.405,Dental
+225,Dental Practice,"Fingal House, Balbriggan, Co. Dublin",Fingal House,Dublin,319791.313,263188.156,Dental
+226,Dental Practice,"3 Ross Terrace, New Street, Malahide, Co. Dublin", New Street,Dublin,322712.007,246168.001,Dental
+227,Dental Practice,"31 Church Street, Skerries, Co. Dublin",Church Street,Dublin,325468.6,260278.6,Dental
+228,Dental Practice,"21 William Street, Kilkenny City, Co. Kilkenny",William Street,Kilkenny,250536.419,155815.385,Dental
+229,Dental Practice,"30 St Patricks Avenue, Staplestown Road, Carlow Town, Co. Carlow", Staplestown Road,Carlow,272960.988,176633.868,Dental
+230,Dental Practice,"83 Tullow Street, Carlow Town, Co. Carlow",Tullow Street,Carlow,272428.314,176643.072,Dental
+231,Dental Practice,"119 Tullow Street, Carlow Town, Co. Carlow", Tullow Street,Carlow,272232.219,176640.281,Dental
+232,Dental Practice,"1 Meadow Park Drive, Ballyvolane, Co. Cork",Meadow Park Drive,Cork,169149.646,74027.478,Dental
+233,Dental Practice,"8 Market Street, Bandon, Co. Cork",Market Street,Cork,149101.756,54852.73,Dental
+234,Dental Practice,"Nostra, Curraheen Road, Bishopstown, Co. Cork",Curraheen Road,Cork,164243.841,69736.569,Dental
+235,Dental Practice,"14 Church Hill, Carrigaline, Co. Cork",Church Hill,Cork,172972.859,62125.484,Dental
+236,Dental Practice,"3 Tawnie's Mews, Clonakilty, Co. Cork",Tawnie's Mews,Cork,138112.4,41535.5,Dental
+237,Dental Practice,"1 Clover Lawn, Skehard Road, Cork City", Skehard Road,Cork,171135.133,70691.686,Dental
+238,Dental Practice,"5 Tramway Terrace, Douglas, Cork", Douglas,Cork,170090.267,69406.476,Dental
+239,Dental Practice,"Barnavara Hill, Poulacurry, Glanmire, Cork",Barnavara Hill,Cork,172154.938,74723.141,Dental
+240,Dental Practice,"18 Beecher Street, Mallow, Co. Cork", Beecher Street,Cork,155451.492,99008.519,Dental
+241,Dental Practice,"1B Rosecourt, Mallow, Co. Cork", Mallow,Cork,156134.605,98469.511,Dental
+242,Dental Practice,"91 Main Street, Midleton, Co. Cork", Main Street,Cork,188104.406,73601.177,Dental
+243,Dental Practice,"50 Lower Cork Street, Mitchelstown, Co. Cork", Lower Cork Street,Cork,181604.285,112890.844,Dental
+244,Dental Practice,"3 Market Street, Skibbereen, Co. Cork",Market Street,Cork,112268.02,33569.639,Dental
+245,Dental Practice,"76 North Street, Skibbereen, Co. Cork", North Street,Cork,112358.622,33917.25,Dental
+246,Dental Practice,"109 North Main Street, Youghal, Co. Cork", North Main Street,Cork,210499.181,77928.688,Dental
+247,Dental Practice,"29 Limerick Road, Castleisland, Co. Kerry",Limerick Road,Kerry,100275.25,110064.359,Dental
+248,Dental Practice,"2 Coffey's Row, Kenmare, Co. Kerry", Kenmare,Kerry,90911.789,70812.383,Dental
+249,Dental Practice,"35 New Street, Killarney, Co. Kerry",New Street,Kerry,96220.924,90659.105,Dental
+250,Dental Practice,"4 St Anthony's Place, Killarney, Co. Kerry",St Anthony's Place,Kerry,96712.037,90651.988,Dental
+251,Dental Practice,"4 Courthouse Road, Listowel, Co. Kerry",Courthouse Road,Kerry,99252.826,133950.079,Dental
+252,Dental Practice,"7 Church Street, Milltown, Co. Kerry",Church Street,Kerry,82577.074,100516.878,Dental
+253,Dental Practice,"25 Pembroke Street, Tralee, Co. Kerry",Pembroke Street,Kerry,83329.926,114680.212,Dental
+254,Dental Practice,"20 Milk Market Lane, Tralee, Co. Kerry",Milk Market Lane,Kerry,83564.665,114466.206,Dental
+255,Dental Practice,"2 Day Place, Tralee, Co. Kerry", Tralee,Kerry,83387.394,114338.672,Dental
+256,Dental Practice,"9 Sarsfield Street, Clonmel, Co. Tipperary",Sarsfield Street,Tipperary,220409.976,122313.321,Dental
+257,Dental Practice,"2 O' Rahilly Street, Nenagh, Co. Tipperary",O' Rahilly Street,Tipperary,186617.549,179398.991,Dental
+258,Dental Practice,"52 Elm Park, Tramore, Co. Waterford", Tramore,Waterford,257191.75,101434.758,Dental
+259,Dental Practice,"9 Durands Court, Parnell Street, Waterford City, Co. Waterford",Durands Court,Waterford,260894.441,112214.113,Dental
+260,Dental Practice,"Ardkeen Shopping Centre, Dunmore Road, Waterford City, Co. Waterford",Ardkeen Shopping Centre,Waterford,262739.875,110848.234,Dental
+261,Dental Practice,"38 Barronstrand Street, Waterford City, Co. Waterford",Barronstrand Street,Waterford,260713.425,112502.645,Dental
+262,Dental Practice,"31 Barronstrand Street, Waterford City, Co. Waterford",Barronstrand Street,Waterford,260708.717,112451.015,Dental
+263,Dental Practice,"3 Parnell Road, Enniscorthy, Co. Wexford",Parnell Road,Wexford,297129.25,139501.75,Dental
+264,Dental Practice,"Woodquay, Parnell Street, Ennis, Co. Clare", Parnell Street,Clare,133615.781,177427.016,Dental
+265,Dental Practice,"16 Merchant's Square, Ennis, Co. Clare", Merchant's Square,Clare,133714.594,177344.531,Dental
+266,Dental Practice,"4 Bank Place, Ennis, Co. Clare", Ennis,Clare,133699.865,177561.424,Dental
+267,Dental Practice,"64 O'Connell Street, Ennis, Co. Clare",O'Connell Street,Clare,133763.041,177159.614,Dental
+268,Dental Practice,"17 Fergus Road, Shannon, Co. Clare",Fergus Road,Clare,139601.363,161524.097,Dental
+269,Dental Practice,"24 Upper Main Street, Letterkenny, Co. Donegal",Upper Main Street,Donegal,216881.406,411451.969,Dental
+270,Dental Practice,"1 Quinlan Street, Limerick City, Co. Limerick",Quinlan Street,Limerick,157280.23,156488.046,Dental
+271,Dental Practice,"9 Pery Square, Limerick City, Co. Limerick",Pery Square,Limerick,157470.899,156539.507,Dental
+272,Dental Practice,"18 Barrington Street, Limerick City, Co. Limerick",Barrington Street,Limerick,157356.595,156460.45,Dental
+273,Dental Practice,"13 Upper Mallow Street, Limerick City, Co. Limerick",Upper Mallow Street,Limerick,157504.022,156636.318,Dental
+274,Dental Practice,"17 Ellen Street, Limerick City, Co. Limerick",Ellen Street,Limerick,157779.611,157213.685,Dental
+275,Dental Practice,"2 Bury Street, Ballina, Co. Mayo", Bury Street,Mayo,124395.664,318819.406,Dental
+276,Dental Practice,"Marymead, Knock Road, Claremorris, Co. Mayo",Marymead,Mayo,134394.594,275605.125,Dental
+277,Dental Practice,"11 Cois Abhainn, Ballinrobe Road, Westport, Co. Mayo", Ballinrobe Road,Mayo,100817.664,283846.781,Dental
+278,Dental Practice,"19 South Mall, Westport, Co. Mayo", Westport,Mayo,99923.337,284366.282,Dental
+279,Dental Practice,"The Mall, Westport, Co. Mayo",The Mall,Mayo,99821.844,284525.438,Dental
+280,Dental Practice,"Main Street, Celbridge, Co. Kildare",Main Street,Kildare,297471.161,233232.38,Dental
+281,Dental Practice,"South Main Street, Naas, Co. Kildare",South Main Street,Kildare,289267.772,219340.858,Dental
+282,Dental Practice,"Claregate Street, Kildare Town, Co. Kildare",Claregate Street,Kildare,272850.292,212348.149,Dental
+283,Dental Practice,"Fairgreen Court, Kildare Town, Co. Kildare",Fairgreen Court,Kildare,272974.938,212666.406,Dental
+284,Dental Practice,"Tara Court, Dublin Road, Naas, Co. Kildare",Tara Court,Kildare,289835.906,219813.504,Dental
+285,Dental Practice,"Moorefield Medical Centre, Newbridge, Co. Kildare", Newbridge,Kildare,279972.448,214621.747,Dental
+286,Dental Practice,"Main Street, Arklow, Co. Wicklow",Main Street,Wicklow,324494.036,173461.716,Dental
+287,Dental Practice,"Market Square House, Main Street, Aughrim, Co. Wicklow", Main Street,Wicklow,312580.938,179514.313,Dental
+288,Dental Practice,"44 Upper Drumcondra Road, Dublin 9",Upper Drumcondra Road,Dublin,316279.259,236946.955,Dental
+289,Dental Practice,"Church Street, Wicklow, Co. Wicklow",Church Street,Wicklow,331444.606,194114.598,Dental
+290,Dental Practice,"Trafalgar House, Trafalgar Road, Greystones, Co. Wicklow", Trafalgar Road,Wicklow,329499.938,212668.699,Dental
+291,Dental Practice,"Bow Lane, Greystones, Co. Wicklow",Bow Lane,Wicklow,329702.285,212216.157,Dental
+292,Dental Practice,"Meadow Court, Main Street, Kilcullen, Co. Kildare", Main Street,Kildare,284068.396,209665.997,Dental
+293,Dental Practice,"Blessington Dental, Blessington, Co. Wicklow",Blessington Dental,Wicklow,298159.531,214233.391,Dental
+294,Dental Practice,"Moorefield Terrace, Newbridge, Co. Kildare",Moorefield Terrace,Kildare,280252.495,214894.66,Dental
+295,Dental Practice,"13 Quinsboro Road, Bray, Co. Wicklow",Quinsboro Road,Wicklow,326520.607,218752.893,Dental
+296,Dental Practice,"Sandymount Village Centre, Sandymount Road, Dublin 4", Sandymount Road,Dublin,318903.103,232818.39,Dental
+297,Dental Practice,"72 Ranelagh, Dublin 6", Ranelagh,Dublin,316432.707,231907.895,Dental
+298,Dental Practice,"8 INNS COURT, WINETAVERN STREET, DUBLIN 8", WINETAVERN STREET,Dublin,315121.3516,233995.2711,Dental
+299,Dental Practice,"Heuston South Quarter, St Johns Road, Dublin 8", St Johns Road,Dublin,313454.3,234084.8,Dental
+300,Dental Practice,"Whitehall Road West, Dublin 12, Dublin",Whitehall Road West,Dublin,311983.396,229997.758,Dental
+301,Dental Practice,"144 Sundrive Road, Dublin 2, Dublin", Sundrive Road,Dublin,313566.559,231809.617,Dental
+302,Dental Practice,"Balally Lodge, Sandyford Road, Dublin 16", Sandyford Road,Dublin,318015.206,226723.435,Dental
+303,Dental Practice,"18 Pembroke Cottages, Dundrum, Dublin 14", Dundrum,Dublin,317183.752,227991.545,Dental
+304,Dental Practice,"1 Tower Road, Dublin 22",Tower Road,Dublin,306968.253,231229.565,Dental
+305,Dental Practice,"42 Heather View Close, Dublin 24",Heather View Close,Dublin,308900.446,226283.609,Dental
+306,Dental Practice,"Church Road, Ballybrack, Co. Dublin",Church Road,Dublin,325225.335,224204.464,Dental
+307,Dental Practice,"La Verna, 9 Clonkeen Road, Blackrock, Co. Dublin",Clonkeen Road,Dublin,322540.262,226772.015,Dental
+308,Dental Practice,"6 Main Street, Blackrock, Co. Dublin",Main Street,Dublin,321524.082,229469.334,Dental
+309,Dental Practice,"1 Auburn Drive, Castleknock, Dublin 15", Castleknock,Dublin,309296.031,237693.938,Dental
+310,Dental Practice,"4 St Laurence Street, Drogheda, Co. Louth",St Laurence Street,Louth,308980.662,275180.956,Dental
+311,Dental Practice,"6 Anne Street, Dundalk, Co. Louth",Anne Street,Louth,304443.875,306862.469,Dental
+312,Dental Practice,"7 Canon Row, Navan, Co. Meath", Navan,Meath,286727.623,267746.099,Dental
+313,Dental Practice,"Barrack Street, Oldcastle, Co. Meath",Barrack Street,Meath,255294.484,280323.531,Dental
+314,Dental Practice,"407 Howth Road, Dublin 5",Howth Road,Dublin,321333.529,238146.201,Dental
+315,Dental Practice,"Whitestown Road, Rush, Co. Dublin",Whitestown Road,Dublin,325854.031,254096.703,Dental
+316,Dental Practice,"13B The Square, Castlecomer, Co. Kilkenny",The Square,Kilkenny,253446.891,172954.594,Dental
+317,Dental Practice,"4 Leinster Crescent, Old Dublin Road, Co. Carlow", Old Dublin Road,Carlow,272409.435,177154.153,Dental
+318,Dental Practice,"Unit 1A, Barr na Sraide, Main Street, Ballincollig, Co. Cork", Main Street,Cork,159601.984,70715.086,Dental
+319,Dental Practice,"Maryland, Hawkes Road, Bishopstown, Co. Cork", Hawkes Road,Cork,164011.32,69589.9,Dental
+320,Dental Practice,"Shournagh Valley Med. Centre, Tower, Blarney, Co. Cork", Blarney,Cork,158187.125,74981.086,Dental
+321,Dental Practice,"The Square, Blarney, Co. Cork", Blarney,Cork,160923.328,75734.422,Dental
+322,Dental Practice,"Unit 2, Owenabue Mall, Carrigaline, Co. Cork", Carrigaline,Cork,173008.641,62392.953,Dental
+323,Dental Practice,"Old Waterpark, Carrigaline, Co. Cork", Carrigaline,Cork,173122.64,62505.527,Dental
+324,Dental Practice,"Carrigleigh, Kilmoney Road, Carrigaline, Co. Cork", Kilmoney Road,Cork,172905.262,62171.268,Dental
+325,Dental Practice,"Bank Place, Castletownbere, Co. Cork",Bank Place,Cork,67652.336,45876.488,Dental
+326,Dental Practice,"Harte's Courtyard, Clonakilty, Co. Cork", Clonakilty,Cork,138589.25,41351.055,Dental
+327,Dental Practice,"17 Rahilly Street, Cobh, Co. Cork",Rahilly Street,Cork,179780,66486.375,Dental
+328,Dental Practice,"82 Grand Parade, Cork", Grand Parade,Cork,167301.396,71822.314,Dental
+329,Dental Practice,"6 Camden Place, Cork",Camden Place,Cork,167641.047,72156.672,Dental
+330,Dental Practice,"Belvedere Dental Care, Belvedere Court, Douglas Road, Cork", Douglas Road,Cork,169537.785,69899.881,Dental
+331,Dental Practice,"8 Kinsale Cottages, Evergreen Road, Cork", Evergreen Road,Cork,167821.906,70719.745,Dental
+332,Dental Practice,"Hillview Lodge, 93 Ballyhooly Road, Cork", Ballyhooly Road,Cork,168529.311,72681.491,Dental
+333,Dental Practice,"76 Saint Patrick's Hill, Cork", Saint Patrick's Hill,Cork,167402.329,71858.302,Dental
+334,Dental Practice,"Aspen, Glasheen Road, Cork", Glasheen Road,Cork,165890.405,70615.221,Dental
+335,Dental Practice,"12a St Patricks Place, Cork",St Patricks Place,Cork,167719.582,72270.141,Dental
+336,Dental Practice,"24 Marlboro Street, Cork",Marlboro Street,Cork,167531.531,71679.094,Dental
+337,Dental Practice,"Unit 4, Reeds Court, Barracks Street, Cork", Barracks Street,Cork,167184.781,71354.43,Dental
+338,Dental Practice,"Sackville Street, Dunmanway, Co. Cork",Sackville Street,Cork,123475.826,52676.272,Dental
+339,Dental Practice,"The Square, Millstreet, Co. Cork", Millstreet,Cork,127377.565,90293.123,Dental
+340,Dental Practice,"New Street, Newmarket, Co. Cork",New Street,Cork,131614.85,107365.166,Dental
+341,Dental Practice,"4 Chapel Square, Passage West, Co. Cork",Chapel Square,Cork,176893.07,68768.573,Dental
+342,Dental Practice,"72 North Street, Skibbereen, Co. Cork",North Street,Cork,112340.374,33884.541,Dental
+343,Dental Practice,"1 Friar Street, Youghal, Co. Cork",Friar Street,Cork,210757.333,77480.146,Dental
+344,Dental Practice,"The Square, Kenmare, Co. Kerry",The Square,Kerry,90918.875,70917.789,Dental
+345,Dental Practice,"Lisanearla, Abbeydorney, Co. Kerry",Lisanearla,Kerry,86652.633,119040.313,Dental
+346,Dental Practice,"31 The Mall, Tralee, Co. Kerry", Tralee,Kerry,83581.506,114432.64,Dental
+347,Dental Practice,"Main Street, Carrick-on-Suir, Co. Tipperary",Main Street,Tipperary,240106.135,121682.222,Dental
+348,Dental Practice,"New Street, Carrick-on-Suir, Co. Tipperary",New Street,Tipperary,240250.656,121641.516,Dental
+349,Dental Practice,"Main Street, Cashel, Co. Tipperary",Main Street,Tipperary,207547.298,140495.707,Dental
+350,Dental Practice,"Emmet Street, Clonmel, Co. Tipperary",Emmet Street,Tipperary,220482.632,122577.155,Dental
+351,Dental Practice,"The Gables, Old Waterford Road, Clonmel, Co. Tipperary", Old Waterford Road,Tipperary,220932.672,122303.423,Dental
+352,Dental Practice,"Tower House, New Quay, Clonmel, Co. Tipperary",Tower House,Tipperary,220514.165,122285.271,Dental
+353,Dental Practice,"Mary Street, Clonmel, Co. Tipperary",Mary Street,Tipperary,220183.862,122415.125,Dental
+354,Dental Practice,"1 Wesley Place, Ashe Road, Nenagh, Co. Tipperary", Ashe Road,Tipperary,186258.672,179239.641,Dental
+355,Dental Practice,"Saint Flannan Street, Nenagh, Co. Tipperary",Saint Flannan Street,Tipperary,186664.15,179567.547,Dental
+356,Dental Practice,"Main Street, Roscrea, Co. Tipperary",Main Street,Tipperary,213543.915,189477.966,Dental
+357,Dental Practice,"Nationwide House, Castle Street, Roscrea, Co. Tipperary", Castle Street,Tipperary,213607.92,189373.186,Dental
+358,Dental Practice,"Bank Street, Templemore, Co. Tipperary",Bank Street,Tipperary,211297.359,171655.828,Dental
+359,Dental Practice,"Cathedral Street, Thurles, Co. Tipperary",Cathedral Street,Tipperary,212957.749,158662.671,Dental
+360,Dental Practice,"Liberty Square, Thurles, Co. Tipperary",Liberty Square,Tipperary,212847.785,158643.004,Dental
+361,Dental Practice,"61 Saint Michael's Street, Tipperary Town",Saint Michael's Street,Tipperary,189210.855,135867.844,Dental
+362,Dental Practice,"1 Saint James Court, James Street, Tipperary Town", James Street,Tipperary,188965.47,135813.35,Dental
+363,Dental Practice,"13 Mitchell Street, Dungarvan, Co. Waterford",Mitchell Street,Waterford,225914.945,92925.925,Dental
+364,Dental Practice,"Grattan Square, Dungarvan, Co. Waterford",Grattan Square,Waterford,226072.876,93129.786,Dental
+365,Dental Practice,"Main Street, Lismore, Co. Waterford",Main Street,Waterford,204757.418,98377.208,Dental
+366,Dental Practice,"2 Queen Street, Tramore, Co. Waterford", Queen Street,Waterford,258208.472,101446.765,Dental
+367,Dental Practice,"1A Waterside, Waterford", Waterford,Waterford,260982.142,112039.852,Dental
+368,Dental Practice,"29 Ballybricken, Waterford", Waterford,Waterford,260246.564,112298.509,Dental
+369,Dental Practice,"14 Crescent Mall, Wexford", Wexford,Wexford,305002.237,121687.927,Dental
+370,Dental Practice,"Redmond Square, Wexford", Wexford,Wexford,304613.109,122369.833,Dental
+371,Dental Practice,"10 Bride Place, Wexford", Wexford,Wexford,304853.499,121402.426,Dental
+372,Dental Practice,"22 O'Connell Street, Ennis, Co. Clare", O'Connell Street,Clare,133837.01,177377.546,Dental
+373,Dental Practice,"Toler Street, Kilrush, Co. Clare",Toler Street,Clare,99356.889,155050.482,Dental
+374,Dental Practice,"Garna House, Sixmilebridge, Co. Clare", Sixmilebridge,Clare,147808.672,165917.531,Dental
+375,Dental Practice,"9 Gaelic Park Drive, Bundoran, Co. Donegal", Bundoran,Donegal,181821.656,358396.969,Dental
+376,Dental Practice,"Upper Main Street, Donegal", Donegal,Donegal,193494.633,378492.705,Dental
+377,Dental Practice,"New Line Road, Letterkenny, Co. Donegal",New Line Road,Donegal,216591.878,411846.82,Dental
+378,Dental Practice,"Dublin Road, Castletroy, Co. Limerick",Dublin Road,Limerick,161155.676,157362.236,Dental
+379,Dental Practice,"5 Whitehorns, Church Road, Raheen, Limerick",Whitehorns,Limerick,154864,153548.563,Dental
+380,Dental Practice,"9 Silverbirch Grove, Dooradoyle, Limerick",Silverbirch Grove,Limerick,156260.964,154266.555,Dental
+381,Dental Practice,"Unit 3 Retail Park, Kilmallock, Co. Limerick", Kilmallock,Limerick,161041.5,127674.813,Dental
+382,Dental Practice,"3 Crescent Villas, Limerick",Crescent Villas,Limerick,157219.897,156442.974,Dental
+383,Dental Practice,"81 O'Connell Street, Limerick",O'Connell Street,Limerick,157344.016,156674.5,Dental
+384,Dental Practice,"6 The Crescent, Limerick",The Crescent,Limerick,157319.253,156548.663,Dental
+385,Dental Practice,"117 O'Connell Street, Limerick", O'Connell Street,Limerick,157546.714,156991.295,Dental
+386,Dental Practice,"119 O'Connell Street, Limerick", O'Connell Street,Limerick,157556.458,157003.32,Dental
+387,Dental Practice,"Rosewood, Ennis Road, Limerick", Ennis Road,Limerick,155315.625,157942.156,Dental
+388,Dental Practice,"4 Pery Square, Limerick",Pery Square,Limerick,157434.016,156497.369,Dental
+389,Dental Practice,"An Dun, Church Road, Raheen, Co. Limerick", Church Road,Limerick,155442.203,153205.563,Dental
+390,Dental Practice,"Teeling Street, Ballina, Co. Mayo",Teeling Street,Mayo,124251.828,319000.406,Dental
+391,Dental Practice,"Dillon Terrace, Ballina, Co. Mayo",Dillon Terrace,Mayo,124780.85,319083.458,Dental
+392,Dental Practice,"Knox Street, Ballyhaunis, Co. Mayo",Knox Street,Mayo,149588.937,279638.305,Dental
+393,Dental Practice,"Market Square, Castlebar, Co. Mayo",Market Square,Mayo,114473.568,290451.859,Dental
+394,Dental Practice,"1 Davitt's Terrace, Castlebar, Co. Mayo", Davitt's Terrace,Mayo,114679.405,291048.545,Dental
+395,Dental Practice,"Ellison Street, Castlebar, Co. Mayo",Ellison Street,Mayo,114498.624,290297.492,Dental
+396,Dental Practice,"Dalton Street, Claremorris, Co. Mayo",Dalton Street,Mayo,134164.531,275101.375,Dental
+397,Dental Practice,"Elphin Street, Boyle, Co. Roscommon",Elphin Street,Roscommon,180194.763,302294.26,Dental
+398,Dental Practice,"Knockroe, Castlerea, Co. Roscommon",Knockroe,Roscommon,168343.583,279281.054,Dental
+399,Dental Practice,"Lanesboro Street, Roscommon",Lanesboro Street,Roscommon,187568.676,264698.433,Dental
+400,Dental Practice,"1 Wine Street, Sligo",Wine Street,Sligo,168794.604,336054.277,Dental
+401,Dental Practice,"3 Wine Street, Sligo",Wine Street,Sligo,168881.578,336034.094,Dental
+402,Dental Practice,"3 Creagh Road, Ballinasloe, Co. Galway",Creagh Road,Galway,186442.641,231584.75,Dental
+403,Dental Practice,"9 Society Street, Ballinasloe, Co. Galway",Society Street,Galway,185177.827,231151.058,Dental
+404,Dental Practice,"47 Lower Newcastle, Galway City, Co. Galway", Lower Newcastle,Galway,129105.643,226077.506,Dental
+405,Dental Practice,"Old Church Street, Athenry, Co. Galway",Old Church Street,Galway,150195.274,227839.858,Dental
+406,Dental Practice,"Foster Court, Galway",Foster Court,Galway,130252.622,225580.129,Dental
+407,Dental Practice,"Laurence House, Merchants Road, Galway", Merchants Road,Galway,129817.934,224969.656,Dental
+408,Dental Practice,"6 St Francis Street, Galway",St Francis Street,Galway,129762.291,225492.107,Dental
+409,Dental Practice,"Steamship House, Dock Street, Galway",Steamship House,Galway,129843.523,224851.281,Dental
+410,Dental Practice,"8 Bridge Street, Galway", Bridge Street,Galway,129665.205,225093.37,Dental
+411,Dental Practice,"7 St Francis Street, Galway",St Francis Street,Galway,129759.558,225501.674,Dental
+412,Dental Practice,"27 Lower Abbeygate Street, Galway",Lower Abbeygate Street,Galway,129904.651,225184.423,Dental
+413,Dental Practice,"35 Forster Street, Galway", Forster Street,Galway,130232.273,225471.899,Dental
+414,Dental Practice,"14 Eglington Street, Galway", Eglington Street,Galway,129885.521,225380.707,Dental
+415,Dental Practice,"Abbey Street, Loughrea, Co. Galway",Abbey Street,Galway,161892.574,216677.906,Dental
+416,Dental Practice,"Dominic Street, Portumna, Co. Galway",Dominic Street,Galway,185469.891,204500.563,Dental
+417,Dental Practice,"Main Street, Celbridge, Co. Kildare",Main Street,Kildare,297218.75,232883.874,Dental
+418,Dental Practice,"Raheen, Baltinglass, Co. Wicklow",Raheen,Wicklow,286804.813,189850.547,Dental
+419,Dental Practice,"1 Drogheda Mall, Main Street, Dublin 11", Main Street,Dublin,313189.559,239059,Dental
+420,Dental Practice,"6 St Patricks Terrace, Douglas West, Douglas, Cork", Douglas ,Cork,169706.722,69434.033,Dental
+421,Dental Practice,"Westgate 2, Clonmel, Co. Tipperary", Clonmel,Tipperary,220090.668,122299.756,Dental
+422,Dental Practice,"283 Ballyfermot Road, Dublin 10", Ballyfermot Road,Dublin,309760.3682,233653.6589,Dental
+424,Dental Practice,"49 Main Street, Dublin 14", Main Street,Dublin,314378.53,228970.965,Dental
+425,Dental Practice,"74 Lower Churchtown Road, Dublin 14",Lower Churchtown Road,Dublin,316614.584,229204.797,Dental
+426,Dental Practice,"Bellavista, 125 Upper Churchtown Road, Dublin 14", Upper Churchtown Road,Dublin,316318.421,228632.915,Dental
+427,Dental Practice,"15 Ballyroan Road, Dublin 16", Ballyroan Road,Dublin,312855.477,228261.058,Dental
+432,Dental Practice,"60 Newtownpark Avenue, Blackrock, Co. Dublin", Newtownpark Avenue,Dublin,321994.713,228299.567,Dental
+433,Dental Practice,"11 Proby Square, Blackrock, Co. Dublin", Blackrock,Dublin,321433.308,228443.971,Dental
+434,Dental Practice,"115 Rock Road, Booterstown, Blackrock, Co. Dublin", Rock Road,Dublin,320279.827,230198.262,Dental
+435,Dental Practice,"The Lodge, Meadowvale, Blackrock, Co. Dublin", Meadowvale,Dublin,322893.953,225977.88,Dental
+436,Dental Practice,"6 Maretimo Gardens West, Blackrock, Co. Dublin", Maretimo Gardens West,Dublin,321833.69,229301.84,Dental
+437,Dental Practice,"24 Clonkeen Road, Blackrock, Co. Dublin",Clonkeen Road,Dublin,322596.835,226769.689,Dental
+438,Dental Practice,"23 Castle Street, Dalkey, Co. Dublin", Castle Street,Dublin,326520.2,226878.563,Dental
+439,Dental Practice,"31 Ulverton Road, Dalkey, Co. Dublin", Ulverton Road,Dublin,326286.7,227180.324,Dental
+440,Dental Practice,"19 Summerhill Road, Glasthule, Dun Laoghaire, Co. Dublin", Summerhill Road,Dublin,325030.732,228032.799,Dental
+441,Dental Practice,"235 Rochestown Avenue, Dun Laoghaire, Co. Dublin", Rochestown Avenue,Dublin,324373.162,225724.728,Dental
+442,Dental Practice,"112 Churchview, Killiney, Co. Dublin", Killiney,Dublin,324357.923,224723.454,Dental
+443,Dental Practice,"Elm Lodge, Monkstown Road, Monkstown, Co. Dublin", Monkstown Road,Dublin,323017.416,228594.056,Dental
+444,Dental Practice,"Carne, 10 Pakenham Road, Monkstown, Co. Dublin",Pakenham Road,Dublin,323350.14,228434.58,Dental
+447,Dental Practice,"7 Friary Court, Friary Road, Naas, Co. Kildare", Friary Road,Kildare,289528.531,219536.969,Dental
+448,Dental Practice,"28 Main Street, Arklow, Co. Wicklow",Main Street,Wicklow,324597.608,173456.082,Dental
+449,Dental Practice,"5 Central Park, Bishopsgate Street, Mullingar, Co. Westmeath", Bishopsgate Street,Westmeath,243685.443,253187.011,Dental
+450,Dental Practice,"3 Church Street, Longford, Co. Longford",Church Street,Longford,225882.516,271968.25,Dental
+451,Dental Practice,"43 Parliament Street, Kilkenny City, Co. Kilkenny", Parliament Street,Kilkenny,250510.806,156132.237,Dental
+452,Dental Practice,"5 North Main Street, Bandon, Co. Cork", North Main Street,Cork,149202.286,55108.187,Dental
+453,Dental Practice,"54 Pearse Street, Clonakilty, Co. Cork", Pearse Street,Cork,138475.891,41466.965,Dental
+454,Dental Practice,"1 Midleton Street, Cobh, Co. Cork",Midleton Street,Cork,179715.676,66709.373,Dental
+455,Dental Practice,"5 Casement Square, Cobh, Co. Cork",Casement Square,Cork,179693.688,66450.012,Dental
+456,Dental Practice,"385 Blarney Street, Cork City",Blarney Street,Cork,166984.85,72284.958,Dental
+457,Dental Practice,"26 Byfield Villas, Old Youghal Road, Mayfield, Cork City", Old Youghal Road,Cork,170175.924,73483.14,Dental
+458,Dental Practice,"Wrightville, Douglas Road, Cork City", Douglas Road,Cork,168631.531,70662.638,Dental
+459,Dental Practice,"28 Douglas West, Douglas, Co. Cork", Douglas,Cork,169752.146,69259.72,Dental
+460,Dental Practice,"3 Old Court, Riverstown, Glanmire, Co. Cork",Old Court,Cork,173174.5,75153,Dental
+461,Dental Practice,"12 Deal Yard Lane, Mallow, Co. Cork", Deal Yard Lane,Cork,155773.901,98508.263,Dental
+462,Dental Practice,"4 Oliver Plunkett Place, Midleton, Co. Cork", Midleton,Cork,188139.356,73784.082,Dental
+463,Dental Practice,"10 Broderick Street, Coolbawn, Midleton, Co. Cork",Broderick Street,Cork,188208.373,73359.57,Dental
+464,Dental Practice,"Padua, Hawthorn Drive, Castleredmond, Midleton, Co. Cork", Midleton,Cork,189066.203,72751.836,Dental
+465,Dental Practice,"37 The Square, Listowel, Co. Kerry", The Square,Kerry,98958.143,133655.842,Dental
+466,Dental Practice,"3 Charlotte Row, Gorey, Co. Wexford", Gorey,Wexford,315146.844,159469.297,Dental
+467,Dental Practice,"Unit 3 Abbey House, Shannon Town Centre, Shannon, Co. Clare",Unit 3 Abbey House,Clare,140513.078,162301.156,Dental
+468,Dental Practice,"2 Church Street, Buncrana, Co. Donegal",Church Street,Donegal,234771.652,432077.863,Dental
+469,Dental Practice,"20 Port Road, Letterkenny, Co. Donegal",Port Road,Donegal,217105.975,411708.906,Dental
+470,Dental Practice,"3 Oak Park, Gortboy, Newastle West, Co. Limerick", Newastle West,Limerick,161156.908,127227.822,Dental
+471,Dental Practice,"Unit 13, D-Mek Centre, Teeling Street, Ballina, Co. Mayo", Teeling Street,Mayo,124294.93,318924.719,Dental
+472,Dental Practice,"3 Mons Terrace, Breaffy Road, Castlebar, Co. Mayo", Breaffy Road,Mayo,115346.898,289690.219,Dental
+473,Dental Practice,"8 Wine Street, Sligo Town, Co. Sligo.", Wine Street,Sligo,168869.834,336052.827,Dental
+474,Dental Practice,"14A  O'Neill Street, Carrickmacross, Co. Monaghan", O'Neill Street,Monaghan,284193.875,303677.375,Dental
+475,Dental Practice,"58 Clontarf Road, Dublin 3",Clontarf Road,Dublin,318675.447,236171.453,Dental
+476,Dental Practice,"411 Griffith Avenue, Dublin 9",Griffith Avenue,Dublin,315778.221,237823.438,Dental
+477,Dental Practice,"158 Beaumont Road, Beaumont, Dublin 9", Beaumont Road,Dublin,317972.059,238726.847,Dental
+478,Dental Practice,"306 North Circular Road, Dublin 7", North Circular Road,Dublin,314827.186,235815.932,Dental
+479,Dental Practice,"185 Clonsilla Road, Blanchardstown, Dublin 15", Clonsilla Road,Dublin,307091.474,238276.628,Dental
+480,Dental Practice,"21 Bolton Square, Drogheda, Co. Louth", Drogheda,Louth,308730.497,275435.63,Dental
+481,Dental Practice,"8 Roden Place, Dundalk, Co. Louth", Dundalk,Louth,305030.626,307339.98,Dental
+482,Dental Practice,"2 Castle Park, Ashbourne, Co. Meath", Ashbourne,Meath,306318.938,252027.016,Dental
+483,Dental Practice,"4 Howth View Park, Donaghmeade, Dublin 13", Donaghmeade,Dublin,322085.057,239752.614,Dental
+484,Dental Practice,"2 Shenick Road, Skerries, Co. Dublin",Shenick Road,Dublin,325374.991,259556.313,Dental
+485,Dental Practice,"42 Main Street, Swords, Co. Dublin",Main Street,Dublin,318215.625,246742.141,Dental
+486,Dental Practice,"66 Main Street, Swords, Co. Dublin", Main Street,Dublin,318180.982,246635.547,Dental
+488,Dental Practice,"2 Landscape Road, Churchtown, Dublin 14",Landscape Road,Dublin,315502.434,229003.563,Dental
+489,Dental Practice,"56A  Marian Road, Dublin 14", Marian Road,Dublin,313547.478,228249.081,Dental
+490,Dental Practice,"Grange Road, Dublin 14",Grange Road,Dublin,314686.281,228194.609,Dental
+491,Dental Practice,"18 Pembroke Cottages, Dublin 14",Pembroke Cottages,Dublin,317183.752,227991.545,Dental
+492,Dental Practice,"2 New Cornelscourt, Bray Road, Dublin 18", Bray Road,Dublin,322780.311,225464.094,Dental
+493,Dental Practice,"69 Lucan Road, Dublin 20",Lucan Road,Dublin,309812.851,234603.921,Dental
+495,Dental Practice,"42 Heather View Close, Dublin 24", Heather View Close,Dublin,308900.446,226283.609,Dental
+496,Dental Practice,"15 Church Road, Rathcoole, Co. Dublin",Church Road,Dublin,301785.801,226647.257,Dental
+497,Dental Practice,"23 Seapoint Avenue, Blackrock, Co. Dublin",Seapoint Avenue,Dublin,322252.691,229106.77,Dental
+499,Dental Practice,"6 Main Street, Blackrock, Co. Dublin", Main Street,Dublin,321524.082,229469.334,Dental
+500,Dental Practice,"5 Brookfield, Blackrock, Co. Dublin", Brookfield,Dublin,320870.188,229326.828,Dental
+501,Dental Practice,"Stillorgan Shopping Centre, Lower Kilmacud Road, Stillorgan, Co. Dublin", Lower Kilmacud Road,Dublin,320020.912,228043.38,Dental
+502,Dental Practice,"Dun Muire, 7 Maretimos Garden West, Blackrock, Co. Dublin", Blackrock,Dublin,321840.491,229297.7,Dental
+503,Dental Practice,"Blackrock Clinic, Blackrock, Co. Dublin", Blackrock,Dublin,320834.176,229634.997,Dental
+504,Dental Practice,"2 Leixfort Villas, Corrig Avenue, Dun Laoghaire, Co. Dublin", Corrig Avenue,Dublin,324484.329,228048.021,Dental
+506,Dental Practice,"43 Albert Road, Glenageary, Co. Dublin",Albert Road,Dublin,325433.921,227250.512,Dental
+508,Dental Practice,"Marian House, Lower Main Street, Lucan, Co. Dublin", Lower Main Street,Dublin,303412.094,235370.266,Dental
+509,Dental Practice,"2 Finnstown Shopping Centre, Newcastle Road, Lucan, Co. Dublin", Newcastle Road,Dublin,303182.688,233428.828,Dental
+510,Dental Practice,"5 Rathcoole Shopping Centre, Main Street, Rathcoole, Co. Dublin", Main Street,Dublin,302407.944,226765.256,Dental
+512,Dental Practice,"4 The Mall, Main Street, Leixlip, Co. Kildare", Main Street,Kildare,300605.876,235914.928,Dental
+513,Dental Practice,"Ryebank House, Maynooth, Co. Kildare", Maynooth,Kildare,294048.73,237752.444,Dental
+514,Dental Practice,"54 South Main Street, Naas, Co. Kildare",South Main Street,Kildare,289323.929,219375.422,Dental
+515,Dental Practice,"Norlagh House, Dublin Road, Naas, Co. Kildare", Dublin Road,Kildare,289541.755,219640.467,Dental
+516,Dental Practice,"Drewsboro, Kilbelin, Newbridge, Co. Kildare",Drewsboro,Kildare,280931.9,214136.658,Dental
+517,Dental Practice,"Belton House, Castle Street, Bray, Co. Wicklow", Castle Street,Wicklow,326316.67,218930.341,Dental
+518,Dental Practice,"St Georges, Herbert Road, Bray, Co. Wicklow", Herbert Road,Wicklow,326216.214,218698.036,Dental
+519,Dental Practice,"Church Street, Wicklow",Church Street,Wicklow,331444.606,194114.598,Dental
+520,Dental Practice,"Main Street, Abbeyleix, Co. Laois",Main Street,Laois,243815.216,184789.412,Dental
+521,Dental Practice,"Emmett Street, Mountmellick, Co. Laois",Emmett Street,Laois,244904.289,207856.658,Dental
+522,Dental Practice,"Church Street, Portlaoise, Co. Laois",Church Street,Laois,246991.985,198437.112,Dental
+523,Dental Practice,"83 Tullow Street, Carlow", Tullow Street,Carlow,272428.314,176643.072,Dental
+524,Dental Practice,"Patrick Street, Kilkenny",Patrick Street,Kilkenny,250680.617,155614.685,Dental
+525,Dental Practice,"Lime Tree House, Church Hill, Cuffsgrange, Co. Kilkenny",Lime Tree House,Kilkenny,247149.484,150133.344,Dental
+526,Dental Practice,"Kilree street, Muine Bheag, Co. Carlow",Kilree street,Carlow,270534.75,161552.688,Dental
+527,Dental Practice,"Oldtown House, Main Road, Ballincollig, Co. Cork", Main Road,Cork,158856.297,70703.625,Dental
+528,Dental Practice,"Main Street, Ballineen, Co. Cork",Main Street,Cork,134475.625,54085.434,Dental
+529,Dental Practice,"4 The Plaza, City Square, Watercourse Road, Cork", Watercourse Road,Cork,167356.8,72778.9,Dental
+530,Dental Practice,"Main Street, Charleville, Co. Cork",Main Street,Cork,153451.978,122862.487,Dental
+531,Dental Practice,"273 Eagle Valley, Wilton, Cork", Wilton,Cork,164551.031,69093.047,Dental
+532,Dental Practice,"47 Grand Parade, Cork",Grand Parade,Cork,167349.641,71589.558,Dental
+533,Dental Practice,"Millview House, Victoria Cross, Cork",Millview House,Cork,165160.701,71043.189,Dental
+534,Dental Practice,"Trinity House, 7 Georges Quay, Cork",Trinity House,Cork,167629.409,71467.671,Dental
+535,Dental Practice,"46 Sheares Street, Cork",Sheares Street,Cork,167006.867,71839.334,Dental
+536,Dental Practice,"37 South Mall, Cork",South Mall,Cork,167489.968,71605.255,Dental
+537,Dental Practice,"Bishopstown Road, Cork",Bishopstown Road,Cork,164443.916,69737.781,Dental
+538,Dental Practice,"Mahon Shopping Centre, Mahon, Cork", Mahon,Cork,172765.172,70428.422,Dental
+539,Dental Practice,"22 St Patricks Hill, Cork", St Patricks Hill,Cork,167680.7,72247.261,Dental
+540,Dental Practice,"4 Shandon Street, Cork", Shandon Street,Cork,167203.21,72514.003,Dental
+541,Dental Practice,"Woodlawn, Bishopstown Road, Bishopstown, Cork", Bishopstown Road,Cork,164195.801,69587.411,Dental
+542,Dental Practice,"Cooraclare, Blackrock Road, Cork", Blackrock Road,Cork,169760.164,71364.577,Dental
+543,Dental Practice,"119 St Patrick's Street, Cork", St Patrick's Street,Cork,167631.11,72012.497,Dental
+544,Dental Practice,"79A Browningstown Park West, Douglas Road, Cork", Douglas Road,Cork,169532.875,70493.602,Dental
+545,Dental Practice,"East Green, Dunmanway, Co. Cork", Dunmanway,Cork,123143.828,52450.898,Dental
+546,Dental Practice,"Kent Street, Fermoy, Co. Cork",Kent Street,Cork,181318.845,98457.477,Dental
+547,Dental Practice,"Main Street, Innishannon, Co. Cork",Main Street,Cork,154585.844,57093.238,Dental
+548,Dental Practice,"Main Street, Kanturk, Co. Cork",Main Street,Cork,138076.493,103149.702,Dental
+549,Dental Practice,"Market Quay, Kinsale, Co. Cork", Kinsale,Cork,163863.424,50456.678,Dental
+550,Dental Practice,"149 Bank Place, Mallow, Co. Cork", Mallow,Cork,155777.574,98530.669,Dental
+551,Dental Practice,"The Cottage, Togher Road, Cork", Togher Road,Cork,166470.44,70190.333,Dental
+552,Dental Practice,"Farranwilliam, Ardfert, Co. Kerry",Farranwilliam,Kerry,78789.727,120725.203,Dental
+553,Dental Practice,"Market Cross, Castleisland, Co. Kerry",Market Cross,Kerry,99939.8,109727.4,Dental
+554,Dental Practice,"29 Main Street, Dungarvan, Co. Waterford",Main Street,Waterford,226266.259,93025.622,Dental
+555,Dental Practice,"33 Georges Street, Waterford",Georges Street,Waterford,260611.71,112542.046,Dental
+556,Dental Practice,"Catherine's Hall, Catherine's Street, Waterford", Catherine's Street,Waterford,261008.781,112042.568,Dental
+557,Dental Practice,"42 Ballybricken, Waterford", Ballybricken,Waterford,260348.122,112322.004,Dental
+558,Dental Practice,"Bridge Corner, The Coach Road, Gorey, Co. Wexford", The Coach Road,Wexford,316018.781,159696.906,Dental
+559,Dental Practice,"2 Upper Rowe Street, Wexford", Upper Rowe Street,Wexford,304805.655,121825.461,Dental
+560,Dental Practice,"Bull Ring, Wexford",Bull Ring,Wexford,304874.938,121980.111,Dental
+561,Dental Practice,"12 Lower George's Street, Wexford", Lower George's Street,Wexford,304713.228,122111.707,Dental
+562,Dental Practice,"Main Street, Ballybofey, Co. Donegal",Main Street,Donegal,214130.45,394664.218,Dental
+563,Dental Practice,"the Diamond, Carndonagh, Co Donegal", Carndonagh,Donegal,247006.672,445177.219,Dental
+564,Dental Practice,"Malin Road, Carndonagh, Co. Donegal",Malin Road,Donegal,247180.203,445664.375,Dental
+565,Dental Practice,"25 Upper Main Street, Letterkenny, Co. Donegal",Upper Main Street,Donegal,216908.305,411447.526,Dental
+566,Dental Practice,"University Court, Castletroy, Co. Limerick", Castletroy,Limerick,161502.3,157431.7,Dental
+567,Dental Practice,"Shannon Street, Limerick",Shannon Street,Limerick,157463.156,157009.391,Dental
+568,Dental Practice,"3 Verona Villas, O'Connell Avenue, Limerick", O'Connell Avenue,Limerick,157093.75,156087.842,Dental
+569,Dental Practice,"Laurelhurst, O'Connell Avenue, Limerick", O'Connell Avenue,Limerick,157147,156220.9,Dental
+571,Dental Practice,"Main Street, Ballinamore, Co. Leitrim",Main Street,Leitrim,213033.473,311503.746,Dental
+572,Dental Practice,"12 College Street, Cavan",College Street,Cavan,241837.405,304594.856,Dental
+573,Dental Practice,"Main Street, Ballybay, Co. Monaghan",Main Street,Monaghan,271754.612,320451.907,Dental
+574,Dental Practice,"108 Dorset Street Lower, Dublin 1",Dorset Street Lower,Dublin,315660.553,235576.281,Dental
+575,Dental Practice,"123 Ballymun Road, Dublin 9",Ballymun Road,Dublin,315449.584,238600.847,Dental
+577,Dental Practice,"Seatown West, Swords, Co. Dublin",Seatown West,Dublin,318541.968,247446.215,Dental
+578,Dental Practice,"Manor House, Church Road, Malahide, Co. Dublin", Church Road,Dublin,322710.25,246005.906,Dental
+579,Dental Practice,"Emmet Place, Ballinasloe, Co. Galway", Ballinasloe,Galway,185069.356,231128.12,Dental
+580,Dental Practice,"12 Walshs Terrace, Woodquay, Galway",Walshs Terrace,Galway,129851.402,225665.578,Dental
+581,Dental Practice,"American House, Eyre Square, Galway", Eyre Square,Galway,130047.766,225497.281,Dental
+582,Dental Practice,"Marina House, 7B Dock road, Galway", Dock road,Galway,129880.425,224931.396,Dental
+583,Dental Practice,"3/4 Royal Court Business Centre, Liosban Industrial Estate, Tuam Road, Galway", Tuam Road,Galway,130830.891,226591.141,Dental
+584,Dental Practice,"Kenny Group House, Cappagh Road, Galway", Cappagh Road,Galway,125014.195,224105.031,Dental
+585,Dental Practice,"Millenium Medical Centre, The Demnse, Mountbellew, Co. Galway", The Demnse,Galway,167317.875,246181.047,Dental
+586,Dental Practice,"Meadowlands, Chapelstown, Co. Carlow", Chapelstown,Carlow,274612.375,177175.297,Dental
+587,Dental Practice,"59 McCurtains Villas, College Road, Cork", College Road,Cork,166520.547,71167.414,Dental
+588,"Dental Practice, Unit 12","Raheny Shopping Centre, Howth Road, Dublin 5", Howth Road,Dublin,321270.909,238204.651,Dental
+589,Dental Suite,"5 Fitzwilliam Terrace, Strand Road, Bray, Co. Wicklow", Strand Road,Wicklow,327050.5876,218714.4799,Dental
+590,Dental Surgery,"6 Lymington Road, Enniscorthy, Co. Wexford", Lymington Road,Wexford,297082.125,139783.063,Dental
+591,Dental Surgery,"Bective Street, Kells, Co. Meath",Bective Street,Meath,273937.125,275358.719,Dental
+592,Dental Surgery,"Market Street, Trim, Co. Meath",Market Street,Meath,280027.8,256797.8,Dental
+593,Dental Surgery,"The Markethall, Church Street, Gort, Co. Galway", Church Street,Galway,144930.625,201702.313,Dental
+594,Dental Surgery,"William Street, Galway",William Street,Galway,129316.353,224898.214,Dental
+595,Dental Surgery,"The Manse, Castle Street, Mullingar, Co. Westmeath", Castle Street,Westmeath,243838.329,253171.22,Dental
+596,Dental Surgery,"7 Castle Terrace, Main Street, Malahide, Co. Dublin", Main Street,Dublin,322572.438,246023.984,Dental
+597,Dental Surgery,"Waterford Road, Kilkenny",Waterford Road,Kilkenny,250808.687,154148.443,Dental
+598,Dental Surgery,"1 Meadow Hill, Headford, Co. Galway",Meadow Hill,Galway,126646.016,246881.625,Dental
+599,Dental Surgery,"Springvale, Sligo", Sligo,Sligo,152698.406,312234.75,Dental
+600,Dental Surgery,"Bective Street, Kells, Co. Meath",Bective Street,Meath,273927.607,275492.344,Dental
+601,Dental Surgery,"College Road, Mountbellew, Co. Galway",College Road,Galway,167062.578,246615.141,Dental
+602,Dental Surgery,"1 Tara Court, Glasheen Road, Cork", Glasheen Road,Cork,165902.568,70540.277,Dental
+603,Dental Surgery,"Carrigduff, Bunclody, Co. Carlow",Carrigduff,Carlow,290728.138,157002.531,Dental
+604,Dental Surgery,"51 Oaklawn, Leixlip, Co. Kildare",Oaklawn,Kildare,299614.546,236115.92,Dental
+605,Dental Surgery,"Bridge Street, Cork",Bridge Street,Cork,167672.78,72191.335,Dental
+606,Dental Surgery,"38 O' Connell Street, Waterford", O' Connell Street,Waterford,260488.635,112595.66,Dental
+607,Dental Surgery,"Summerhill, Tramore, Co. Waterford",Summerhill,Waterford,257729.292,101586.373,Dental
+608,Dental Surgery,"6 Dublin Street, Dundalk, Co. Louth", Dublin Street,Louth,304596.902,306912.008,Dental
+609,Dental Surgery,"Western Road, Clonmel, Co. Tipperary",Western Road,Tipperary,219894.889,122532.966,Dental
+610,Dental Surgery,"61 Main Street, Macroom, Co. Cork",Main Street,Cork,134172.938,72869.789,Dental
+611,Dental Surgery,"Grange Road, Ballina, Co. Tipperary",Grange Road,Tipperary,170554.047,173442.234,Dental
+612,Dental Surgery,"New Market Street, Kells, Co. Meath",New Market Street,Meath,274070.313,275822.656,Dental
+613,Dental Surgery,"Dublin Road, Carrick-on-Shannon, Co. Leitrim",Dublin Road,Leitrim,194118.002,299674.945,Dental
+614,Dental Surgery,"1 Wallaces Avenue, Ballinlough, Cork",Wallaces Avenue,Cork,168788.418,71051.717,Dental
+615,Dental Surgery,"Main Street, Castlerea, Co. Roscommon",Main Street,Roscommon,167874.003,279849.76,Dental
+616,Dental Surgery,"Shankhill Health Centre, Lower Road, Dublin 18", Lower Road,Dublin,325178.833,221581.289,Dental
+617,Dental Surgery,"Main Street, Swinford, Co. Mayo",Main Street,Mayo,137535.123,299887.856,Dental
+618,Dental Surgery,"Deel Medical Centre, Crossmolina, Co. Mayo", Crossmolina,Mayo,113805.797,317640.219,Dental
+619,Dental Surgery,"The Log Cabin, Tawnculawee, Castlebar, Co. Mayo",The Log Cabin,Mayo,113066.344,293012.906,Dental
+620,Dental Surgery,"Beck House, Kilbride Street, Tullamore, Co. Offaly", Kilbride Street,Offaly,233703.035,225254.638,Dental
+621,Dental Surgery,"Quay Street, Belmullet, Co. Mayo",Quay Street,Mayo,70238.969,332365.813,Dental
+622,Dental Surgery,"63 North Strand Road, Dublin 3",North Strand Road,Dublin,317132.458,235696.661,Dental
+623,Dental Surgery,"Main Street, Belmullet, Co. Mayo",Main Street,Mayo,70291.208,332345.849,Dental
+624,Dental Surgery,"Thomas Street, Rathkeale, Co. Limerick",Thomas Street,Limerick,136330.604,141786.724,Dental
+625,Dental Surgery,"Unit S  Northside Shopping Centre, Oscar Traynor Road, Dublin 17", Oscar Traynor Road,Dublin,318885.588,239867.346,Dental
+626,Dental Surgery,"Tredagh, Naas, Co. Kildare",Tredagh,Kildare,289720.71,219538.107,Dental
+627,Dental Surgery,"Ballinalea, Ashford, Co. Wicklow",Ballinalea,Wicklow,327177.406,196718.484,Dental
+628,Dental Surgery,"118 Clonsilla Road, Blanchardstown, Dublin 15", Clonsilla Road,Dublin,307265.688,238319.971,Dental
+629,Dental Surgery,"Earlswell Court, Lower Cross Street, Galway", Lower Cross Street,Galway,129786.208,225028.856,Dental
+630,Dental Surgery,"Riverview House, Weirside, Bandon, Co. Cork",Riverview House,Cork,148889.094,54944.219,Dental
+631,Dental Surgery,"1 Verona Villas, O'Connell Avenue, Limerick", O'Connell Avenue,Limerick,157096.658,156101.978,Dental
+632,Dental Surgery,"1 Glenn Terrace, Glasthule, Co. Dublin", Glasthule,Dublin,325132.14,227970.151,Dental
+633,Dental Surgery,"10 Ballykeefe Estate, Dooradoyle, Limerick", Dooradoyle,Limerick,156073.5,154642.469,Dental
+634,Dental Surgery,"103 Patricks Street, Dun Laoghaire, Co. Dublin", Patricks Street,Dublin,324292.906,228418.453,Dental
+635,Dental Surgery,"Bridge Street, Abbeyfeale, Co. Limerick",Bridge Street,Limerick,111407.707,126431.577,Dental
+636,Dental Surgery,"1 The Dunes, Portmarnock, Co. Dublin", Portmarnock,Dublin,324152.216,243114.84,Dental
+637,Dental Surgery,"31 Lambourn Road, Clonsilla, Dublin 15", Lambourn Road,Dublin,305587.015,238127.832,Dental
+638,Dental Surgery,"Clonmullen Lane, Edenderry, Co. Offaly",Clonmullen Lane,Offaly,263677.781,233775.172,Dental
+639,Dental Surgery,"The Green, Birr, Co. Offaly",The Green,Offaly,205939.809,205064.173,Dental
+640,Dental Surgery,"New Line, Charleville, Co. Cork",New Line,Cork,153588.859,122550.438,Dental
+641,Dental Surgery,"I Glenn Terrace, Glasthule Road, Co. Dublin", Glasthule Road,Dublin,325132.14,227970.151,Dental
+642,Dental Surgery,"17 South Mall, Cork", South Mall,Cork,167650.572,71657.469,Dental
+643,Dental Surgery,"Machaire Chlochair, An Bun Beag, Co. DhÃºn na nGall",Machaire Chlochair,Donegal,180838.6885,424185.9382,Dental
+644,Dental Surgery,"135 Georges Street, Dun Laoghaire, Co. Dublin",Georges Street,Dublin,323924.875,228768.172,Dental
+645,Dental Surgery,"3A  The Hill, Stillorgan Road, Blackrock, Co. Dublin", Stillorgan Road,Dublin,320231.696,227963.077,Dental
+647,Dental Surgery,"58 Main Street, Swords, Co. Dublin", Main Street,Dublin,318187.696,246676.279,Dental
+648,Dental Surgery,"Patrick Street, Fermoy, Co. Cork",Patrick Street,Cork,181462.3,98410.6,Dental
+650,Dental Surgery,"Roslevan Shopping Centre, Ennis, Co. Clare", Ennis,Clare,135409.297,178811.313,Dental
+651,Dental Surgery,"1 Dempseys Terrace, Wexford",Dempseys Terrace,Wexford,304832.431,121528.661,Dental
+652,Dental Surgery,"116 Phibsboro Road, Dublin 7", Phibsboro Road,Dublin,315097.679,236219.254,Dental
+653,Dental Surgery,"73a Main Street, Carrickmacross, Co. Monaghan", Main Street,Monaghan,284046.349,303861.66,Dental
+654,Dental Surgery,"51 Market Street, Cootehill, Co. Cavan",Market Street,Cavan,260201.422,314189.938,Dental
+655,Dental practice,"26 Jocelyn Street, Dundalk, Co. Louth",Jocelyn Street,Louth,305281.799,307394.497,Dental
+656,Dental surgery,"Hazelwood Centre, Glanmire, Co. Cork",Hazelwood Centre,Cork,172720.922,75460.219,Dental
+657,Dermot Kavanagh Orthodontics,"31 Clonkeen Road, Deansgrange, Blackrock, Co. Dublin", Clonkeen Road,Dublin,322577.429,226646.211,Dental
+658,Dermot O' Connor Dental Clinic,"Strand Street, Kanturk, Co. Cork",Strand Street,Cork,138213.997,103014.279,Dental
+659,Devon Park Dental Practice,"Devon Park House, 108 Salthill Road Lower, Galway", Salthill Road Lower,Galway,128472.975,224404.814,Dental
+660,Dillon Dental,"1 Priory Place, New Ross, Co. Wexford",Priory Place,Wexford,271772.79,127208.718,Dental
+661,Dominic Court Dental Practice,"Bank Place, Dominic Court, Cashel, Co. Tipperary", Cashel,Tipperary,207721.75,140674.906,Dental
+662,Donabate Dental Practice,"Block 8  Ballast Court, Donabate, Co. Dublin",Block 8  Ballast Court,Dublin,322848.938,250097.859,Dental
+663,Donegal Orthodontic Clinic,"Castle Street, Donegal",Castle Street,Donegal,192919.172,378477.487,Dental
+664,Dorset Dental Practice,"89 Upper Dorset Street, Dublin 1",Upper Dorset Street,Dublin,315561.4,235401.487,Dental
+665,Dr Shane Curran and Associates ,"JAMES STREET, WESTPORT, CO. MAYO",JAMES STREET,Mayo,99659.17227,284459.2511,Dental
+666,Drs PJ Byrne and Johanna Glennon,"116 Merrion Road, Ballsbridge, Dublin 4", Merrion Road,Dublin,318138.465,232703.755,Dental
+667,Dublin Dental Clinic,"32 North Frederick Street, Dublin 1",North Frederick Street,Dublin,315610.719,235251.781,Dental
+668,Dublin Orthodontics,"29/31 North Street, Swords, Co. Dublin", North Street,Dublin,318342.322,247059.331,Dental
+669,Dublin Orthodontics,"Charlemont Mall, Dublin 22",Charlemont Mall,Dublin,315856.633,232521.998,Dental
+670,Dublin Specialist Dentistry,"402 Q House, 76 Furze Road, Sandyford Industrial Estate, Dublin 18",Furze Road,Dublin,319117.094,226297.234,Dental
+671,Dublin St Dental Clinic,"43 Dublin Street, Dundalk, Co. Louth", Dublin Street,Louth,304575.237,306700.579,Dental
+672,Dunboyne Dental Care,"Main Street, Dunboyne, Co. Meath",Main Street,Meath,301376.318,242115.513,Dental
+674,Dundanion Dental Surgery,"Blackrock Road, Cork",Blackrock Road,Cork,171589.766,71724.757,Dental
+675,Dundrum Medical & Dental Centre,"Level 4 Dundrum Town Centre, Sandyford Road, Dublin 16", Sandyford Road,Dublin,317261.906,227685.234,Dental
+676,Dundrum Orthodontics,"11 The Gables, Ballinteer Road, Dublin 16", Ballinteer Road,Dublin,316961.781,227758.438,Dental
+677,Dungarvan Orthodontic Practice,"1/2 Strand Street, Dungarvan, Co. Waterford", Strand Street,Waterford,226097.797,92832.031,Dental
+678,Dunshaughlin Dental Centre,"Suppletown House, Main Street, Dunshaughlin, Co. Meath",Suppletown House,Meath,296918.844,252078.781,Dental
+679,Dunshaughlin Orthodontic Clinic The Old Forge,"Unit 1/2 The Old Forge, Grangend, Dunshaughlin, Co. Meath", Grangend,Meath,296902.438,252705.578,Dental
+680,Dunshaughlin Orthodontic Clinic The Old Forge,"Unit 1/2  The Old Forge, Grangend, Dunshaughlin, Co. Meath", Grangend,Meath,296902.438,252705.578,Dental
+681,Dvid Mc Conville Specialiast dentistry,"Quayside Shopping Centre, Sligo", Sligo,Sligo,168866.141,336097.75,Dental
+682,EMC Healthcare,"50 Parnell Square West, Dublin 1", Parnell Square West,Dublin,315647.438,234935.234,Dental
+683,East Coast Orthodontics,"Beacon South Quarter, Sandyford, Dublin 18", Sandyford,Dublin,318925.906,226518.156,Dental
+684,"Elite Dental, Whitehall House","Whitehall House, Whitehall Close, Dublin 6W", Whitehall Close,Dublin,312111.406,229813.109,Dental
+685,Ennis Orthodontics and Periodontology,"Unit 12a Westgate Bus Park, Kilrush Road, Ennis, Co. Clare", Kilrush Road,Clare,132776.703,176008.438,Dental
+686,Ennistymon Medical Centre,"Main Street, Ennistymon, Co. Clare",Main Street,Clare,113104.951,188518.153,Dental
+687,Errigal Dental,"Forte Lynne House, Letterkenny, Co. Donegal", Letterkenny,Donegal,217252.906,411182.875,Dental
+688,Exchange House,"Exchange House, Castleknock, Dublin 15", Castleknock,Dublin,309054.833,237099.043,Dental
+689,Fairies Cross Medical Centre,"Clonalour, Tralee, Co. Kerry", Tralee,Kerry,84177.219,114723.303,Dental
+690,Fairview Dental Clinic,"21 Fairview, Dublin 3",Fairview,Dublin,317559.363,236242.106,Dental
+691,Farnham Dental Practice,"18 Farnham Street, Cavan, Co. Cavan",Farnham Street,Cavan,241924.224,305005.117,Dental
+692,Ferrybank Dental Practice,"49 Fountain Street, Ferrybank, Waterford City, Co. Waterford",Fountain Street,Waterford,261247.078,112951.864,Dental
+693,Fiacla,"Kilcullen Road, Naas, Co. Kildare",Kilcullen Road,Kildare,289150.413,218855.382,Dental
+694,Fingal Dental Surgery,"Station Road, Lusk, Co. Dublin",Station Road,Dublin,321792.531,254414.125,Dental
+695,Finn Dental Care,"Unit 1 Dunfril House, Chestnut Road, Ballybofey, Co. Donegal", Chestnut Road,Donegal,214204.109,394575.688,Dental
+696,Firhouse Orthodontic Clinic,"Oldcourt Shopping Centre, Parklands Road, Dublin 24", Parklands Road,Dublin,310445.313,226193.922,Dental
+697,Fitzwilliam House Dental Practice,"6 Fitzwilliam Street Lower, Dublin 2",Fitzwilliam Street Lower,Dublin,316692.825,233304.856,Dental
+698,Flynn's Dental Care,"Cathair Danann, North Circular Road, Tralee, Co. Kerry", North Circular Road,Kerry,83755.344,114706.633,Dental
+699,Fox Dental Practice,"40 Upper Main Street, Letterkenny, Co. Donegal",Upper Main Street,Donegal,216901.594,411497.197,Dental
+700,Frances Brandon Orthodontic Clinic,"Bri Chualann Court, Adelaide Road, Bray, Co. Wicklow", Adelaide Road,Wicklow,326878.156,218768.953,Dental
+701,Frank Cuddy and Associates Dental,"12 The Waterfront, Bridge Street, Galway", Bridge Street,Galway,129636.377,225082.074,Dental
+702,Frank Gallagher Practice,"Unit 2 College Road, Clane, Co. Kildare",College Road,Kildare,287592.469,227787.375,Dental
+703,Frederick Dental Clinic,"33 North Frederick Street, Dublin 1", North Frederick Street,Dublin,315615.219,235246.641,Dental
+704,Friar's Court Dental Clinic,"Friars Court, Nenagh, Co. Tipperary", Nenagh,Tipperary,186724.766,179128.125,Dental
+705,Friary Court Dental Practice,"Friar Street, Thurles, Co. Tipperary",Friar Street,Tipperary,212378.259,158555.944,Dental
+706,Friary Court Medical & Dental Centre,"Friary Court, Friary Street, Kilkenny City", Friary Street,Kilkenny,250588.0165,155721.3279,Dental
+707,Galway Dentists,"6 Father Griffin Avenue, Galway",Father Griffin Avenue,Galway,129194.3114,224629.0319,Dental
+708,Gate Clinic,"Dock Road, Galway City, Co. Galway",Dock Road,Galway,130201.766,224819.891,Dental
+709,Glencairn Medical Centre,"Leopardstown Valley, Ballyogan Road, Dublin 18", Ballyogan Road,Dublin,320276.6,224641.7,Dental
+711,Glenview Dental Surgery,"189 Glenview Park, Dublin 24",Glenview ,Dublin,310507.549,227748.419,Dental
+712,Glenview Dental Surgery,"189 Glenview Park, Dublin 24", Glenview,Dublin,310507.549,227748.419,Dental
+713,Gorey Dental Practice,"34 McCurtain Street, Gorey, Co. Wexford", McCurtain Street,Wexford,314902.75,159361.328,Dental
+714,Grange Dental Practice,"11 Clifton, Grange, Douglas, Cork", Douglas,Cork,168865.852,68351.881,Dental
+715,Greystones Dental Centre,"Tesco Shopping Centre, Greystones, Co. Wicklow", Greystones,Wicklow,328776.199,212224.195,Dental
+716,Guiney Dental,"Classis Lake, Ovens, Co. Cork",Classis Lake,Cork,156775.281,70116.055,Dental
+717,Haly Dental Care,"35A Mary Street, Cork", Mary Street,Cork,167503.556,71461.25,Dental
+718,Harbourside Dental Clinic,"Unit 101 Frances Street, Kilrush, Co. Clare", Frances Street,Clare,99171.406,154911,Dental
+719,Harley Court Orthodontics,"3 Harley Court, Sarsfield Road, Cork", Sarsfield Road,Cork,165133.279,69191.846,Dental
+720,Henry Road Dental Surgery,"1 Henry Road, Newbridge, Co. Kildare", Henry Road,Kildare,280209.188,214969.531,Dental
+721,Henry St. Dental Clinic,"51 Henry Street, Dublin 1",Henry Street,Dublin,315710.711,234625.945,Dental
+722,Howard Gross Dental Clinic,"49 Thomas Street, Dublin 8", Thomas Street,Dublin,314687.084,233846.369,Dental
+723,Hugh Bradley Orthodontist,"22 Park Street, Dundalk, Co. Louth", Park Street,Louth,304716.583,307079.722,Dental
+724,IFSC Dental Care,"Unit 5 Lagan House, Lower Mayor Street, Dublin 1", Lower Mayor Street,Dublin,317105.188,234647.406,Dental
+725,Iona Dental Surgery,"Iona Park, Mayfield, Cork City", Mayfield,Cork,169869.242,73323.096,Dental
+726,John Merrick And Associates,"Main Street, Maynooth, Co. Kildare",Main Street,Kildare,293907.037,237751.153,Dental
+727,John Seward and Associates,"3 Camden Quay, Cork City", Camden Quay,Cork,167498.086,72156.161,Dental
+728,Josephine Mahon Orthodontics,"2 St Michael's Terrace, Naas, Co. Kildare",St Michael's Terrace,Kildare,289183.579,219064.313,Dental
+729,K McG Dental Surgery,"Jervis Street, Ardee, Co. Louth",Jervis Street,Louth,296044.189,290499.162,Dental
+730,K&A Extrapoint Health Care Unit,"Unit 4A  The Crescent, Killegland Street, Ashbourne, Co. Meath", Killegland Street,Meath,306102.219,252423.641,Dental
+731,KBM Dental,"Grange Road Retail Park, Grange Road, Dublin 16", Grange Road,Dublin,315782.75,226595.406,Dental
+732,KBM Medics Ltd,"Belgard Square West, Tallaght, Dublin 24", Tallaght,Dublin,308267.281,227686.266,Dental
+733,KBM Medics Ltd,"Tallaght Cross West, Belgard Square West, Tallaght, Dublin 24",Tallaght Cross West,Dublin,308316.438,227581.531,Dental
+734,Kearney's Dental Surgery,"10 Grand Parade, Cork", Grand Parade,Cork,167333.828,71838.922,Dental
+735,Keenan Orthodontics,"41 Forster Street, Galway", Forster Street,Galway,130246.231,225490.044,Dental
+736,Kenneally Dental Practice,"West End, Ballincollig, Co. Cork",West End,Cork,159227.549,70737.136,Dental
+737,Kerry Paediatric Dental Practice,"Ivy Terrace, Tralee, Co. Kerry",Ivy Terrace,Kerry,83391.381,114171.483,Dental
+738,Kilbarrack Dental Care,"49 Kilbarrack Road, Kilbarrack, Dublin 5",Kilbarrack Road,Dublin,323319.092,238957.318,Dental
+739,Kilcock Dental Practice,"Mill Lane, Kilcock, Co. Kildare", Kilcock,Kildare,288701.4,239859.7,Dental
+740,Kildare Orthodontics,"Meadow Court, Kilcullen, Co. Kildare", Kilcullen,Kildare,284421.75,210042.625,Dental
+741,Kilkenny Dental Centre,"6 High Street, Kilkenny",High Street,Kilkenny,250649.984,155731.813,Dental
+742,Killaloe Dental Practice,"1 Rygan House, Shantraud, Killaloe, Co. Clare", Shantraud,Clare,169829.094,172637.719,Dental
+743,Kilmalogue Cross House,"Kilmalogue Cross, Portarlington, Co. Offaly", Portarlington,Offaly,253267.155,212446.785,Dental
+744,Kinnegad Dental,"Main Street, Kinnegad, Co. Westmeath",Main Street,Westmeath,259979.016,245230.391,Dental
+745,Kinsale Dental Health Centre,"Pearse Street, Kinsale, Co. Cork",Pearse Street,Cork,163918.25,50456.633,Dental
+746,Kylemore Clinic,"Freshford Road, Kilkenny",Freshford Road,Kilkenny,250131.281,156914.266,Dental
+747,Lansdowne Dental Surgery,"95 Lansdowne Park, Ennis Road, Limerick City, Co. Limerick", Ennis Road,Limerick,156434.157,157469.647,Dental
+748,Lemasney Orthodontics,"The Maltings, Bray, Co. Wicklow",The Maltings,Wicklow,326215.689,218777.49,Dental
+749,Letterkenny Orthodontics Clinic,"Ballyraine Road, Letterkenny, Co. Donegal",Ballyraine Road,Donegal,218386.318,411652.065,Dental
+750,Lialann FiaclÃ³ra,"Ard Chaiseal, An ClochÃ¡n Liath, Co. DhÃºn na nGall.
+ScÃ©im na SeirbhÃ­sÃ­ CÃ³ireÃ¡la FiaclÃ³ireachta (DTSS)",Ard Chaiseal,Donegal,176895.8595,411636.8131,Dental
+751,Lialann FiaclÃ³ra an SpidÃ©il,"CÃºinne UÃ­ Cheallaigh, An SpidÃ©al Thiar, An SpidÃ©al, Co. na Gaillimhe",CÃºinne UÃ­ Cheallaigh,Galway,112881.0314,222315.5309,Dental
+752,Listowel Dental,"5A Convent Street, Listowel, Co. Kerry",Convent Street,Kerry,98769.701,133821.838,Dental
+753,Little Island Dental Surgery,"4 Island Cross, Little Island, Co. Cork",Island Cross,Cork,175894.891,72246.086,Dental
+754,Littlepace Dental Centre,"Littlepace Shopping Centre, Clonee, Co. Dublin", Clonee,Dublin,304710.719,240508.781,Dental
+755,Longford Dental Centre,"3 Dublin Road, Longford, Co. Longford",Dublin Road,Longford,214433.737,274968.027,Dental
+756,Loreto Dental,"Emily Square, Athy, Co. Kildare",Emily Square,Kildare,268293.89,193917.792,Dental
+757,Loughrea Dental,"Kelly Street, Loughrea, Co. Galway",Kelly Street,Galway,161945.264,216530.899,Dental
+758,M&M Riordans Dental Practice,"19 Church Street, Caherciveen, Co. Kerry",Church Street,Kerry,47100.833,79472.052,Dental
+759,Macroom Dental Practice,"Castle Street, Macroom, Co. Cork",Castle Street,Cork,133934.906,72907.367,Dental
+760,Mallow Orthodontics,"Bowling Green, Mallow, Co. Cork", Mallow,Cork,155881.75,98624.922,Dental
+761,Market Green Dental Practice,"Market Green, Midleton, Co. Cork", Midleton,Cork,187716.422,73738.75,Dental
+762,Mary Street Dental Practice,"Mary Street, Mullingar, Co. Westmeath",Mary Street,Westmeath,243485.762,253043.471,Dental
+763,Mayberry Dental Care,"20 Birchview Drive, Kilnamanagh, Dublin 24", Kilnamanagh,Dublin,309694.829,228815.27,Dental
+765,Maypark Dental Practice,"7 Maypark, Malahide Road, Dublin 5", Malahide Road,Dublin,318689.877,237650.153,Dental
+766,Mc Hugh Dental Practice,"Station Road, Castlebar, Co. Mayo",Station Road,Mayo,114916.663,290059.162,Dental
+767,Mc Mahon Dental Surgery,"46 Wine Street, Sligo",Wine Street,Sligo,168881.578,336034.094,Dental
+768,Medical Centre,"64 Leinster Street, Athy, Co. Kildare", Leinster Street,Kildare,268512.375,194019.641,Dental
+769,Medical Centre,"Poulavone, Ballincollig, Co. Cork",Poulavone,Cork,160154.4,70852.8,Dental
+770,Medical Centre,"St Comans Park, Roscommon",St Comans Park,Roscommon,187240.043,264602.632,Dental
+771,Medical Lodge,"Donaghmede Shopping Centre, Grange Road, Dublin 13", Grange Road,Dublin,322289.165,239835.026,Dental
+772,Medical and Dental Centre,"Cedarville, Abbeyfeale, Co. Limerick", Abbeyfeale,Limerick,111863.844,126610.813,Dental
+773,Medical and Dental Centre,"Park Road, Killarney, Co. Kerry",Park Road,Kerry,98404.828,90807.547,Dental
+774,Meridian Dental Clinic,"1 The Avenue, Ongar Village, Dublin 15",The Avenue,Dublin,303898.938,239508.516,Dental
+775,Middle Court Dental Practice,"Middle Street, Galway City, Co. Galway",Middle Street,Galway,129802.43,225058.106,Dental
+776,Middle Square Dental Practice,"Middle Square, Macroom, Co. Cork", Macroom,Cork,134025.609,72870.703,Dental
+777,Midleton Orthodontics,"Exbury House, Ashlin Road, Castleredmond, Midleton, Co. Cork", Ashlin Road,Cork,188554.196,72695.121,Dental
+778,Mill Street Dental Practice,"10 Mill Street, Monaghan, Co. Monaghan", Mill Street,Monaghan,267100.334,333773.872,Dental
+779,Millbrook Clinic Dental Surgery,"49 College Street, Cavan, Co. Cavan",College Street,Cavan,241913.561,304516.569,Dental
+780,Millbrook Medical Centre,"New Road, Bandon, Co. Cork",New Road,Cork,148751.469,54435.781,Dental
+781,Monaghan Dental Surgery,"Monaghan Dental, Plantation Road, Monaghan, Co. Monaghan", Plantation Road,Monaghan,267157.031,334115.563,Dental
+782,Monahan Dental Practice,"12 Pope's Quay, Cork",Pope's Quay,Cork,167140.9,72229.797,Dental
+783,Monasterevan Dental Surgery,"1 Whelan Street, Monastereven, Co. Kildare",Whelan Street,Kildare,262600.823,210477.093,Dental
+784,Mount Oval Dental Practice,"The Square, Mount Oval Village, Rochestown, Cork",The Square,Cork,171976.109,68595.633,Dental
+785,Mourne Area Clinic,"Quayside Business Park, Mill Street, Dundalk, Co. Louth", Mill Street,Louth,305608.281,307702.656,Dental
+786,Moyderwell Dental Clinic,"Moyderwell, Tralee, Co. Kerry",Moyderwell,Kerry,84018.771,114149.209,Dental
+787,Naas Dental Centre,"6 Dublin Road, Naas, Co. Kildare",Dublin Road,Kildare,289605.175,219703.587,Dental
+788,Navan Dental,"28a Trimgate Street, Navan, Co. Meath",Trimgate Street,Meath,286804.848,267713.0341,Dental
+789,Navan Orthodontic Practice,"2 Market Square, Navan, Co. Meath", Market Square,Meath,287011.844,267812.875,Dental
+790,Navan Orthodontic Practice,"Market Square, Navan, Co. Meath",Market Square,Meath,287011.844,267812.875,Dental
+791,"Neligan & Gilbourne, SCR Dental","11 South Circular Road, Dublin 8", South Circular Road,Dublin,315367.04,232705.688,Dental
+792,New Square Dental Practice,"New Square, Mitchelstown, Co. Cork",New Square,Cork,181510,112741.919,Dental
+793,Newlands Dental,"Newlands Cross, Dublin 22",Newlands Cross,Dublin,307072.938,230456.094,Dental
+794,Newlands Dental,"Newlands Newlands Cross, Dublin 22",Newlands Newlands Cross,Dublin,307072.938,230456.094,Dental
+795,Newpark Medical and Dental Centre,"Newpark Shopping Centre, Newpark, Kilkenny City", Newpark,Kilkenny,251483.719,156797.172,Dental
+796,Newpark Orthodontics,"70 Newtownpark Avenue, Blackrock, Co. Dublin",Newtownpark Avenue,Dublin,321908.594,228227.359,Dental
+797,North City Dental,"1 Tonlegee Road, Raheny, Dublin 5",Tonlegee Road,Dublin,320002.556,239186.429,Dental
+798,Northbrook Cinic,"15A Northbrook Road, Dublin 6",Northbrook Road,Dublin,316253.397,232314.584,Dental
+799,Northern Cross Dental,"Unit 8 Burnell Square, Mayne River Way, Malahide Road, Dublin 17", Malahide Road,Dublin,321029.938,240858.328,Dental
+800,Number 16 Periodontics,"16 Woodbine Road, Booterstown, Blackrock, Co. Dublin",Woodbine Road,Dublin,319110.938,230329.266,Dental
+801,O Connors Dental Practice,"Wine Street, Sligo",Wine Street,Sligo,168855.77,336030.086,Dental
+802,O' Keeffe Orthodontics,"Fairmount House, John's Hill, Waterford", Waterford,Waterford,261068.154,111427.067,Dental
+803,O' Luasa Dental Surgery,"Wolfe Tone Square, Bantry, Co. Cork", Bantry,Cork,99586.741,48507.416,Dental
+804,O' Regan Orthodontics - Ace Braces,"3-5 Jessop Street, Portlaoise, Co. Laois", Jessop Street,Laois,246960.947,198419.772,Dental
+805,O' Regan Orthodontics - Ace Braces,"Clonminch House, Clonminch Road, Tullamore, Co. Offaly", Clonminch Road,Offaly,233995.272,224469.453,Dental
+806,Oak Dental Practice,"St Johns Terrace, Ballaghadereen, Co. Roscommon", Ballaghadereen,Roscommon,161684.109,294699.281,Dental
+807,Old Bawn Dental Practice,"70 Old Bawn Road, Dublin 24", Old Bawn Road,Dublin,309509.713,227003.828,Dental
+809,Old Court Medical & Dental Centre,"Oldcourt Shopping Centre, Parklands Road, Dublin 24", Parklands Road,Dublin,310445.313,226193.922,Dental
+811,Old Quarter House Dental Practice,"Old Quarter House, Little Ellen Street, Limerick", Little Ellen Street,Limerick,157820.453,157166.5,Dental
+812,Oldbawn Smile Clinic,"1 Old Bawn Terrace, Dublin 24",Old Bawn Terrace,Dublin,309537.223,226631.076,Dental
+814,Onslow gardens Dental Practice,"Glenwood Drive, Onslow Gardens, Cork",Glenwood Drive,Cork,166805.344,73945.742,Dental
+815,Oranmore Dental Care,"1 Cloonarkin Drive, Oranmore, Co. Galway", Oranmore,Galway,138013.969,224450.328,Dental
+816,Oranmore Dental Centre,"4/5 Oran Town Centre, Station Road, Oranmore, Co. Galway", Station Road,Galway,138037.531,225138.25,Dental
+817,Ormonde Orthodontics,"22 Castle Avenue, Thurles, Co. Tipperary",Castle Avenue,Tipperary,212309.725,158745.033,Dental
+818,Ortho Point Orthodontic Cinic,"Menlo House, Millmount Road, Mullingar, Co. Westmeath", Millmount Road,Westmeath,244177.033,252997.81,Dental
+819,Orthodontic Practice,"5 the Crescent, Galway",the Crescent,Galway,129030.453,224788.769,Dental
+820,Orthodontic Practice,"Ivy Terrace, Tralee, Co. Kerry",Ivy Terrace,Kerry,83370.102,114185.93,Dental
+821,Orthodontic Practice,"55 Corabbey Court, Midleton, Co. Cork", Midleton,Cork,188335.125,73475.828,Dental
+822,Orthodontic Practice,"30 Merchants Square, Ennis, Co. Clare", Merchants Square,Clare,133731.344,177384.109,Dental
+823,Orthodontic Practice,"Steamship House, Dock Street, Galway", Dock Street,Galway,129843.523,224851.281,Dental
+824,Orthodontic Practice,"Killoran House, Catherine Place, Limerick",Killoran House,Limerick,157444.078,156562.712,Dental
+825,Oughterard Dental Surgery,"4 Weighbridge House, Camp Street, Oughterard, Co. Galway", Camp Street,Galway,112356.844,242882.391,Dental
+826,Park Orthodontics,"Maritana Gate, Canada Street, Waterford", Canada Street,Waterford,261229.672,112086.992,Dental
+827,Paul Brady and Associates Dental Surgery,"85 Main Street, Midleton, Co. Cork",Main Street,Cork,188138.892,73528.088,Dental
+828,Paul Dowling Orthodontics,"8 Kingsfurze Terrace, Dublin Road, Naas, Co. Kildare", Dublin Road,Kildare,289967.021,220136.577,Dental
+829,Pearls Dental Clinic,"Manor Mills Shopping Centre, Maynooth, Co. Kildare", Maynooth,Kildare,293633.268,237743.475,Dental
+830,Pearls Dental Clinic,"87 Kings Street North, Dublin 7", Kings Street North,Dublin,314656.328,234646.425,Dental
+831,Pearse Road Dental Practice,"Pearse Road, Sligo",Pearse Road,Sligo,169472.577,335349.368,Dental
+832,Pembroke Dental Surgery,"Pembroke, Carlow Town",Pembroke,Carlow,271884.813,176489.234,Dental
+833,Perfect Smile Dental,"Mullingar Medical Park, Marketpoint, Mullingar, Co. Westmeath", Marketpoint,Westmeath,243208.2035,252732.844,Dental
+834,Perfect Smiles Dental Surgery,"Railway Street, Dublin 1",Railway Street,Dublin,316521.906,235070.703,Dental
+835,Periodontal Suite/Advanced Dental,"Unit 1/C 2/C Sycamore House, Millenium Park, Osberstown, Naas, Co. Kildare", Osberstown,Kildare,288974.25,221612.203,Dental
+836,Phoenix Dental Clinic,"Phoenix Dental, The Chandler, Rathborne, Dublin 15", Rathborne,Dublin,310978.406,237488.406,Dental
+837,Polmed Medical Care Ltd,"137 Parnell Street, Dublin 1",Parnell Street,Dublin,315978.688,235127.391,Dental
+838,Portobello Dental Clinic,"34 South Circular Road, Dublin 8",South Circular Road,Dublin,315264.794,232734.423,Dental
+839,Practice Limited to Endodontics,"Reman, Bray Road, Dublin 18", Bray Road,Dublin,322316.613,226112.776,Dental
+840,Quay Street Dental Practice,"Quay Street, Drumsna, Co. Leitrim",Quay Street,Leitrim,199432.578,297299.813,Dental
+841,Quinlan Dental Specialists,"18 Fitzwilliam Square South, Dublin 2",Fitzwilliam Square South,Dublin,316516.402,232983.934,Dental
+842,Quirke Dental Surgeons,"19 John Street, New Ross, Co. Wexford", John Street,Wexford,271946.242,127733.967,Dental
+843,R&D Dental Practice,"74A Terenure Road East, Terenure, Dublin 6",Terenure Road East,Dublin,314632.281,230296.953,Dental
+844,Racefield Dental Surgery,"10 Racefield Centre, Fr. Russel Road, Limerick", Fr. Russel Road,Limerick,154781.797,154086.453,Dental
+845,Raheny Dental Centre,"436 Howth Road, Dublin 5",Howth Road,Dublin,320832.713,237950.484,Dental
+846,Railway Dental Surgery,"13 Railway Road, Cavan, Co. Cavan",Railway Road,Cavan,230821.656,307338.406,Dental
+847,Ranelagh Dental Clinic,"22-26 Sandyford Road, Dublin 6",Sandyford Road,Dublin,316749.281,231706.969,Dental
+848,Rathcormac Dental Practice,"Main Street, Rathcormac, Co. Cork",Main Street,Cork,180767.86,91818.514,Dental
+849,Rathdrum Dental Surgery,"St. Judes, Fairgreen, Rathdrum, Co. Wicklow", Fairgreen,Wicklow,318693.656,188175.563,Dental
+850,Rathfarnham Orthodontic Practice,"147 Rathfarnham Road, Rathfarnham, Dublin 14",Rathfarnham Road,Dublin,314435.949,229236.838,Dental
+851,Rathmines Dental Clinic,"24 Upper Rathmines Road, Rathmines, Dublin 6",Upper Rathmines Road,Dublin,315648.889,231449.841,Dental
+852,Ratoath Dental Centre,"The Well Road, Ratoath, Co. Meath",The Well Road,Meath,301984.594,252040.688,Dental
+853,Redmond Molloy Dental,"10 Howth Road, Dublin 13",Howth Road,Dublin,325862.347,239373.238,Dental
+854,Redmond Molloy Dental,"Castlemills Medical Centre, Hamlet Lane, Balbriggan, Co. Dublin", Hamlet Lane,Dublin,318741.688,264055.875,Dental
+855,Redmond Molloy Dental Clinics,"222 Swords Road, Dublin 9",Swords Road,Dublin,316850.774,238952.977,Dental
+856,Renmore Dental Practice,"5A Dublin Road, Galway",Dublin Road,Galway,131728.93,225921.883,Dental
+857,Richard Lee Kin and Associates,"James Street, Westport, Co. Mayo",James Street,Mayo,99617.672,284422.406,Dental
+858,River House Orthodontic Practice,"River House, New Quay, Clonmel, Co. Tipperary", Clonmel,Tipperary,220558.484,122292.164,Dental
+859,Riverforest Dental Centre,"Riverforest Shopping Centre, Leixlip, Co. Kildare", Leixlip,Kildare,300715.661,236699.225,Dental
+860,Riverside Dental Care,"25A Ferney Road, Mahon, Co. Cork",Ferney Road,Cork,172470.303,71681.528,Dental
+861,Riverside Dental Practice,"15a Main Street, Celbridge, Co. Kildare",Main Street,Kildare,297363.435,233042.395,Dental
+862,Rogers Dental Surgery,"2 Bridge Street, New Ross, Co. Wexford", Bridge Street,Wexford,271882.367,127732.495,Dental
+863,Roseair Dental Practice,"Eden Road, Greystones, Co. Wicklow",Eden Road,Wicklow,329646.919,212285.038,Dental
+864,Rosewood Dental Surgery,"John Street, Ardee, Co. Louth",John Street,Louth,296064.697,290163.489,Dental
+865,Rothwell Dental Surgery,"7 Dunlo Street, Ballinasloe, Co. Galway", Dunlo Street,Galway,185233.078,231037.844,Dental
+866,Sandfield House Dental Practice,"Old Cork Road, Mallow, Co. Cork",Old Cork Road,Cork,155921.946,97252.881,Dental
+867,Schull Dental Practice,"Main Street, Schull, Co. Cork",Main Street,Cork,92876.328,31535.695,Dental
+868,Shandon Dental Surgery,"29 Shandon Street, Cork",Shandon Street,Cork,167147.772,72383.2,Dental
+869,Shannon Orthodontics,"15 Castlemaine Street, Athlone, Co. Westmeath", Castlemaine Street,Westmeath,204798.328,241297.141,Dental
+870,Shields Dental Centre,"10 Ashdown Centre, Ashbourne Avenue, Limerick City, Co. Limerick", Ashbourne Avenue,Limerick,156207.813,155972.156,Dental
+871,Silverton Dental Centre,"St Annes Road, Killarney, Co. Kerry",St Annes Road,Kerry,96550.383,91082.281,Dental
+872,Skerries Dental Care,"College Court, Strand Street, Skerries, Co. Dublin", Strand Street,Dublin,325399.439,260664.68,Dental
+873,Slievemore Dental Clinic,"Old Dublin Road, Stillorgan, Co. Dublin",Old Dublin Road,Dublin,320010.082,228391.562,Dental
+874,Smile Design Dental Clinic,"111 Malahide Road, Dublin 3", Malahide Road,Dublin,318375.402,237305.268,Dental
+875,Smile Design Dental Clinic,"16 Main Street, Baldoyle, Dublin 13",Main Street,Dublin,324636.69,240222.67,Dental
+876,Smiles Dental,"Main Street, Blanchardstown, Dublin 15",Main Street,Dublin,308172.019,238492.387,Dental
+877,Smiles Dental,"21 Middle Street, Galway City, Co. Galway",Middle Street,Galway,129821.244,225103.705,Dental
+878,Smiles Dental Clinic,"Unit 2 Dundrum Business Park, Dundrum Road, Dublin 14", Dundrum Road,Dublin,317087.5,229451.375,Dental
+879,Smiles Dental Clinic,"St Martin's House, Waterloo Road, Dublin 4", Waterloo Road,Dublin,317044.531,232807.078,Dental
+880,Smiles Dental Clinic,"28 O' Connell Street, Dublin 1", O' Connell Street,Dublin,315951.125,234631.063,Dental
+881,Smiles Dental Clinic,"Belgard Square West, Dublin 24",Belgard Square West,Dublin,308404.594,227456.906,Dental
+882,Smiles Dental Clinic,"4 South Anne Street, Dublin 2, Dublin",South Anne Street,Dublin,315950.023,233717.923,Dental
+884,Smiles Dental Clonshaugh,"Unit 8  Priorswood Shopping Centre, Clonshaugh Avenue, Dublin 17", Clonshaugh Avenue,Dublin,319286.012,240719.004,Dental
+885,Smiles Orthodontics,"27 South Anne Street, Dublin 2",South Anne Street,Dublin,315969.849,233695.265,Dental
+886,Smiles and More,"4 East Gate Village, Little Island, Co. Cork", Little Island,Cork,175678.203,72535.719,Dental
+887,South Dublin Dental,"2 Brighton Road, Dublin 18",Brighton Road,Dublin,321241.685,225528.104,Dental
+888,South East Dental Solutions,"Cleaboy Business Park, Old Kilmeaden Road, Co. Waterford", Old Kilmeaden Road,Waterford,257881.781,111291.547,Dental
+889,Specialist Orthodontic Practice,"Medi-Centre, Wilton Road, Cork", Wilton Road,Cork,165185.379,70754.711,Dental
+890,St John's Dental Clinic,"34 Ashe Street, Tralee, Co. Kerry",Ashe Street,Kerry,83763.894,114530.238,Dental
+891,Station House Dental Surgery,"Station House, Pearse Road, Letterkenny, Co. Donegal",Station House,Donegal,217332,411731,Dental
+892,Stillorgan Dental Centre,"2 Stillorgan Plaza, Lower Kilmacud Road, Stillorgan, Co. Dublin", Pearse Road,Dublin,320156.851,227950.927,Dental
+893,Summerhill Dental Centre,"Summerhill, Carrick-on-Shannon, Co. Leitrim",Summerhill,Leitrim,194157.392,299776.429,Dental
+894,Summerhill Dental Practice,"Summerhill North, Cork",Summerhill North,Cork,168049.088,72187.674,Dental
+895,Swords Orthodontic Practice,"17 Main Street, Swords, Co. Dublin", Main Street,Dublin,318289.588,246830.067,Dental
+896,Ted Mc Namara Consultant Orthodontics,"Eastgate House, Lock Quay, Limerick", Lock Quay,Limerick,158149.856,157352.562,Dental
+897,The Arramore Clinic,"Kickham Place, Tipperary Town, Co. Tipperary", Tipperary Town,Tipperary,189184.563,135714.531,Dental
+898,The Ashe Street Clinic,"36 Ashe Street, Tralee, Co. Kerry", Ashe Street,Kerry,83748.05,114504.659,Dental
+899,The Atrium Clinic,"The Atrium, Blackpool Business Park, Blackpool, Co. Cork", Blackpool,Cork,167507.578,73779.734,Dental
+900,The Burlington Dental Clinic,"16 Burlington Road, Ballsbridge, Dublin 4",Burlington Road,Dublin,316878.906,232575.672,Dental
+901,The Cedar Clinic Medical Centre,"Mountmellick Road, Portlaoise, Co. Laois",Mountmellick Road,Laois,246080.797,199514.797,Dental
+902,The Crescent Clinic,"23 Marino Crescent, Clontarf, Dublin 3", Clontarf,Dublin,318055.779,236457.073,Dental
+903,The Dental Orthodontic Centre,"23 Bank Place, Tipperary", Tipperary,Tipperary,189393.466,135841.352,Dental
+904,The Dental Practice,"Church Hill, Wicklow", Wicklow,Wicklow,330933.291,194380.501,Dental
+905,The Dental Surgery,"Steele's Terrace, Ennis, Co. Clare",Steele's Terrace,Clare,133948.406,178081.203,Dental
+906,The Gallery Dental Practice,"Marine Court Centre, The Green, Malahide, Co. Dublin",Marine Court Centre,Dublin,322829.719,246227.125,Dental
+907,The Granary Dental Practice,"Mill Building, Church Street, Cahir, Co. Tipperary", Church Street,Tipperary,205174.846,124906.789,Dental
+908,The Hermitage Dental Clinic,"Old Lucan Road, Dublin 20",Old Lucan Road,Dublin,306175.563,235490.625,Dental
+909,The Ishsko Centre,"Barrack Yard, James' Street, Westport, Co. Mayo", James' Street,Mayo,99604,284480.7,Dental
+910,The Knocklyon Dental Clinic,"Superquinn, Knocklyon Shopping Centre, Idrone Avenue, Dublin 16", Idrone Avenue,Dublin,312246.084,227145.94,Dental
+911,The Lodge Dental Practice,"Togher Cross, Cork",Togher Cross,Cork,165796.381,68951.31,Dental
+912,The Lough Dental Practice,"Lough Road, Cork City",Lough Road,Cork,166395.008,70227.304,Dental
+913,The Mall Dental Practice,"The Mall, Thurles, Co. Tipperary", Thurles,Tipperary,212697.477,158427.398,Dental
+914,The Medical Centre,"Bridge Street, Gort, Co. Galway",Bridge Street,Galway,145244.407,201982.46,Dental
+915,The Medical Centre,"Barrack Street, Loughrea, Co. Galway",Barrack Street,Galway,162023.264,216447.809,Dental
+916,The Medical Centre,"Baile Ard, An SpidÃ©al, Co. na Gaillimhe",Baile Ard,Galway,112857.3754,222847.3589,Dental
+917,The Medical Centre,"Lower Main Street, Arklow, Co. Wicklow",Lower Main Street,Wicklow,324659.45,173366.195,Dental
+918,The Meridian Clinic,"Clarehall Shopping Centre, Malahide Road, Dublin 17", Malahide Road,Dublin,321101.563,240511.531,Dental
+919,The New Smile Dental Clinic,"Wine Street, Sligo",Wine Street,Sligo,168913.813,336021.906,Dental
+920,The Northumberland Institute of Dental Medicine,"58 Northumberland Road, Ballsbridge, Dublin 4",Northumberland Road,Dublin,317511.458,233042.478,Dental
+922,The Oakland Clinic,"Unit 1  Block D, The Plaza, Dublin 15", The Plaza,Dublin,307590.5,242275.9,Dental
+923,The Orthodontic Clinic,"Park Place, Killarney, Co. Kerry", Killarney,Kerry,96418,90992.1,Dental
+924,The Park Clinic,"Park Shopping Centre, Glen Drive, Dublin 18", Glen Drive,Dublin,322711.438,225063.109,Dental
+926,The Plaza Dental Practice,"The Plaza, Blanchardstown, Dublin 15", Blanchardstown,Dublin,308235.927,238474.232,Dental
+927,The Priory Dental Practice,"5 Main Street, Tallaght, Dublin 24",Main Street,Dublin,309353.993,227614.647,Dental
+929,The Rathfarnham Dental Practice,"151 Rathfarnham Road, Dublin 14",Rathfarnham Road,Dublin,314435.712,229217.621,Dental
+930,"The Square Dental Surgery, Medical Centre","Unit 35 The Square, Belgarde Square East, Dublin 24", The Square,Dublin,308632.978,227474.769,Dental
+931,The Surgery,"2 York Street, Castleblayney, Co. Monaghan",York Street,Monaghan,282656.769,319682.026,Dental
+932,The White House Dental Clinic,"Market Square, Castleblaney, Co. Monaghan",Market Square,Monaghan,282904.091,319736.938,Dental
+933,Timothy Lynch Dental Surgery,"Langford Street, Killorglin, Co. Kerry",Langford Street,Kerry,77603.867,96140.523,Dental
+934,Tobins Health Centre,"Station Road, Castlebar, Co. Mayo",Station Road,Mayo,114951.766,289983.219,Dental
+935,Torc View Dental Surgery,"Park Road, Killarney, Co. Kerry",Park Road,Kerry,98125.344,90844.586,Dental
+936,Touchstone Dental,"Blackrock Avenue, Eden, Blackrock, Cork",Blackrock Avenue,Cork,171732.6,71088.7,Dental
+937,Touchstone Dental,"Riverside Medical Centre, Navan Road, Dublin 15", Navan Road,Dublin,306558.849,240384.931,Dental
+938,Town Dental,"Temple Shannon, Enniscorthy, Co. Wexford",Temple Shannon,Wexford,297478.594,140062.266,Dental
+939,Town Dental,"60 Fair Street, Drogheda, Co. Louth", Fair Street,Louth,308829.413,275302.494,Dental
+940,Town Dental,"Main Street, Bray, Co. Wicklow",Main Street,Wicklow,326268.719,218283.516,Dental
+941,Town Dental,"112 Oliver Plunkett Street, Cork", Oliver Plunkett Street,Cork,167686.541,71817.216,Dental
+942,Town Dental,"3 Selskar Court, Wexford Town, Co. Wexford", Wexford Town,Wexford,304691.273,122157.863,Dental
+943,Town Dental,"3 Neptune House, Canada Street, Waterford City, Co. Waterford", Canada Street,Waterford,261334.561,112141.911,Dental
+944,Tuam Dental,"Vicar Street, Tuam, Co. Galway",Vicar Street,Galway,143475.285,251777.749,Dental
+945,Tullow Dental Care,"Tullow Hill, Tullow, Co. Carlow",Tullow Hill,Carlow,286363.487,173327.651,Dental
+946,Tully House Dental,"Tully House, Monastery Road, Dublin 22", Monastery Road,Dublin,307329.394,231241.086,Dental
+948,Tyrellstown Dental Centre,"Tyrrelstown House, Powerstown Road, Tyrrelstown, Dublin 15", Powerstown Road,Dublin,306775.915,241869.414,Dental
+949,Ultimate Travel Dental,"Releagh Bonane, Kenmare, Co. Kerry", Kenmare,Kerry,94085.086,63692,Dental
+950,Unit 1-3 Park Shopping Centre,"Park Shopping Centre, 35-39 Prussia Street, Dublin 7",Prussia Street,Dublin,314128.41,235321.243,Dental
+951,Unit 13,"Bayside Shopping Centre, Bayside, Dublin 13", Bayside,Dublin,323788.128,239182.306,Dental
+952,"Unit 22, Floor 1","Phibsboro Shopping Centre, Phibsboro, Dublin 7", Phibsboro,Dublin,315003.783,236034.035,Dental
+953,Vevay Medical & Dental Practice,"35 Vevay Road, Bray, Co. Wicklow",Vevay Road,Wicklow,326711.1,217323.93,Dental
+954,Village Dental Practice,"Church Avenue, Dublin 15",Church Avenue,Dublin,308089.906,238474.547,Dental
+955,Virginia Dental Surgery,"Geeragh, Bailieboruagh Road, Virginia, Co. Cavan", Bailieboruagh Road,Cavan,260909.078,287828.031,Dental
+956,Walkinstown Dental Centre,"St Peters Road, Dublin 12, Dublin",St Peters Road,Dublin,311547.7,230379,Dental
+957,Waterford Orthodontics,"23 O' Connell Street, Waterford", O' Connell Street,Waterford,225844.847,93088.193,Dental
+958,Waterfront Dental Clinic,"13 Fee Court, Abbeycartron, Co. Longford", Abbeycartron,Longford,213589.469,276479.938,Dental
+959,Wellington Quay Dental Surgery,"Wellington Quay, Drogheda, Co. Louth", Drogheda,Louth,308795.313,275040.125,Dental
+960,West Lynn Dental Practice,"West End, Mallow, Co. Cork", Mallow,Cork,155734.025,98543.296,Dental
+961,Westend Dental Surgery,"4 Westend, Buncrana, Co. Donegal", Buncrana,Donegal,234760.719,432311.037,Dental
+962,Westside Orthodontic Centre,"5 Rossdale House, Bishopstown Road, Co. Cork", Bishopstown Road,Cork,164087.226,69500.525,Dental
+963,Westside Orthodontic Centre,"3 Owenabue Mall, Carrigaline, Co. Cork", Carrigaline,Cork,173008.641,62392.953,Dental
+964,Westview,"10 Clonsilla Road, Dublin 15",Clonsilla Road,Dublin,307740.501,238795.566,Dental
+965,Wexford Orthodontics,"16a Esmonde Street, Gorey, Co. Wexford",Esmonde Street,Wexford,315811.996,159660.153,Dental
+966,Wexford Orthodontics,"26 Henrietta Street, Wexford", Henrietta Street,Wexford,305017.801,121716.342,Dental
+967,Wheaton Hall Medical Centre,"Wheaton Hall Medical Centre, Drogheda, Co. Louth", Drogheda,Louth,310363.656,274609.75,Dental
+968,Wiliam Street Dental Practice,"William Street, Bantry, Co. Cork",William Street,Cork,99611.61,48395.923,Dental
+969,Williamstown Dental Practice,"Williamstown Centre, Ardkeen, Co. Waterford",Williamstown,Waterford,262411.219,110395.453,Dental
+970,Wolfe Tone Dental Surgery,"Wolfe Tone Street, Sligo",Wolfe Tone Street,Sligo,168581.688,335908.094,Dental
+971,Woodstown Dental Centre,"Woodstown Shopping Centre, Ballycullen Road, Dublin 16", Ballycullen Road,Dublin,311421.813,226324.797,Dental
+972,Woodstown Dental Centre,"Unit 11  Woodstown Shopping Centre, Ballycullen Road, Dublin 16", Ballycullen Road,Dublin,311421.813,226324.797,Dental
+973,Woodview,"Main Street, Blanchardstown, Dublin 15",Main Street,Dublin,308013.448,238576.384,Dental

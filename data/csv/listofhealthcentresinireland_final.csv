@@ -1,0 +1,749 @@
+id,name,full_address,address_key,County,eircode,x,y,Type
+1,Lusk,"Main Street, Lusk, Co. Dublin.",Main Street,Dublin,,321680.281,254507.844,Healthcenters
+2,Dowra,"Drumnafinnila, Dowra, Co. Leitrim",Drumnafinnila,Leitrim,,199020.2,326933.28,Healthcenters
+3,Clonakilty,"Primary Care Centre Hospital Grounds, Scartagh, Clonakilty, Co. Cork.", Scartagh,Cork,,139366.453,42295.805,Healthcenters
+4,Hartstown,"Cherryfield Lawns, Hartstown, Dublin 15",Cherryfield Lawns,Dublin15,,305087.25,239159.41,Healthcenters
+5,The Ballagh,"Ballymurry, The Ballagh, Enniscorthy, Co. Wexford.",Ballymurry,Wexford,,307156.38,137657.34,Healthcenters
+6,Milltown,"Bridge Street, Milltown, Co. Kerry",Bridge Street,Kerry,,82700.25,100428.22,Healthcenters
+7,Butler Centre,"Butler Community Centre, Saint John's Park, Waterford.", Saint John's Park,Waterford,,260958.048,110256.006,Healthcenters
+8,Carigeen,"Church Hall, Carigeen, Co. Kilkenny.",Church Hall,Kilkenny,,253571.156,113447.023,Healthcenters
+9,Ferrybank,"Community Hall, Ferrybank, Waterford.", Ferrybank,Waterford,,261541.14,113159.563,Healthcenters
+10,Kill,"Community Hall, Kill, Co. Waterford.", Kill,Waterford,,245314.5,102968.672,Healthcenters
+11,Passage East,"Community Hall, Passage East, Co. Waterford.", Passage East,Waterford,,270296.625,110186.57,Healthcenters
+12,Emly,"Galtee View, Emly, Co. Tipperary.",Galtee View,Tipperary,,176343.531,134599.328,Healthcenters
+13,Kilsheelan,"Chapel Road, Kilsheelan, Clonmel, Co. Tipperary.",Chapel Road,Tipperar,,228587.734,123534.672,Healthcenters
+14,Ballymahon,"Ballymahon, Co. Longford.",Ballymahon,Longford,,215508.84,257247.07,Healthcenters
+15,Muirhevnamore,"Muirhevnamore, Co. Louth.",Muirhevnamore,Louth,,306288.26,305843.059,Healthcenters
+16,Oylegate,"Oylegate, Enniscorthy, Co. Wexford.",Oylegate,Wexford,,300187.59,131287.98,Healthcenters
+17,Rosslare,"St. Martin's Road, Rosslare Harbour, Co. Wexford.",St. Martin's Road,Wexford,,313510.25,112152.484,Healthcenters
+18,Oldcastle,"Oldcastle, Co. Meath.",Oldcastle,Meath,,255420.406,280261.094,Healthcenters
+19,Dillons Cross,"Harrington Square, Ballyhooly Road, Cork.",Harrington Square,Cork,,168606.63,72939.482,Healthcenters
+20,Rockchapel,"Community Hall, Rockchapel, Co. Cork.", Rockchapel,Cork,,121733.609,115744.703,Healthcenters
+21,Paulstown,"Gowran Road, Paulstown, Co. Kilkenny.",Gowran Road,Kilkenny,,266208.56,159397.63,Healthcenters
+22,Stradbally,"Credit Union Building, Stradbally, Co. Waterford.",Credit Union Building,Waterford,,237068.016,97907.102,Healthcenters
+23,Ballymacarbry,"Four Mile Water, Clonmel, Co. Tipperary.",Four Mile Water,Tipperary,,216956.844,114236.133,Healthcenters
+24,Ballysloe,"Ballysloe, Gortnahoe, Co. Tipperary.",Ballysloe,Tipperary,,226608.063,154042.984,Healthcenters
+25,Bansha,"Main Street, Bansha, Co. Tipperary.",Main Street,Tipperary,,195820.969,132731.641,Healthcenters
+26,Cahir,"Pearse Street, Cahir, Co. Tipperary.",Pearse Street,Tipperary,,205461.05,124692.094,Healthcenters
+27,Cappawhite,"Cappawhite, Co. Tipperary.",Cappawhite,Tipperary,,188961.484,147828.516,Healthcenters
+28,Carrick on Suir,"Waterford Road, Carrick on Suir, Co. Tipperary.",Waterford Road,Tipperary,,240682.853,121917.113,Healthcenters
+29,Clonea,"Clodagh Drive, Clonea Power, Carrick, Co. Tipperary.",Clodagh Drive,Tipperary,,237871.469,114568.656,Healthcenters
+30,Mullinahone,"Carrick Steet, Mullinahone, Co. Tipperary.",Carrick Steet,Tipperary,,233751.22,140229.98,Healthcenters
+31,New Inn,"New Inn, Cashel, Co. Tipperary.",New Inn,Tipperary,,208349.453,132097.516,Healthcenters
+32,Newcastle,"Newcastle, Clonmel, Co. Tipperary.",Newcastle,Tipperary,,213029.984,113360.086,Healthcenters
+33,Tipperary,"St. Vincent's Hospital, Tipperary Town, Co. Tipperary.",St. Vincent's Hospital,Tipperary,,189375.702,135046.053,Healthcenters
+34,Bannow,"Bannow, Duncormick, Co. Wexford.",Bannow,Wexford,,288640.41,111034.17,Healthcenters
+35,Blackwater,Blackwater Co. Wexford,Blackwater Co. Wexford,Wexford,,312409.813,133982.906,Healthcenters
+36,Bree,"Bree, Enniscorthy, Co. Wexford.",Bree,Wexford,,293112.88,131126.03,Healthcenters
+37,Bridgetown,"Bridgetown, Co. Wexford.",Bridgetown,Wexford,,298892.687,109886.218,Healthcenters
+38,Bunclody,"Mill Road, Bunclody, Enniscorthy, Co. Wexford.",Mill Road,Wexford,,290985.5,156328.688,Healthcenters
+39,Camolin,"Camolin, Enniscorthy, Co. Wexford.",Camolin,Wexford,,306965.656,153034.187,Healthcenters
+40,Campile,"Ballykeeroge, Campile, New Ross, Co. Wexford.",Ballykeeroge,Wexford,,272017.125,116040.016,Healthcenters
+41,Castlebridge,"Castlebridge, Co. Wexford.",Castlebridge,Wexford,,305586.781,126574.93,Healthcenters
+42,Clonroche,"Clonroche, Enniscorthy, Co. Wexford.",Clonroche,Wexford,,293111.75,131122.922,Healthcenters
+43,Enniscorthy,"Millpark Road, Enniscorthy, Co. Wexford.",Millpark Road,Wexford,,297398.23,139531.883,Healthcenters
+44,Ferns,"Ferns, Enniscorthy, Co. Wexfrod.",Ferns,Wexfrod,,301469.56,149901.868,Healthcenters
+45,Taghmon,"Main Street, Taghmon, Co. Wexford.",Main Street,Wexford,,292036.42,119782.748,Healthcenters
+46,Wexford,"County Clinic, Grogans Road, Wexford",County Clinic,Wexford,,304722.262,121436.93,Healthcenters
+47,Caltra,"Caltra, Ballinasloe, Co. Galway.",Caltra,Galway,,170890.703,242827.156,Healthcenters
+48,Clifden,"Hospital Road, Clifden, Co. Galway.",Hospital Road,Galway,,66195.977,250715.875,Healthcenters
+49,Corrandulla,"Corrandulla, Co. Galway.",Corrandulla,Galway,,133968.125,239092.938,Healthcenters
+50,Craughwell,"Killora, Craughwell, Co. Galway.",Killora,Galway,,151134.02,219799.377,Healthcenters
+51,Dunmore,"The Square, Dunmore, Co. Galway.",The Square,Galway,,150811.234,263245.656,Healthcenters
+52,Glenamaddy,"Kilkerrin Road, Glenamaddy, Ballinasloe, Co. Galway.",Kilkerrin Road,Galway,,162961.578,261801.813,Healthcenters
+53,Gort,"Ennis Road, Gort, Co. Galway.",Ennis Road,Galway,,145492.992,201593.565,Healthcenters
+54,Gorteeney,"Gorteeney, Woodford, Loughrea, Co. Galway.",Gorteeney,Galway,,175743.859,196549.891,Healthcenters
+55,Headford,"Galway Road, Headford, Co. Galway.",Galway Road,Galway,,126529.094,247027.922,Healthcenters
+56,Kilconnell,"Kilconnell, Ballinasloe, Co. Galway.",Kilconnell,Galway,,173551.984,231431.094,Healthcenters
+57,Killimor,"Killimor, Ballinasloe, Co. Galway.",Killimor,Galway,,180430.813,212854.922,Healthcenters
+58,Kiltormer,"Mount Prospect, Kiltormer, Co. Galway.",Mount Prospect,Galway,,182321.88,220461.98,Healthcenters
+59,Lackagh,"Lackaghmore, Turloughmore, Athenry, Co. Galway",Lackaghmore,Galway,,140578.75,235766.875,Healthcenters
+60,Laurencetown,"Laurencetown, Ballinasloe, Co. Galway.",Laurencetown,Galway,,187910,220608,Healthcenters
+61,Leenane,"Derraheeda, Leenane, Co. Galway.",Derraheeda,Galway,,88034.094,261846.063,Healthcenters
+62,Liscune,"Liscune Lower, Ballymacward, Co. Galway.",Liscune Lower,Galway,,168968.359,235043.797,Healthcenters
+63,Mervue,"Michael Collins Road, Mervue, Galway.",Michael Collins Road,Galway,,132260.794,226101.443,Healthcenters
+64,Milltown,"Milltown, Tuam, Co. Galway.",Milltown,Galway,,140694.875,262708.125,Healthcenters
+65,Monivea,"Monivea, Athenry, Co. Galway.",Monivea,Galway,,153203.379,236245.923,Healthcenters
+66,Mountbellew,"College Road, Mountbellew, Co. Galway.",College Road,Galway,,167076.594,246607.734,Healthcenters
+67,Oranmore,"Dublin Road, Oranmore, Co. Galway.",Dublin Road,Galway,,138524.391,224853.016,Healthcenters
+68,Oughterard,"Lemon Field, Oughterard, Co. Galway.",Lemon Field,Galway,,112483.57,242779.25,Healthcenters
+69,Renvyle,"Tully More, Renvyle, Co. Galway.",Tully More,Galway,,69279.61,262490.41,Healthcenters
+70,Shantalla,"25 Newcastle Road, Galway.",Newcastle Road,Galway,,128938.94,225427.4,Healthcenters
+71,Tuam,"Vicar Street, Tuam, Co. Galway.",Vicar Street,Galway,,143456.2,251650.9,Healthcenters
+72,Tynagh,"Tynagh, Loughrea, Co. Galway.",Tynagh,Galway,,175078.75,211077.406,Healthcenters
+73,Williamstown,"Ballyroe, Williamstown, Castlerea, Co. Galway",Ballyroe,Galway,,162232.078,270084.875,Healthcenters
+74,Woodford,"Woodford, Loughrea, Co. Galway.",Woodford,Galway,,172994.547,200345.234,Healthcenters
+75,Balla,"Ballyrourke, Balla, Co. Mayo.",Ballyrourke,Mayo,,125831.133,285055.688,Healthcenters
+76,Ballina,"Moy Valley, Cathedral Road, Ballina, County Mayo", Cathedral Road,Mayo,,124809.612,318867.377,Healthcenters
+77,Ballindine,"Main Street, Ballindine, Co. Mayo.",Main Street,Mayo,,136680.938,269501.813,Healthcenters
+78,Ballyvary,"Ballyvary, Castlebar, Co. Mayo.",Ballyvary,Mayo,,124402.352,294558.063,Healthcenters
+79,Bangor Erris,"Main Street, Bangor Erris, Co. Mayo.",Main Street,Mayo,,86402.45,323101.66,Healthcenters
+80,Clare Island,"Capnagower, Clare Island, Co. Mayo.",Capnagower,Mayo,,71463.914,285469.344,Healthcenters
+81,Claremorris,"Knock Road, Claremorris, Co. Mayo.",Knock Road,Mayo,,134315.342,275436.557,Healthcenters
+82,Cong,"Cong, Co. Mayo.",Cong,Mayo,,115838.945,255291.203,Healthcenters
+83,Castlebar,"H.S.E., Westport Road, Castlebar, Co. Mayo.", Westport Road,Mayo,,114297.947,290046.406,Healthcenters
+84,Crossmolina,"Erris Street, Crossmolina, Co. Mayo.",Erris Street,Mayo,,113396.671,317470.052,Healthcenters
+85,Foxford,"Dispensary Road, Foxford, Co. Mayo.",Dispensary Road,Mayo,,127405.55,304005.53,Healthcenters
+86,Hollymount,"Hollymount, Co. Mayo.",Hollymount,Mayo,,126137.211,268068.063,Healthcenters
+87,Inishturk,"The Harbour, Inishturk Island, Co. Mayo.",The Harbour,Mayo,,61727,274885,Healthcenters
+88,Kilkelly,"Ballaghdareen Road, Kilkelly, Co. Mayo.",Ballaghdareen Road,Mayo,,144476.938,291836.563,Healthcenters
+89,Killala,"Killala, Co. Mayo.",Killala,Mayo,,120756.73,329680.06,Healthcenters
+90,Kilmovee,"Kilmovee, Co. Mayo.",Kilmovee,Mayo,,154827.938,293645.125,Healthcenters
+91,Kiltimagh,"Chapel Street, Kiltimagh, Co. Mayo.",Chapel Street,Mayo,,134103.859,288999.25,Healthcenters
+92,Rathmines,"36 Upper Rathmines Road, Dublin 6.",Upper Rathmines Road, Dublin,,315666.24,231421.527,Healthcenters
+93,Rathfarnham,"Dispensary Road, off Grange Road, Rathfarnham, Dublin 14.",Dispensary Road, Dublin,,314677.922,228328.995,Healthcenters
+94,Brookfield,"Rossfield Avenue, Tallaght, Dublin 24.",Rossfield Avenue, Dublin,,306458.625,227611.766,Healthcenters
+95,Killinarden,"Killinarden, Tallaght, Dublin 24.",Killinarden, Dublin,,308147.364,226308.931,Healthcenters
+96,Mary Mercer,"Fortunestown Road, Jobstown, Tallaght, Dublin 24.",Fortunestown Road, Dublin,,306760.25,226537.172,Healthcenters
+97,Louisburgh,"Caher, Louisburgh, Co. Mayo.", Louisburgh,Mayo,,80367.828,280644.938,Healthcenters
+98,Newport,"Newport, Co. Mayo.",Newport,Mayo,,98423.781,293762.531,Healthcenters
+99,Shrule,"Dalgan Road, Shrule, Co. Mayo.",Dalgan Road,Mayo,,127901.648,253048.031,Healthcenters
+100,Swinford,"Aras Attracta, Park Road, Swinford, Co. Mayo.",Aras Attracta,Mayo,,137477.38,298968.53,Healthcenters
+101,Westport,"St. Mary's Crescent, Westport, Co. Mayo.",St. Mary's Crescent,Mayo,,99729.542,284606.52,Healthcenters
+102,Limekiln Lane,"Whitehall Road West, Walkinstown, Dublin 12.", Walkinstown,Dublin,,311621.511,230081.795,Healthcenters
+103,Rowlagh,"Rowlagh, Clondalkin, Dublin 22.",Rowlagh,Dublin,,306823.305,233842.685,Healthcenters
+104,Boot Road,"Boot Road, Clondalkin, Dublin 22.",Boot Road,Dublin,,306933.557,230778.083,Healthcenters
+105,Rathcoole,"Main Street, Rathcoole, Co. Dublin.",Main Street,Dublin,,302502.053,226758.647,Healthcenters
+106,Ballymore Eustace,"Chapel Street, Ballymore Eustace, Co. Kildare.",Chapel Street,Kildare,,292697.563,209961.078,Healthcenters
+107,Baltinglas,"Belan Street, Baltinglas, Co. Wicklow.",Belan Street,Wicklow,,286690.063,188494.391,Healthcenters
+108,Castledermot,"Main Street, Castledermot, Co. Kildare.",Main Street,Kildare,,278303.281,185451.313,Healthcenters
+109,Boyle,"Elphin Street, Boyle, Co. Roscommon.",Elphin Street,Roscommon,,180145.568,302361.701,Healthcenters
+110,Brideswell,"Brideswell, Athlone, Co. Roscommon.",Brideswell,Roscommon,,194233.578,244371.5,Healthcenters
+111,Cloonfad,"Cloonfad West, Co. Roscommon.",Cloonfad West,Roscommon,,150352.578,270932.938,Healthcenters
+112,Derrinisky,"Derrinisky, Arigna, Co. Roscommon.",Derrinisky,Roscommon,,193045.313,314397.875,Healthcenters
+113,Dolanstown,"Dolanstown, Ballydangan, Athlone, Co. Roscommon.",Dolanstown,Roscommon,,194349.984,233279.531,Healthcenters
+114,Elphin,"Elphin, Co. Roscommon.",Elphin,Roscommon,,186789.391,288411.125,Healthcenters
+115,Keadue,"Keadue, Co. Roscommon.",Keadue,Roscommon,,191049.578,311327.094,Healthcenters
+116,Loughglynn,"Loughglynn, Co. Roscommon.",Loughglynn,Roscommon,,162564.8,286685.25,Healthcenters
+117,Derrinturn,"Derrinturn, Co. Kildare.",Derrinturn,Kildare,,270610.438,232728.75,Healthcenters
+118,Donard,"Donard, Co. Wicklow.",Donard,Wicklow,,293138.594,197614.344,Healthcenters
+119,Fontstown,"Rathsillagh Upper, Fontstown, Co. Kildare.",Rathsillagh Upper,Kildare,,275641.438,201655.859,Healthcenters
+120,Johnstownbridge,"Johnstownbridge, Co. Kildare.",Johnstownbridge,Kildare,,276039.875,239583.578,Healthcenters
+121,Kilcullen,"St. Brigid's Avenue, Kilcullen, Co. Kildare.",St. Brigid's Avenue,Kildare,,283931.094,209366.953,Healthcenters
+122,Kildare,"Tully Road, Kildare Town, Co. Kildare.",Tully Road,Kildare,,272882.323,212060.777,Healthcenters
+123,Kilmeague,"Kilmeague, Co. Kildare.",Kilmeague,Kildare,,277412.563,222816.578,Healthcenters
+124,Kiltegan,"Kiltegan, Co. Wicklow.",Kiltegan,Wicklow,,293818.94,184683.58,Healthcenters
+125,Leixlip,"Main Street, Leixlip, Co. Kildare.",Main Street,Kildare,,300583.643,235862.359,Healthcenters
+126,Maynooth,"Leinster Street, Maynooth, Co. Kildare.",Leinster Street,Kildare,,293778.966,237454.658,Healthcenters
+127,Rathangan,"Rathangan, Co. Kildare.",Rathangan,Kildare,,266670.5,219451.641,Healthcenters
+128,Monksland,"Monksland, Athlone, Co. Roscommon.",Monksland,Roscommon,,201249.609,241471.578,Healthcenters
+129,Ballyshannon,"Bishop Street, Ballyshannon, Co. Donegal.",Bishop Street,Donegal,,187513.139,361731.268,Healthcenters
+130,Buncrana,"Maginn Avenue, Buncrana, Co. Donegal.",Maginn Avenue,Donegal,,235162.375,431943.25,Healthcenters
+131,Roundwood,"Roundwood, Co. Wicklow.",Roundwood,Wicklow,,318978.875,202683.328,Healthcenters
+132,Templerainey,"7 Inbhear Mor Park, Templerainey, Arklow, Co. Wicklow.", Templerainey,Arklow,,324727.563,174442.391,Healthcenters
+133,Borris in Ossory,"Sentryhill, Borris in Ossory, Co. Laois.",Sentryhill,Laois,,225912.39,187730.08,Healthcenters
+134,Clonaslee,"Clonaslee, Co. Laois.",Clonaslee,Laois,,231506,211172,Healthcenters
+135,Durrow,"Mary Street, Durrow, Co. Laois.",Mary Street,Laois,,240843.266,177394.594,Healthcenters
+136,Errill,"Errill, Co. Laois.",Errill,Laois,,221519.656,178672.109,Healthcenters
+137,Bundoran,"Station Road, Bundoran, Co. Donegal.",Station Road,Donegal,,182073.297,358919.781,Healthcenters
+138,Burt,"Burt, Carrownamaddy, Speenoge, Co. Donegal.",Burt,Donegal,,236627.219,421529.75,Healthcenters
+139,Carndonagh,"Ballyloskey Road, Carndonagh, Co. Donegal.",Ballyloskey Road,Donegal,,246859.984,444649.844,Healthcenters
+140,Castlefin,"CPI Centre, Knockrawer, Castlefin, Co. Donegal.",CPI Centre,Donegal,,226572.031,395039.375,Healthcenters
+141,Cappry,"Cappry, Ballybofey, Co. Donegal.",Cappry,Donegal,,211451.922,393640.25,Healthcenters
+142,Churchill,"Keeloges, Churchill, Co. Donegal.",Keeloges,Donegal,,207183.797,414960.125,Healthcenters
+143,Cloghan,"Cloghan, Co. Donegal.",Cloghan,Donegal,,204293.313,399313.344,Healthcenters
+144,Clonmany,"Clonmany, Co. Donegal.",Clonmany,Donegal,,238098.391,445797.031,Healthcenters
+145,Convoy,"Convoy, Convoy Enterprise Centre, Co. Donegal.",Convoy,Donegal,,221954.941,401188.003,Healthcenters
+146,Graigue,"Oakley Park, Graigue, Co. Laois",Oakley Park,Laois,,271221.26,177107.38,Healthcenters
+147,Luggacurren,"Luggacurren, Co. Laois.",Luggacurren,Laois,,258658.75,188787.563,Healthcenters
+148,Mountrath,"Link Road, Mountrath, Co. Laois.",Link Road,Laois,,235355.01,194442.28,Healthcenters
+149,Portlaoise,"Dublin Road, Portlaoise, Co. Laois.",Dublin Road,Laois,,248052.922,198670.578,Healthcenters
+150,Rathdowney,"Rathdowney, Co. Laois.",Rathdowney,Laois,,227361.861,178334.461,Healthcenters
+151,Stradbally,"Stradbally, Co. Laois.",Stradbally,Laois,,257045.406,196567.172,Healthcenters
+152,The Swan,"The Swan, Co. Laois",The Swan,Laois,,256958.625,181851.766,Healthcenters
+153,Timahoe,"Timahoe, Co. Laois.",Timahoe,Laois,,253641.406,190253.859,Healthcenters
+154,Birr,"St. John's Terrace, Birr, Co. Offaly.",St. John's Terrace,Offaly,,206267.511,204859.438,Healthcenters
+155,Banagher,"Cuba Avenue, Banagher, Co. Offaly.",Cuba Avenue,Offaly,,201395.797,215259.438,Healthcenters
+156,Blueball,"Pallas, Blueball, Co. Offaly.",Pallas,Offaly,,225729.03,219734.83,Healthcenters
+157,Cloghan,"Castle Street, Cloghan, Co. Offaly.",Castle Street,Offaly,,207726.313,219369.703,Healthcenters
+158,Clonbullogue,"Clonbullogue, Co. Offaly.",Clonbullogue,Offaly,,261108.781,223506.891,Healthcenters
+159,Cloneygowan,"Cloneygowan, Co. Offaly.",Cloneygowan,Offaly,,248077.047,215440.469,Healthcenters
+160,Culdaff,"Main Street, Culdaff, Co. Donegal.",Main Street,Donegal,,252879.766,449241.281,Healthcenters
+161,Donegal,"Donegal Hospital, Donegal Town, Co. Donegal.",Donegal,Donegal,,193655.051,378607.769,Healthcenters
+162,Doochary,"Doochary, Co. Donegal.",Doochary,Donegal,,186679.19,406516.59,Healthcenters
+163,Dunkineely,"Main Street, Dunkineely, Co. Donegal.",Main Street,Donegal,,176503.547,375928.25,Healthcenters
+164,Church Road,"Church Road, Falcarragh, Co. Donegal.",Church Road,Donegal,,193631.172,432172.344,Healthcenters
+165,St. Martins,"St. Martin's, Church Road, Falcarragh, Co. Donegal.",St. Martin's,Donegal,,193580.547,432242.063,Healthcenters
+166,Fahan,"Fahan, Co. Donegal.",Fahan,Donegal,,235791.594,424854.25,Healthcenters
+167,Frosses,"Frosses, Co. Donegal.",Frosses,Donegal,,184434.266,379993.469,Healthcenters
+168,Ferbane,"Belmount Road, Ferbane, Co. Offaly.",Belmount Road,Offaly,,211122.5,224579.75,Healthcenters
+169,Kinnity,"Castletown, Kinnity, Co. Offaly.",Castletown,Offaly,,219092.563,205307.906,Healthcenters
+170,Shannonbridge,"Main Street, Shannonbridge, Co. Offaly.",Main Street,Offaly,,197012.03,225436.77,Healthcenters
+171,Shinrone,"Roscrea Road, Shinrone, Co. Offaly.",Roscrea Road,Offaly,,205149.047,192574.313,Healthcenters
+172,Tullamore,"Arden Road, Tullamore, Co. Offaly.",Arden Road,Offaly,,234016.624,225780.611,Healthcenters
+173,Colehill,"Colehill, Co. Longford",Colehill, Longford,,221175.75,260964.33,Healthcenters
+174,Drumlish,"Drumlish, Co. Longford.",Drumlish, Longford,,215111.047,285432.219,Healthcenters
+175,Edgeworthstown,"Edgeworthstown, Co. Longford.",Edgeworthstown, Longford,,225856.001,271574.445,Healthcenters
+176,Kilashee,"Kilashee, Co. Longford.",Kilashee, Longford,,208079.78,270174.94,Healthcenters
+177,Glengad,"Glengad, Co. Donegal.",Glengad,Donegal,,252160.188,453737.344,Healthcenters
+178,Killybegs,"St. Catherine's Road, Killybegs, Co. Donegal.",St. Catherine's Road,Donegal,,171202.121,376379.262,Healthcenters
+179,Killygordon,"Killygordon, Co. Donegal.",Killygordon,Donegal,,220507.188,394390.063,Healthcenters
+180,Kilmacrennan,"Kilmacrrennan, Co. Donegal.",Kilmacrrennan,Donegal,,214283.844,420427.844,Healthcenters
+181,Lifford,"Lifford Bridge, Lifford, Co. Donegal.", Lifford,Donegal,,233256.588,398321.279,Healthcenters
+182,Lanesboro,"Lanesboro, Co. Longford.",Lanesboro, Longford,,200782.27,269075.91,Healthcenters
+183,Legga,"Legga, Co. Longford.",Legga, Longford,,222608.13,293779.84,Healthcenters
+184,Newtowncashel,"Newtowncashel, Co. Longford.",Newtowncashel, Longford,,204187.516,259958.703,Healthcenters
+185,Smear,"Smear, Co. Longford.",Smear, Longford,,226406.578,291319.75,Healthcenters
+186,Ballynacargy,"Wood Row, Ballynacargy, Co. Westmeath",Wood Row,Westmeath,,230576.781,259327.234,Healthcenters
+187,Castlepollard,"Castlepollard, Co. Westmeath.",Castlepollard,Westmeath,,246313.906,269871.219,Healthcenters
+188,Castletown Geoghegan,"Woodside, Castletown Geoghegan, Co. Westmeath.",Woodside,Westmeath,,234331.141,243732.016,Healthcenters
+189,Clonmellon,"Killallon Road, Clonmellon, Co. Westmeath.",Killallon Road,Westmeath,,264591.094,268783.594,Healthcenters
+190,Delvin,"Main Street, Delvin, Co. Westmeath.",Main Street,Westmeath,,260172.047,262983.063,Healthcenters
+191,Finea,"Finea, Co. Westmeath.",Finea,Westmeath,,240638.219,281171.094,Healthcenters
+192,Glasson,"Glasson, Co. Westmeath.",Glasson,Westmeath,,209067.764,246877.049,Healthcenters
+193,Malin,"Malin, Co. Donegal.",Malin,Donegal,,246907.609,450195.125,Healthcenters
+194,Manorcunningham,"Manorcunningham, Co. Donegal.",Manorcunningham,Donegal,,224238.078,411451.156,Healthcenters
+195,Milford,"Main Street, Milford, Co. Donegal.",Main Street,Donegal,,219380.97,426660.78,Healthcenters
+196,Mountcharles,"Station Road, Mountcharles, Co. Donegal.",Station Road,Donegal,,187626.922,377371.688,Healthcenters
+197,Kilbeggan,"Mullingar Road, Kilbeggan, Co. Westmeath.",Mullingar Road,Westmeath,,233519.406,235530.641,Healthcenters
+198,Killucan,"Rathwire Lower, Killucan, Co. Westmeath.",Rathwire Lower,Westmeath,,256742.641,251361.844,Healthcenters
+199,Rochfortsbridge,"79 Derrygreenagh Park, Rochfortsbridge, Co. Westmeath.", Rochfortsbridge,Westmeath,,246834.44,241264.22,Healthcenters
+200,Streete,"Cornacauske, Streete, Co. Westmeath.",Cornacauske,Westmeath,,233728.13,270475.19,Healthcenters
+201,Ballsgrove,"Ballsgrove Estate, Ballsgrove, Drogheda, Co. Louth.",Ballsgrove Estate,Louth,,308223.679,274776.933,Healthcenters
+202,Haymarket,"The Haymarket, John Street, Drogheda, Co. Louth.",The Haymarket,Louth,,308853.313,274918.844,Healthcenters
+203,Castlebellingham,"Castlebellingham, Co. Louth.",Castlebellingham,Louth,,305757.844,295750.938,Healthcenters
+204,Dunleer,"School Lane, Dunleer, Co. Louth.",School Lane,Louth,,305763.969,287649.563,Healthcenters
+205,Market Street,"Market Street, Dundalk, Co. Louth.",Market Street,Louth,,304951.922,307428.6,Healthcenters
+206,Dublin Road,"Dublin Road, Dundalk, Co. Louth.",Dublin Road,Louth,,305040.198,305496.508,Healthcenters
+207,Ravensdale,"Ravensdale, Co. Louth.",Ravensdale,Louth,,308200.188,312390.688,Healthcenters
+208,Termonfeckin,"Termonfeckin, Co. Louth.",Termonfeckin,Louth,,313809.813,280135.625,Healthcenters
+209,Corduff,"Corduff Green, Blanchardstown, Dublin 15.",Corduff Green,Dublin,,308052.875,239802.828,Healthcenters
+210,Lisburn Street,"Lisburn Street, Dublin 7.",Lisburn Street,Dublin,,315047.281,234756.609,Healthcenters
+211,Roselawn,"Roselawn Road, Castleknock, Dublin 15.",Roselawn Road,Dublin,,307679.641,238326.038,Healthcenters
+212,Muff,"Muff, Co. Donegal.",Muff,Donegal,,246680.406,424670,Healthcenters
+213,Newtowncunningham,"Colehill, Newtowncunningham, Co. Donegal.",Colehill,Donegal,,231616.984,416806.656,Healthcenters
+214,Pettigo,"Main Street, Pettigo, Co. Donegal.",Main Street,Donegal,,210844.172,366786.219,Healthcenters
+215,Quigleys Point,"Quigleys Point, Inishowen, Co. Donegal.", Inishowen,Donegal,,251324.406,431088.531,Healthcenters
+216,Raphoe,"Meetinghouse Street, Raphoe, Co. Donegal.",Meetinghouse Street,Donegal,,225558.688,402904.719,Healthcenters
+217,Mohill,"Water Street, Mohill, Carrick on Shannon, Co. Leitrim.",Water Street,Leitrim,,208889.063,297114.25,Healthcenters
+218,Ballymun,"Ballymun Health Care Facility, Civic Offices, Ballymun Road, Dublin 11", Ballymun Road,BallymunRoad,,315552,239738,Healthcenters
+219,East Wall,"Church Road, Dublin 3.",Church Road,Dublin,,317471.803,234957.758,Healthcenters
+220,Killester,"Killester Avenue, Dublin 5.",Killester Avenue,Dublin,,319008.351,237834.415,Healthcenters
+221,Marino,"1A Griffith Avenue, Dublin 9.",Griffith Avenue,Dublin,,318016.453,236772.703,Healthcenters
+222,Summerhill,"90 Summerhill, Dublin 1.",Summerhill,Dublin,,316430.844,235404.094,Healthcenters
+223,Darndale,"Darndale Primary Care Centre, Darndale/Belcamp Village Centre, Darndale, Dublin 17.", Darndale,Darndale,,320150.563,240531.625,Healthcenters
+224,Donabate,"St. Patrick's Terrace, Donabate, Co. Dublin.",St. Patrick's Terrace,Dublin,,323028.663,249968.009,Healthcenters
+225,Edenmore,"Edenmore Shopping Centre, Edenmore Park, Raheny, Dublin 5.", Raheny,Raheny,,320958.055,239073.707,Healthcenters
+226,Rathmullan,"Rathmullan, Co. Donegal.",Rathmullan,Donegal,,229795.313,427699.406,Healthcenters
+227,Stranorlar,"Pound Street, Stranorlar, Co. Donegal.",Pound Street,Donegal,,215079.625,395271.25,Healthcenters
+228,St. Johnston,"St. Johnston Resource Centre, Chapel Road, St. Johnston, Co. Donegal.", Chapel Road,Donegal,,234400.188,409623.094,Healthcenters
+229,Tamney,"Tamney, Co. Donegal.",Tamney,Donegal,,219729.922,439163.813,Healthcenters
+230,Ballymote,"Fairgreen Road, Ballymote, Co. Sligo.",Fairgreen Road,Sligo,,166417.906,315786.594,Healthcenters
+231,Carrigeens,"Carrigeens, Ballinful, Co. Sligo.",Carrigeens,Sligo,,160455.781,345275.25,Healthcenters
+232,Cliffoney,"Cliffoney, Co. Sligo.",Cliffoney,Sligo,,170685.69,353650.59,Healthcenters
+233,Collooney,"Lower Main Street, Collooney, Co. Sligo.",Lower Main Street,Sligo,,168096.875,326398.938,Healthcenters
+234,Oldtown,"Clonmethan, Oldtown, Co. Dublin.",Clonmethan,Dublin,,311621.094,253337.313,Healthcenters
+235,Portmarnock,"Strand Shopping Centre, Portmarnock, Co. Dublin.", Portmarnock,Dublin,,323803.281,242763,Healthcenters
+236,Raheny,"33 Main Street, Raheny, Dublin 5.",Main Street,Dublin,,321483.004,238066.99,Healthcenters
+237,Daisy Hill,"Daisy Hill, Ballyconnell, Co. Cavan.",Daisy Hill,Cavan,,227421.98,318482.5,Healthcenters
+238,Coolaney,"Coolaney, Co. Sligo.",Coolaney,Sligo,,160343.891,324734.531,Healthcenters
+239,Geevagh,"Ballynashee, Geevagh, Co. Sligo.",Ballynashee,Sligo,,183945.938,316896.219,Healthcenters
+240,Gurteen,"Rathmadder, Gurteen, Co. Sligo.",Rathmadder,Sligo,,166060.234,305083.5,Healthcenters
+241,Riverstown,"Cuiltylough, Riverstown, Co. Sligo.", Riverstown,Sligo,,174332.313,320447.5,Healthcenters
+242,Skreen,"Gerrib Little, Skreen, Co. Sligo.",Gerrib Little,Sligo,,154254.11,332906.03,Healthcenters
+243,Tubbercurry,"Tubbercurry, Co. Sligo.",Tubbercurry,Sligo,,140748.578,309864.594,Healthcenters
+244,Blacklion,"Main Street, Blacklion.",Main Street,Dublin,,207993.61,338095.38,Healthcenters
+245,Carrick on Shannon,"Community Care Offices, Leitrim Road, Carrick on Shannon, Co. Leitrim", Leitrim Road,CarrickonShannon,,194077.151,299934.575,Healthcenters
+246,Carrigallen,"Clooncorick, Carrigallen, Co. Leitrim",Clooncorick,Leitrim,,223632.203,303111.344,Healthcenters
+247,Deanery Street,"Deanery St, Belturbet",Deanery St,Cavan,,236692.609,317146.406,Healthcenters
+248,Drumalee,"Drumalee Cross, Cavan Town",Drumalee Cross,Cavan,,242394.719,305974.813,Healthcenters
+249,Church View,"Church Street, Cavan",Church Street,Cavan,,242023.458,305251.365,Healthcenters
+250,Corlough,"Corlough, Co Cavan",Corlough,Cavan,,214840.625,319759.25,Healthcenters
+251,Drumkeerin,"Lugmeen, Drumkeerin, Co. Leitrim.",Lugmeen,Leitrim,,190801.063,324379.375,Healthcenters
+252,Drumshanbo,"Ballinamore Road, Drumshambo, Co. Leitrim.",Ballinamore Road,Leitrim,,197694.016,310871.344,Healthcenters
+253,Glenfarne,"Brockagh Lower, Glenfarne, Co. Leitrim.",Brockagh Lower,Leitrim,,200979.891,337310.156,Healthcenters
+254,Kiltyclogher,"Main Street, Kiltyclogher, Co. Leitrim.",Main Street,Leitrim,,197557.453,345241,Healthcenters
+255,Kinlough,"Kinlough, Co. Leitrim.",Kinlough,Leitrim,,181465.12,355604.12,Healthcenters
+256,Darley,"Fairgreen, Cootehill, Co. Cavan",Fairgreen,Cavan,,260033.344,314395.125,Healthcenters
+257,Kilcogy,"Kilcogy Village, Co. Cavan",Kilcogy Village,Cavan,,237923.19,286560.63,Healthcenters
+258,Killeshandra,"Railway Road, Killeshandra, Co. Cavan.",Railway Road,Cavan,,230933.516,307244.719,Healthcenters
+259,Kilnaleck,"Realtog Centre -  Kilnaleck, Co. Cavan.", Kilnaleck,Cavan,,244754.88,290282.13,Healthcenters
+260,Lisdaran,"Lisdaran, Co. Cavan",Lisdaran,Cavan,,241552.078,306234.594,Healthcenters
+261,Loch Gowna,"Loch Gowna, Co. Cavan.",Loch Gowna,Cavan,,230530.8,291847.75,Healthcenters
+262,Lynton House,"Main Street, Cavan",Main Street,Cavan,,241887.285,304995.453,Healthcenters
+263,Mountain Lodge,"Mountain Lodge, Cootehill, Co. Cavan",Mountain Lodge,Cavan,,258479.234,303801.844,Healthcenters
+264,Graiguenamanagh,"Convent Lane, Graiguenamanagh, Co. Kilkenny.",Convent Lane,Kilkenny,,270992.7805,143885.9499,Healthcenters
+265,Mullagh,"Mullagh, Kells, Co. Meath",Mullagh,Meath,,269275.63,285275.59,Healthcenters
+266,Shercock,"Fair Green, Shercock, Co. Cavan.",Fair Green,Cavan,,272499.375,305554.531,Healthcenters
+267,Stradone,"Community Resource Centre, Stradone, Co. Cavan.", Stradone,Cavan,,250110.609,304015,Healthcenters
+268,Newtowngore,"Newtowngore, Carrick on Shannon, Co. Leitrim",Newtowngore,Leitrim,,221215.7,310366.5,Healthcenters
+269,Dromod,"Station Road, Dromod, Co. Leitrim.",Station Road,Leitrim,,205436.125,289833.844,Healthcenters
+270,Broadford,"O'Shea's Acres, Broadford, Co. Clare.", Broadford,Clare,,157305.219,173194.047,Healthcenters
+271,Clarecastle,"Old Road, Clarecastle, Co. Clare.",Old Road,Clare,,134905.168,174034.329,Healthcenters
+272,Corofin,"Kilvoydan, Corofin, Co. Clare.",Kilvoydan,Clare,,128924.25,188992.422,Healthcenters
+273,Ennis,"Mill Road, Ennis, Co. Clare",Mill Road,Clare,,133667.001,177698.584,Healthcenters
+274,Ennistymon,"Ennis Road, Ennistymon, Co. Clare",Ennis Road,Clare,,113376.281,188114.922,Healthcenters
+275,Kilkee,"Church Road, Kilkee, Co. Clare",Church Road,Clare,,88388.464,159584.191,Healthcenters
+276,Kilmihil,"Main Street, Kilmihil, Co. Clare.",Main Street,Clare,,111051.352,164007.828,Healthcenters
+277,Kilrush,"Fahy's Road, Kilrush, Co. Clare",Fahy's Road,Clare,,99365.603,155429.055,Healthcenters
+278,Swanlinbar,"Creamery Road, Swanlinbar, Co. Cavan.",Creamery Road,Cavan,,219321.141,326943.063,Healthcenters
+279,Termon,"Termon, Virginia, Co. Cavan",Termon,Cavan,,257396.775,296363.508,Healthcenters
+280,Tullyvin,"Aghatotan, Tullyvin, Co. Cavan.",Aghatotan,Cavan,,255911,311531.16,Healthcenters
+281,Virginia,"Bailieboro Road, Virginia, Co. Cavan.",Bailieboro Road,Cavan,,260808.953,287640.344,Healthcenters
+282,Carrickmacross,"Emmet Street, Carrickmacross, Co. Monaghan.",Emmet Street,Monaghan,,284349.708,303622.079,Healthcenters
+283,Lisdoonvarna,"Main Street, Lisdoonvarna, Co. Clare",Main Street,Clare,,113407.359,198196.406,Healthcenters
+284,Mullagh,"Mullagh, Co. Clare.",Mullagh,Clare,,104394.789,172985.766,Healthcenters
+285,Scariff,"Drewsborough, Scariff, Co. Clare.",Drewsborough,Clare,,164095.969,184222.141,Healthcenters
+286,Shannon,"Shannon Town Centre, Shannon, Co. Clare.", Shannon,Clare,,140740.086,162254.774,Healthcenters
+287,Sixmilebridge,"Lodge Road, Sixmilebridge, Co. Clare.",Lodge Road,Clare,,147610.734,165935.375,Healthcenters
+288,Tulla,"Tulla, Co. Clare.",Tulla,Clare,,149196.438,179639.266,Healthcenters
+289,Marian Avenue,"Marian Avenue, Borrisokane, Co. Tipperary.",Marian Avenue,Tipperary,,191809.797,193448.078,Healthcenters
+290,Borrisoleigh,"Lower Main Street, Borrisoleigh, Co. Tipperary.",Lower Main Street,Tipperary,,203165.13,166639.2,Healthcenters
+291,Cloughjordan,"Step Road, Cloughjordan, Co. Tipperary.",Step Road,Tipperary,,197661.641,188026.609,Healthcenters
+292,Clones,"Analore Street, Clones, Co. Monaghan.",Analore Street,Monaghan,,250392.796,325646.348,Healthcenters
+293,Clontibret,"Clontibret, Co. Monaghan.",Clontibret,Monaghan,,275099.75,330381.438,Healthcenters
+294,Emyvale,"Main Street, Emyvale, Co. Monaghan",Main Street,Monaghan,,267722.5,344082.94,Healthcenters
+295,Mulladuff,"Mulladuff, Smithboro, Co. Monaghan.",Mulladuff,Monaghan,,258484.23,330496.94,Healthcenters
+296,Rockcorry,"Main Street, Rockcorry, Co. Monaghan",Main Street,Monaghan,,264455.469,319137.438,Healthcenters
+297,Rooskey,"St. Davnet's Hospital Complex, Rooskey, Co. Monaghan.", Rooskey,Monaghan,,267828.056,334172.99,Healthcenters
+298,Scotstown,"Bog Road, Scotstown, Co. Monaghan.",Bog Road,Monaghan,,260701.656,336791.25,Healthcenters
+299,Tullyvara,"Tullyvara, Broomfield, Co. Monaghan.",Tullyvara,Monaghan,,284783.69,310034.19,Healthcenters
+300,Littleton,"Littleton, Thurles, Co. Tipperary.",Littleton,Tipperary,,217725.109,153835.172,Healthcenters
+301,Moyne,"Moyne, Thurles, Co. Tipperary.",Moyne,Tipperary,,219380.547,164845.938,Healthcenters
+302,Newport,"Pound Street, Newport, Co. Tipperary.",Pound Street,Tipperary,,172810.48,162440.27,Healthcenters
+303,Portroe,"Portroe, Nenagh, Co. Tipperary.",Portroe,Tipperary,,176279.828,181244.922,Healthcenters
+304,Rathcabbin,"Rathcabbin, Roscrea, Co. Tipperary.",Rathcabbin,Tipperary,,197796.563,207295.156,Healthcenters
+305,Rearcross,"Rearcross, Newport, Co. Tipperary.",Rearcross,Tipperary,,184046.563,159476.703,Healthcenters
+306,Gaol Road,"Gaol Road, Roscrea, Co. Tipperary.",Gaol Road,Tipperary,,213783.649,189143.021,Healthcenters
+307,Traynor Court,"Traynor Court, Chapel Lane, Roscrea, Co. Tipperary.",Traynor Court,Tipperary,,213466,189331.875,Healthcenters
+308,Templederry,"Templederry, Nenagh, Co. Tipperary.",Templederry,Tipperary,,194964.859,169184.953,Healthcenters
+309,Castletown/Wilkinstown,"Balsaw, Wilkinstown, Co. Meath.",Balsaw,Meath,,285360.594,276361.188,Healthcenters
+310,Drumconrath,"Drumconrath, Co. Meath",Drumconrath,Meath,,288812.5,289739.406,Healthcenters
+311,Duleek,"Navan Road, Duleek, Co. Meath",Navan Road,Meath,,304516.813,268333.094,Healthcenters
+312,Mosney,"Mosney, Co. Meath",Mosney,Meath,,316283.688,269381.031,Healthcenters
+313,Templemore,"Templemore Medical Centre, Bank Street, Co. Tipperary.", Bank Street,Tipperary,,211359.07,171576.432,Healthcenters
+314,Toomevara,"Toomevara, Nenagh, Co. Tipperary.",Toomevara,Tipperary,,197521.469,177611.656,Healthcenters
+315,St. Mary's,"Parnell Street, Thurles, Co. Tipperary.",Parnell Street,Tipperary,,212235.78,158851.67,Healthcenters
+316,Upperchurch,"Upperchurch, Thurles, Co. Tipperary.",Upperchurch,Tipperary,,198804.84,161234.86,Healthcenters
+317,Bishop Street,"Bishop Street, Limerick.",Bishop Street, Limerick,,157953.003,157690.758,Healthcenters
+318,Cappamore,"Moore Street, Cappamore, Co. Limerick.",Moore Street,Limerick,,177281.344,151453.156,Healthcenters
+319,Caherconlish,"Main Street, Caherconlish, Co. Limerick.",Main Street,Limerick,,168211.438,149225.891,Healthcenters
+320,Castleconnell,"Castleconnell, Co. Limerick.",Castleconnell, Limerick,,166125.969,162537.672,Healthcenters
+321,Laytown/Stamullen,"Alverno Heights, Laytown, Co. Meath.",Alverno Heights,Meath,,316327.75,271561.375,Healthcenters
+322,Johnstown,"Johnstown, Navan, Co. Meath",Johnstown,Meath,,289590.594,265869.844,Healthcenters
+323,Nobber,"Muff, Nobber, Co. Meath.",Muff,Meath,,281965.313,286970.656,Healthcenters
+324,Slane,"Chapel Street, Slane, Co. Meath.",Chapel Street,Meath,,296346.063,274435.531,Healthcenters
+325,Murroe,"Main Street, Murroe, Co. Limerick.",Main Street,Limerick,,173075.641,155659.469,Healthcenters
+326,Roxtown,"Roxtown Health Centre, Old Clare Street, Limerick",Roxtown Health Centre,Limerick,,161263.588,157678.552,Healthcenters
+327,Ballykenny,"Ballykenny, Co. Limerick.",Ballykenny, Limerick,,125872.891,127568.805,Healthcenters
+328,Broadford,"Main Street, Broadford, Co. Limerick.",Main Street,Limerick,,133463.844,121923.305,Healthcenters
+329,Bruff,"Main Street, Bruff, Co. Limerick.",Main Street,Limerick,,162821.652,136230.458,Healthcenters
+330,Bruree,"Main Street, Bruree, Co. Limerick.",Main Street,Limerick,,155105.938,130498.625,Healthcenters
+331,Castletown,"Castletown, Kilmallock, Co. Limerick.",Castletown,Limerick,,144857.031,130561.063,Healthcenters
+332,Croom,"High Street, Croom, Co. Limerick.",High Street,Limerick,,151389.031,141044.953,Healthcenters
+333,Dooradoyle,"St. Nessan's Road, Dooradoyle, Limerick.",St. Nessan's Road,Limerick,,155672.052,154053.991,Healthcenters
+334,Dromcollogher,"Dromcollogher, Co. Limerick.",Dromcollogher, Limerick,,138304.33,121138.48,Healthcenters
+335,Fedamore,"Fedamore, Co. Limerick.",Fedamore, Limerick,,159185.953,143935.188,Healthcenters
+336,Foynes,"Main Street, Foynes, Co. Limerick.",Main Street,Limerick,,124992.406,151673.563,Healthcenters
+337,Galbally,"Galbally, Co. Limerick.",Galbally, Limerick,,180274.328,127614.281,Healthcenters
+338,Enniskeane,"Community Centre, Enniskeane, Co. Cork", Enniskeane,Cork,,134979.61,54052.802,Healthcenters
+339,Togher,"Togher Community Association, Togher Road, Cork", Togher Road,Cork,,165905.576,69257.995,Healthcenters
+340,Glin,"Glin, Co. Limerick.",Glin, Limerick,,112767.945,147224.656,Healthcenters
+341,Kilfinanne,"Kilfinanne, Co. Limerick.",Kilfinanne, Limerick,,167859.766,122986.406,Healthcenters
+342,Kilmallock,"Railway Road, Kilmallock, Co. Limerick.",Railway Road,Limerick,,161506.484,127306.961,Healthcenters
+343,Kilmeedy,"Kilmeedy, Co. Limerick.",Kilmeedy, Limerick,,137714.109,129645.539,Healthcenters
+344,Moyross,"Moyross Community Enterprise Centre, Moyross, Limerick.", Moyross,Limerick,,156314.781,159074.563,Healthcenters
+345,Gortboy,"Gortboy, Newcastlewest, Co. Limerick.",Gortboy,Limerick,,128448.406,134193.172,Healthcenters
+346,Rathkeale,"Rathkeale, Co. Limerick.",Rathkeale, Limerick,,137017.875,141801.813,Healthcenters
+347,Roxtown,"Old Clare Street, Limerick.",Old Clare Street, Limerick,,158407.984,157263.813,Healthcenters
+348,Southill,"291A Donough O'Malley Park, Southill, Limerick.",Donough O'Malley Park,Limerick,,158853.438,155063.125,Healthcenters
+349,Grattan Street,"Grattan Street, Cork.",Grattan Street,Cork,,167059.701,71914.714,Healthcenters
+350,Blackpool,"Blackpool Community Centre, Great William O'Brien Street, Blackpool, Cork.", Great William O'Brien Street,Cork,,167405.016,73244.547,Healthcenters
+351,Macroom,"Middle Square, Macroom, Co. Cork.",Middle Square,Cork,,133500.89,73144.84,Healthcenters
+352,Rylane,"Knocknagoun, Rylane, Co. Cork.",Knocknagoun,Cork,,142253.234,81576.883,Healthcenters
+353,Enniscrone,"Nephin Drive, Enniscrone, Co. Sligo.",Nephin Drive,Sligo,,129439.734,330157.219,Healthcenters
+354,Coolock,"Cromcastle Road, Coolock, Dublin 5.",Cromcastle Road,Dublin,,318719.23,239825.639,Healthcenters
+355,Ramelton,"Back Road, Ramelton, Co. Donegal",Back Road,Donegal,,222500.8,420817.88,Healthcenters
+356,Damastown,"Damastown Industrial Estate, Mulhuddart, Dublin 15", Mulhuddart,Dublin,,305859.66,241179.77,Healthcenters
+357,Cois Abhann Residential Centre,"Greencloyne, Youghal, Co. Cork",Greencloyne,Cork,,209694.935,78823.722,Healthcenters
+358,Blarney,"The Square, Blarney, Co. Cork.",The Square,Cork,,160931.484,75740.664,Healthcenters
+359,Gurranebraher,"St. Mary's Orthopaedic Hospital, Gurranebraher, Co. Cork.", Gurranebraher,Cork,,165820.49,72600.27,Healthcenters
+360,Farranree,"Farranree Community Centre, Popham's Road, Farranree, Cork.", Popham's Road,Cork,,166971.024,73673.053,Healthcenters
+361,Mayfield,"Old Youghal Road, Cork.",Old Youghal Road,Cork,,169647.581,73325.74,Healthcenters
+362,Riverstown,"Riverstown Village, Glanmire, Cork.",Riverstown Village,Cork,,172824.156,75177.875,Healthcenters
+363,Cobh,"Bishop's Street, Cobh, Co. Cork.",Bishop's Street,Cork,,179751.443,66779.209,Healthcenters
+364,Ballymacoda,"Ballymacoda, Youghal, Co. Cork.",Ballymacoda,Cork,,203981.422,71063.203,Healthcenters
+365,Youghal,"The Lodge Youghal Community Centre, Cork Hill, Youghal, Co. Cork.", Youghal,Cork,,209715.014,78279.606,Healthcenters
+366,Castlemartyr,"Main Street, Castlemartyr, Co. Cork.",Main Street,Cork,,196256.292,73244.014,Healthcenters
+367,Kilmurray,"Kilmurray, Macroom, Co. Cork.",Kilmurray,Cork,,139280.19,65892.16,Healthcenters
+368,Cobh,"Canon O'Leary Place, Cobh, Co. Cork.", Cobh,Cork,,179708.021,66694.09,Healthcenters
+369,Killbrittain,"Killbrittain, Co. Cork.",Killbrittain,Cork,,152159.97,46941.79,Healthcenters
+370,Curry,"Curry, Co. Sligo.",Curry,Sligo,,149344.17,306076.78,Healthcenters
+371,Carrigtwohill,"Main Street, Carrigtwohill, Co. Cork.",Main Street,Cork,,182343.422,72990.797,Healthcenters
+372,Cloyne,"Canon Lynch Place, Chapel Street, Cloyne, Co. Cork.", Chapel Street,Cloyne,,191580.813,67759.008,Healthcenters
+373,Fairhill,"27 Bridevalley View, Fairhill, Cork.",Bridevalley View,Cork,,182343.422,72990.797,Healthcenters
+374,Eason's Hill,"Eason's Hill, Cork.",Eason's Hill,Cork,,167305.298,72453.044,Healthcenters
+375,The Glen,"The Glen Resource and Leisure Centre, The Glen, Cork.", The Glen,Cork,,168538.375,73331.031,Healthcenters
+376,Carrignavar,"Carrignavar, Co. Cork.",Carrignavar,Cork,,167206.938,81850.016,Healthcenters
+377,Lotamore,"20 Lotamore Park, Mayfield, Cork.",Lotamore Park,Cork,,171215.73,73659.503,Healthcenters
+378,Baltimore,"Baltimore, Co. Cork.",Baltimore,Cork,,104654.055,26451.99,Healthcenters
+379,Bere Island,"Rerrin, Bere Island, Co. Cork.",Rerrin,Cork,,71325.33,44672.51,Healthcenters
+380,Tralee,"Kerry Community Services, Rathass, Co. Kerry",Kerry Community Services,Kerry,,85000.438,114125.898,Healthcenters
+381,Drimoleague,"East End, Drimoleague, Co. Cork.",East End,Cork,,112955.352,46167.375,Healthcenters
+382,Drinagh,"Drinagh, Co. Cork.",Drinagh,Cork,,119908.27,44347.98,Healthcenters
+383,Bray,"Block B Civic Centre, Main Street, Bray, Co. Wicklow.", Main Street,Wicklow,,326381.596,218399.828,Healthcenters
+384,Blessington,"Kilbride Road, Blessington, Co. Wicklow.",Kilbride Road,Wicklow,,298270.156,214198.391,Healthcenters
+385,Dunmanway,"Main Street, Dunmanway, Co. Cork",Main Street,Cork,,123339.523,52828.102,Healthcenters
+386,Eyeries,"Eyeries, Co. Cork.",Eyeries,Cork,,64741.44,50929.45,Healthcenters
+387,Glengarriff,"Glengarriff, Co. Cork.",Glengarriff,Cork,,92980.164,56366.113,Healthcenters
+388,Goleen,"Church Road, Goleen, Co. Cork.",Church Road,Cork,,81102.8,28219.07,Healthcenters
+389,Inchigeela,"Inchigeela, Co. Cork.",Inchigeela,Cork,,122364.148,66060.961,Healthcenters
+390,Johnstown,"Johnstown, Macroom, Co. Cork.",Johnstown,Cork,,125278.26,62428.91,Healthcenters
+391,Kealkil,"Kealkil, Co. Cork.",Kealkil,Cork,,104307.266,55989.895,Healthcenters
+392,Kilcrohane,"Kilcrohane, Co. Cork",Kilcrohane,Cork,,81944.07,37798.5,Healthcenters
+393,Leap,"Main Street, Leap, Co. Cork.",Main Street,Cork,,120993.594,37079.688,Healthcenters
+394,Mountview,"Shelerin Road, Clonsilla, Dublin 15.",Shelerin Road,Dublin,,305931.281,238840,Healthcenters
+395,Mullingar,"Longford Road, Mullingar, Co. Westmeath.",Longford Road,Westmeath,,243215.281,253904.984,Healthcenters
+396,Moyderwell,"Tralee Health Centre, Moyderwell, Tralee, Co. Kerry", Tralee, Kerry,,84018.771,114149.209,Healthcenters
+397,Clontarf,"161 - 171 Vernon Avenue, Dublin 3.",Vernon Avenue,Dublin,,320096.071,236944.558,Healthcenters
+398,Schull,"Hospital Grounds, Schull, Co. Cork.", Schull,Cork,,92746.42,30979.83,Healthcenters
+399,Union Hall,"Main Street, Union Hall, Co. Cork.",Main Street,Cork,,120900.211,34517.59,Healthcenters
+400,Ballynoe,"Ballynoe, Co. Cork.",Ballynoe,Cork,,193405.188,89584.813,Healthcenters
+401,Buttevant,"Mercy Day Care Centre, Buttevant, Co. Cork.", Buttevant,Cork,,154280.276,108763.929,Healthcenters
+402,Castletownroche,"Community Hall, Castletownroche, Co. Cork.", Castletownroche,Cork,,168203.093,102252.601,Healthcenters
+403,Newtownbarry,"Newtownbarry, Charleville, Co. Cork.", Charleville,Cork,,153787.053,123023.214,Healthcenters
+404,FRC Broad Street,"Family Resource Centre, Broad Street, Charleville, Co. Cork.", Broad Street,Cork,,153596.375,122746.461,Healthcenters
+405,Rhode,"Rhode, Co. Offaly.",Rhode,Offaly,,253410.438,233461.563,Healthcenters
+406,Cre House,"Grange, Templemore Road, Roscrea, Co. Tipperary", Templemore Road,Tipperary,,214008.969,188107.328,Healthcenters
+407,Skerries,"Thomas Hand Street, Skerries, Co. Dublin.",Thomas Hand Street,Dublin,,325192.344,260445.531,Healthcenters
+408,Dromina,"Community Centre, Dromina, Co. Cork.", Dromina,Cork,,145370.672,118293.766,Healthcenters
+409,Chapel Hill,"Chapel Hill, Fermoy, Co. Cork.",Chapel Hill,Cork,,180856.093,98307.646,Healthcenters
+410,Blackwater,"Blackwater Day Centre, Fermoy, Co. Cork.", Fermoy,Cork,,181016.089,98475.152,Healthcenters
+411,Freemount,"Community Centre, Freemount, Co. Cork.", Freemount,Cork,,139698.61,114301.38,Healthcenters
+412,Glantane,"Community Hall, Glantane, Co. Cork.", Glantane,Cork,,148772.08,95002.96,Healthcenters
+413,Glanworth,"Main Street, Glanworth, Co. Cork.",Main Street,Cork,,175638.83,103857.27,Healthcenters
+414,Wicklow,"Glenside Road, Wicklow Town, Co. Wicklow.",Glenside Road,Wicklow,,332007.127,193631.898,Healthcenters
+415,Peter Street Primary Care Unit,"Laurence Town Centre, Peter Street, Drogheda, Co. Louth", Peter Street,Louth,,308937.5,275274.188,Healthcenters
+416,Kanturk,"Community Hospital, Hospital Hill, Kanturk, Co. Cork.", Kanturk,Cork,,137481.406,103036.164,Healthcenters
+417,Kildorrery,"Limerick Road, Kildorrery, Co. Cork.",Limerick Road,Cork,,170806.453,110622.625,Healthcenters
+418,Killavullen,"Dispensary, Killavullen, Co. Cork.", Killavullen,Cork,,164618.27,99324.41,Healthcenters
+419,Kilworth,"Main Street, Kilworth, Co. Cork.",Main Street,Cork,,183304.656,102620.508,Healthcenters
+420,Kiskeam,"Community Centre, Kiskeam, Co. Cork.", Kiskeam,Cork,,121044.727,103326.016,Healthcenters
+421,Bank Place,"134 Bank Place, Mallow, Co. Cork.", Mallow,Cork,,155954.703,98454.172,Healthcenters
+422,Millmount,"Millmount Avenue, Drumcondra, Dublin 9.",Millmount Avenue,Dublin,,315960.502,236895.032,Healthcenters
+423,Gouldshill,"Gouldshill House, Mallow, Co. Cork.", Mallow,Cork,,154765.359,96530.516,Healthcenters
+424,Newberry,"Newberry Hospital, Kilvealaton East, Mallow, Co. Cork.", Kilvealaton East,Cork,,153145.359,97226.313,Healthcenters
+425,Norwood,"Norwood Day Centre, Mallow, Co. Cork.", Mallow,Cork,,155510.844,98591.125,Healthcenters
+426,St. Joseph's,"St. Joseph's Road, Mallow, Co. Cork.",St. Joseph's Road,Cork,,156225.266,98340.969,Healthcenters
+427,Comm Hosp,"Community Hospital, Millstreet, Co. Cork.", Millstreet,Cork,,126113.211,90025.461,Healthcenters
+428,Claragh Road,"Claragh Road, Millstreet, Co.Cork.",Claragh Road,Cork,,126833.962,90127.66,Healthcenters
+429,Drishane,"Drishane Castle, Millstreet, Co. Cork.", Millstreet,Cork,,128210.98,92204.31,Healthcenters
+430,Wellmount,"Wellmount Park, Finglas, Dublin 11.",Wellmount Park,Dublin,,312390.283,238543.333,Healthcenters
+431,Tearmon Ui Chaoimh,"Tearmon Ui Chaoimh Day Centre, Mitchelstown, Co. Cork.", Mitchelstown,Cork,,181444.219,112556.078,Healthcenters
+432,Newmarket,"Charleville Road, Newmarket, Co. Cork.",Charleville Road,Cork,,131720.359,107589.024,Healthcenters
+433,Newtown,"Newtown, Co. Cork.",Newtown,Cork,,99999.445,49102.363,Healthcenters
+434,Church Road,"Church Road, Ardfert, Co. Kerry.",Church Road,Kerry,,78542,120911.688,Healthcenters
+435,Ballybunion,"C/o Dr. Jim O' Sullivan, Ballybunion, Co. Kerry", Ballybunion,Kerry,,86419.57,141340.239,Healthcenters
+436,Brosna,"The Health Centre, Brosna, Co. Kerry", Brosna,Kerry,,113343.7,118620.66,Healthcenters
+437,Caherciveen,"East End, Caherciveen, Co. Kerry.",East End,Kerry,,47410.598,79676.898,Healthcenters
+438,Camp,"Camp Cross, Tralee, Co. Kerry",Camp Cross,Kerry,,69423.648,109352.523,Healthcenters
+439,Tonachy House,"Killarney Rd., Castleisland, Co. Kerry",Killarney Rd.,Kerry,,99881.313,109663.305,Healthcenters
+440,Castlemaine,"Community Centre, Castlemaine, Co. Kerry", Castlemaine,Kerry,,83713.516,103611.016,Healthcenters
+441,Causeway,"Marian Trc., Causeway, Co. Kerry",Marian Trc.,Kerry,,82111.52,130238.48,Healthcenters
+442,Farranfore,"Farranfore, Co. Kerry",Farranfore,Kerry,,93992.133,103305.148,Healthcenters
+443,Glenbeigh,"Kilnabrack Lower, Glenbeigh Co. Kerry",Kilnabrack Lower,Kerry,,66658.203,90959.367,Healthcenters
+444,Gneeveguilla,"Gneeveguilla, Co. Kerry",Gneeveguilla,Kerry,,112920.617,96703.055,Healthcenters
+445,Kielduff,"Community Centre, Rathanny, Co. Kerry", Rathanny,Kerry,,90498.16,117134.99,Healthcenters
+446,Kilgarven,"Kilgarven, Co. Kerry",Kilgarven,Kerry,,100787.484,73306.648,Healthcenters
+447,Park Road,"Park Rd., Killarney, Co. Kerry",Park Rd.,Kerry,,98147.097,90844.208,Healthcenters
+448,Knocknagoshel,"Community Centre, Knocknagoshel, Co. Kerry", Knocknagoshel,Kerry,,105640.797,120739.68,Healthcenters
+449,Listowel,"Grounds of Listowel Hospital, Co. Kerry",Grounds of Listowel Hospital,Kerry,,98225.711,133981.422,Healthcenters
+450,Listowel OPD,"Hospital Grounds, Listowel, Co. Kerry", Listowel,Kerry,,98225.711,133981.422,Healthcenters
+451,Lixnaw,"C/o Dr. Fahys Surgery, Lixnaw, Co. Kerry", Lixnaw,Kerry,,89980.352,129784.844,Healthcenters
+452,Moyvane,"Community Centre, Moyvane, Co. Kerry",Community Centre,Kerry,,107069.992,139733.188,Healthcenters
+453,Portmagee,"Portmagee Village, Co. Kerry",Portmagee Village,Kerry,,37201.05,72985.68,Healthcenters
+454,Rathmore,"Bleak House, Rathmore, Co. Kerry",Bleak House,Kerry,,114335.305,92302.93,Healthcenters
+455,Scariff,"Emlagh, Waterville, Co. Kerry",Emlagh,Kerry,,50416.29,68895.28,Healthcenters
+456,Sneem,"South Square, Sneem, Co. Kerry",South Square,Kerry,,69125.172,66719.781,Healthcenters
+457,Tarbert,"Tarbert, Co. Kerry",Tarbert,Kerry,,106410.367,147820.453,Healthcenters
+458,Waterville,"Main Street, Waterville, Co. Kerry",Main Street,Kerry,,50326.641,65801.617,Healthcenters
+459,Ballyragget,"Chapel Avenue, Ballyragget, Co. Kilkenny.",Chapel Avenue,Kilkenny,,245140.281,171031.859,Healthcenters
+460,Bennettsbridge,"Bennettsbridge, Co. Kilkenny.",Bennettsbridge,Kilkenny,,255621.5,149145.359,Healthcenters
+461,Castlecomer,"Kilkenny Street, Castlecomer, Co. Kilkenny.",Kilkenny Street,Kilkenny,,253306.563,172383.047,Healthcenters
+462,Clogh,"Clogh, Castlecomer, Co. Kilkenny.",Clogh,Kilkenny,,256356.891,179259.578,Healthcenters
+463,Coolbawn,"Castlecomer, Co. Kilkenny.",Castlecomer,Kilkenny,,255532.859,174644.703,Healthcenters
+464,Freshford,"Kilkenny Street, Freshford, Co. Kilkenny.",Kilkenny Street,Kilkenny,,241068.375,164731.703,Healthcenters
+465,Goresbridge,"Barrack Street, Goresbridge, Co. Kilkenny.",Barrack Street,Kilkenny,,268111.719,153707.891,Healthcenters
+466,Gowran,"Main Street, Gowran, Co. Kilkenny.",Main Street,Kilkenny,,263496.25,153563.516,Healthcenters
+467,Hacketstown,"Moffets Lane, Hacketstown, Co. Carlow.",Moffets Lane,Carlow,,296969.688,180287.297,Healthcenters
+468,Inistioge,"Inistioge, Co. Kilkenny.",Inistioge,Kilkenny,,263833.188,137459.781,Healthcenters
+469,Johnstown,"Johnstown, Co. Kilkenny",Johnstown,Kilkenny,,229776.906,166121.078,Healthcenters
+470,Kells,"Kells, Co. Kilkenny.",Kells,Kilkenny,,249239.516,143413.156,Healthcenters
+471,Kilkenny,"Community Care, James's Green, Kilkenny.",Community Care,Kilkenny,,250221.383,155793.872,Healthcenters
+472,Kilmanagh,"Kilmanagh, Co. Kilkenny.",Kilmanagh,Kilkenny,,239027.703,152166.719,Healthcenters
+473,Kilmoganny,"Mill Street, Kilmoganny, Co. Kilkenny.",Mill Street,Kilkenny,,245707.047,134644.109,Healthcenters
+474,Leighlinbridge,"St. Lazerian's Street, Leighlinbridge, Co. Carlow.",St. Lazerian's Street,Carlow,,268926.281,165430.375,Healthcenters
+475,Lisdowney,"Lisdowney, Co. Kilkenny.",Lisdowney,Kilkenny,,241124.875,171155.516,Healthcenters
+476,Marley,"Marley, Graiguenamanagh, Co. Kilkenny",Marley,Kilkenny,,274453.969,141533.313,Healthcenters
+477,Myshall,"Carlow Road, Myshall, Co. Carlow.",Carlow Road,Carlow,,282426.406,160210.656,Healthcenters
+478,Rathvilly,"Phelan Street, Rathvilly, Co. Carlow.",Phelan Street,Carlow,,288194.38,181760.77,Healthcenters
+479,Rosbercon,"Millbanks, Rosbercon, Via New Ross, Co. Kilkenny.",Millbanks,Kilkenny,,271064.458,127550.102,Healthcenters
+480,Stoneyford,"Stoneyford, Co. Kilkenny.",Stoneyford,Kilkenny,,252293.516,143053.703,Healthcenters
+481,Tinnahinch,"Graiguenamanagh, Co. Kilkenny.",Graiguenamanagh,Kilkenny,,271002.313,143399.25,Healthcenters
+482,Tullaroan,"Tullaroan, Co. Kilkenny.",Tullaroan,Kilkenny,,238144.25,156752.8,Healthcenters
+483,Tullow,"Shillelagh Road, Tullow, Co. Carlow.",Shillelagh Road,Kilkenny,,285673.16,173241.41,Healthcenters
+484,Urlingford,"Main Street, Urlingford, Co. Kilkenny",Main Street,Kilkenny,,228560.938,163506.797,Healthcenters
+485,Windgap,"Coolehill Upper, Windgap, Co. Kilkenny.",Coolehill Upper,Kilkenny,,240922.375,134458.813,Healthcenters
+486,Cappoquin,"Cappoquin, Co. Waterford.",Cappoquin,Waterford,,210797,99317.18,Healthcenters
+487,Clashmore,"Chapel Lane, Clashmore, Co. Waterford.",Chapel Lane,Waterford,,212514.063,84100,Healthcenters
+488,Dungarvan,"Saint Mary Street, Dungarvan, Co. Waterford.",Saint Mary Street,Waterford,,226021.111,92950.214,Healthcenters
+489,Dunmore East,"Lower Dunmore, Dunmore East, Co. Waterford.",Lower Dunmore,Waterford,,268834.7,100838.463,Healthcenters
+490,Glenmore,"Robinstown, Glenmore, Co. Kilkenny.",Robinstown,Kilkenny,,266250.031,122853.344,Healthcenters
+491,Kereen,"Kereen, Co. Waterford.",Kereen,Waterford,,214054.125,93081.484,Healthcenters
+492,Kilmacow,"Lower Kilmacow, Co. Kilkenny.",Lower Kilmacow,Kilkenny,,256919.75,117099.461,Healthcenters
+493,Kilmacthomas,"Hillside Crescent, Kilmacthomas, Co. Waterford.",Hillside Crescent,Kilkenny,,239297.016,105734.031,Healthcenters
+494,Kilmeaden,"Kilmeaden, Co. Waterford.",Kilmeaden,Waterford,,251887.781,109115.844,Healthcenters
+495,Knockanore,"Knockanore, Co. Waterford.",Knockanore,Waterford,,207460.52,89105.63,Healthcenters
+496,Lemybrien,"Lemybrien, Co. Waterford.",Lemybrien,Waterford,,232647.094,102366.852,Healthcenters
+497,Mooncoin,"Main Street, Mooncoin, Co. Kilkenny.",Main Street,Kilkenny,,250947.891,115806.195,Healthcenters
+498,Mullinavat,"Garrandaragh, Mullinavat, Co. Kilkenny.",Garrandaragh,Kilkenny,,256503.016,124374.727,Healthcenters
+499,Piltown,"Main Street, Piltown, Co. Kilkenny.",Main Street,Kilkenny,,245504.953,122374.547,Healthcenters
+500,Portlaw,"Portlaw, Co. Waterford.",Portlaw,Waterford,,246418.452,115303.99,Healthcenters
+501,Seskinane,"Seskinane, Touraneena, Ballinamult, Co. Waterford.",Seskinane,Ballinamult,,220653.641,104594.305,Healthcenters
+502,Tallow,"Convent Street, Tallow, Co. Waterford.",Convent Street,Waterford,,199545.547,93705.891,Healthcenters
+503,Ballybeg,"Community Centre, Ballybeg, Cork Road, Waterford.",Community Centre,Waterford,,258645.286,110007.501,Healthcenters
+504,Roscrea,"Templemore Road, Roscrea, Co. Tipperary",Templemore Road,Tipperary,,213967.141,188307.844,Healthcenters
+505,Redhills,"G.a.a. Club, Knockroe, Co. Cavan",G.a.a. Club,Cavan,,244393.813,317046.688,Healthcenters
+506,Churchtown,"Main Street, Mallow, Co. Cork",Main Street,Cork,,150106.953,113520.32,Healthcenters
+507,St. Frances,"Rathealy Road, Fermoy, Co. Cork",Rathealy Road,Cork,,181554.203,98864.148,Healthcenters
+508,Liscarroll,"Main Street, Co. Cork",Main Street,Cork,,144992.245,112285.378,Healthcenters
+509,Meelin,"Knockduff Upper, Newmarket, Co. Cork",Knockduff Upper,Cork,,129451.492,111284.461,Healthcenters
+510,Milford,Co. Cork,Co. Cork,Cork,,141662.629,121345.173,Healthcenters
+511,Rathcormac,"Main Street, Co. Cork",Main Street,Cork,,180608.234,91724.914,Healthcenters
+512,Caherdaniel,"An Post, Post Office, Co. Kerry",An Post,Kerry,,55032.02,59504.215,Healthcenters
+513,Granard,"Carra, Granard, Co. Longford.",Carra,Longford,,233865.86,281284.38,Healthcenters
+514,Bantry,"The Quays, Bantry, Co. Cork.",The Quays,Cork,,99683.267,48449.644,Healthcenters
+515,Loughboy,"Springhill Health Centre, Waterford Road, Kilkenny", Waterford Road,Kilkenny,,251382.441,154715.48,Healthcenters
+516,Larkhill,"Collins Avenue Extension, Dublin 9.",Collins Avenue Extension,Dublin,,316476.012,238584.203,Healthcenters
+517,Swords,"Bridge Street, Swords, Co. Dublin.",Bridge Street,Dublin,,318164.75,246976.281,Healthcenters
+518,Howth,"Main Street, Howth, Co. Dublin.",Main Street,Dublin,,328793.362,239038.174,Healthcenters
+519,Terenure,"68 Terenure Road North, Dublin 6.",Terenure Road ,Dublin,,314484.063,230455.219,Healthcenters
+520,Lucan,"1a Sarsfield Park, Co. Dublin",Sarsfield Park,Dublin,,303318.281,235189.938,Healthcenters
+521,Kilcormac,"Freagh, Kilcormac, Co. Offaly.",Freagh,Offaly,,218043.797,213914.375,Healthcenters
+522,Thomastown,"Lady's Well Street, Thomastown, Co. Kilkenny.",Lady's Well Street,Kilkenny,,258271.129,142117.153,Healthcenters
+523,Navan,"Child And Family Centre, County Clinic, Navan, Co. Meath.", Navan,Meath,,286318.583,267563.145,Healthcenters
+524,Malahide,"New Street, Malahide, Co. Dublin.",New Street,Dublin,,322692.853,246111.994,Healthcenters
+525,Ballymore,"Moate Road, Ballymore, Co. Westmeath.",Moate Road,Westmeath,,221263.563,248936.156,Healthcenters
+526,Kilbarrack,"Foxfield Crescent, Kilbarrack, Dublin 5.", Kilbarrack,Dublin,,322772.442,238763.854,Healthcenters
+527,Ballyporeen,"Church Street, Ballyporeen, Co. Tipperary.",Church Street,Tipperary,,193230.484,113216.836,Healthcenters
+528,Dromahaire,"Drumlease Estate, Dromahaire, Co. Leitrim",Drumlease Estate,Leitrim,,180862.08,331169.16,Healthcenters
+529,Lismore,"Park's Road, Lismore, Co. Waterford.",Park's Road,Waterford,,204998.911,98323.188,Healthcenters
+530,Kilcock,"Whitestown House, Kilcock, Co. Kildare.", Kilcock,Kildare,,288068.688,240236.109,Healthcenters
+531,Deansrath,"St. Cuthbert's Road, Clondalkin, Dublin 22.",St. Cuthbert's Road,Dublin,,305035.688,231526.25,Healthcenters
+532,Kingscourt,"Kells Road, Kingscourt, Co. Cavan.",Kells Road,Cavan,,278647.66,295291.22,Healthcenters
+533,Inisboffin,"Middle Quarter, Inisboffin, Co. Galway.",Middle Quarter,Galway,,53780.773,264917.156,Healthcenters
+534,Innishannon,"Innishannon Medical Centre, Main Street, Innishannon, Co. Cork", Main Street,Cork,,154738.67,57068.34,Healthcenters
+535,Tallow,"Conna, Co. Cork.",Conna,Cork,,192687.64,93439.56,Healthcenters
+536,Emo,"Emo, Co. Laois.",Emo,Laois,,253032.844,205397,Healthcenters
+537,Edenderry,"Ofalia House, St. Mary's Street, Edenderry, Co. Offaly.", St. Mary's Street,Offaly,,262456.725,232120.305,Healthcenters
+538,Castletownbere,"Bank Place, Castletownbere, Co. Cork.", Castletownbere,Cork,,67638.23,45866.9,Healthcenters
+539,Heatherside,"Heatherside Hospital, Doneraile, Co. Cork.",Heatherside Hospital,Cork,,159221.92,113269.77,Healthcenters
+540,St. Anne's Road,"St. Anne's Road, Killarney, Co. Kerry",St. Anne's Road,Kerry,,96623.461,91103.313,Healthcenters
+541,Ballybrittas,"Main Street, Co. Laois",Main Street,Laois,,257921.859,206915.766,Healthcenters
+542,Milford,"Kyle House, Kyle, Co. Cork",Kyle House,Cork,,141334.875,119572.477,Healthcenters
+543,Armagh Road Primary Care Services,"HSE, SAINT COLUMBA'S, ARMAGH ROAD, DUBLIN 12",HSE,Dublin,,312734.1213,231305.257,Healthcenters
+544,Castlelyons,"1 Main Street, Co. Cork",Main Street, Cork,,183915.375,93021.828,Healthcenters
+545,Boherbue,"The Corner House, 18 Main Street, Co. Cork",Main Street,Cork,,126846.148,101279.68,Healthcenters
+546,Callan Primary Care Centre,Co. Kilkenny.,Co. Kilkenny.,Kilkenny,,241483.392,143688.5627,Healthcenters
+547,Moate,"The Newtown, Moate, Co. Westmeath.",The Newtown,Westmeath,,218996.59,238407.792,Healthcenters
+548,Monasterevin,Co. Kildare.,Co. Kildare.,Kildare,,263094.721,210500.676,Healthcenters
+549,Killenaule,"River Street, Killenaule, Co. Tipperary.",River Street,Tipperary,,222361.48,146396.47,Healthcenters
+550,College Road,"Castleisland, Co. Kerry",Castleisland,Kerry,,100474.454,110121.412,Healthcenters
+551,Castleblaney,"Thomas Street, Castleblaney, Co. Monaghan.",Thomas Street,Monaghan,,282777.519,319637.688,Healthcenters
+552,Mizen Primary Care Centre,"Ardmanagh Road, Schull, Co. Cork",Ardmanagh Road,Cork,,92566.172,31667.68,Healthcenters
+553,Glencrow,"Moville, Co. Donegal.",Moville, Donegal,,260862.08,438382.59,Healthcenters
+554,Ionad Sláinte Inis Bigil,"Inis Bigil, Co. Mhaigh Eo",Inis Bigil, Mhaigh Eo,,75227.123,307320.123,Healthcenters
+555,Ionad Sláinte Béal an Mhuirthead,"Béal an Mhuirthead, Co. Mhaigh Eo",Béal an Mhuirthead,Mhaigh Eo,,70510.641,332860.5,Healthcenters
+556,Ionad Sláinte Bhaile na hAbhann,"An Tulach, Bhaile na hAbhann, Co. na Gaillimhe",An Tulach,naGaillimhe,,167520.328,248263.484,Healthcenters
+557,Ionad Sláinte Bhaile na Cille,"Bhaile na Cille, Co. na Gaillimhe",Bhaile na Cille,naGaillimhe,,145844.953,194952.453,Healthcenters
+558,Ionad Sláinte Chamuis,"Camus, Co. na Gaillimhe",Camus,naGaillimhe,,97048.18,237130.359,Healthcenters
+559,Ionad Sláinte Charna,"Carna, Co. na Gaillimhe",Carna,naGaillimhe,,78230.672,231899.688,Healthcenters
+560,Ionad Sláinte an Fháirche,"An Fháirche, Co. na Gaillimhe",An Fháirche,naGaillimhe,,109684.609,255834.906,Healthcenters
+561,Ionad Sláinte Ros Muc,"Ros Muc, Co. na Gaillimhe",Ros Muc,naGaillimhe,,91902.25,236118.594,Healthcenters
+562,Ionad Sláinte an Spidéil,"An Spidéal, Co. na Gaillimhe",An Spidéal,naGaillimhe,,112891.344,222404.891,Healthcenters
+563,Ionad Sláinte Oileán Thoraí,"An Baile Thiar, Oileán Thoraí, Co. Dhún Na nGall",An Baile Thiar,DhúnNanGall,,185787.28,446387.75,Healthcenters
+564,Oileán Claéire,"Cape Clear Island, Co. Chorcaí",Cape Clear Island,Chorcaí,,95415.95,21366.26,Healthcenters
+565,Ionad Sláinte Daingean Uí Chúis,"Hospital Grounds, Dingle, Co. Kerry",Hospital Grounds,Kerry,,44317.164,101592.344,Healthcenters
+566,Ionad Sláinte Béal an Mhuirthead,"Ospidéal Pobail Bhéal an Mhuirthead, Béal an Mhuirthead Co. Mhaigh Eo",Ospidéal Pobail Bhéal an Mhuirthead,Mhaigh Eo,,70510.641,332860.5,Healthcenters
+567,Ionad Sláinte Inis Meáin,"Inis Meáin, Co. na Gaillimhe",Inis Meáin,naGaillimhe,,93897.766,204972.594,Healthcenters
+568,Ionad Sláinte Inis Oírr,"Inis Oírr, Co. na Gaillimhe",Inis Oírr,naGaillimhe,,97832.75,202866.391,Healthcenters
+569,Ionad Sláinte Béal Átha na mBreac,"Béal Átha na mBreac, An Mám, Co. na Gaillimhe",Béal Átha na mBreac,naGaillimhe,,93062.24,255286.3,Healthcenters
+570,Ionad Sláinte Anagaire,"Anagaire, Co. Dhún na nGall",Anagaire,Dhún na nGall,,179094.719,419356.656,Healthcenters
+571,Ionad Sláinte Árainn Mhór,"Árainn Mhór, Co. Dhún na nGall",Árainn Mhór,Dhún na nGall,,167628.656,414609.531,Healthcenters
+572,Ionad Sláinte Baile na Finne,"Baile na Finne, Co. Dhún na nGall",Baile na Finne,Dhún na nGall,,192394.781,402211.25,Healthcenters
+573,Grosvenor Court,"Killarney, Co. Kerry",Killarney,Kerry,,96513.056,90957.578,Healthcenters
+574,Longford,"Dublin Road, Longford Town.",Dublin Road,Dublin,,214232.862,274889.475,Healthcenters
+575,Fethard,"Rocklow Road, Fethard, Clonmel, Co. Tipperary.",Rocklow Road,Clonmel,,220712.248,135019.782,Healthcenters
+576,Ionad Sláinte Leitir Mór,"Leitir Mór, Co. na Gaillimhe",Leitir Mór,naGaillimhe,,89809.53035,227939.6299,Healthcenters
+577,Ionad Sláinte An tSléibhe Riabhaigh,"An Sliabh Riabhach, Baile Bhúirne, Co. Chorcaí",An Sliabh Riabhach,Chorcaí,,119700,77500,Healthcenters
+578,Ionad Sláinte na Rinne,"Halla Pobail, An Rinn, Co. Phort Láirge.",Halla Pobail,PhortLáirge,,228144.1035,88479.02278,Healthcenters
+579,Ionad Sláinte Chill Charthaigh,"Príomhshráid, Cill Charthaigh, Co. Dhún na nGall",Príomhshráid,DhúnnanGall,,161876.6104,376172.7801,Healthcenters
+580,Ionad Sláinte na Carraige,"Charraig, Co. Dhún na nGall",Charraig,Dhún na nGall,,159303.2344,378946.9381,Healthcenters
+581,Ionad Sláinte Gleann Cholm Cille,"Ghleann Cholm Cille, Co. Dhún na nGall",Ghleann Cholm Cille,Dhún na nGall,,153758.2034,384812.9061,Healthcenters
+582,Ionad Sláinte Ard an Rátha,"Bóthar Phort Nua, Ard an Rátha, Co. Dhún na nGall",Bóthar Phort Nua,DhúnnanGall,,173637.3804,390962.6301,Healthcenters
+583,Ionad Sláinte Leitir Mhic an Bhaird,"Leitir Mhic an Bhaird, Co. Dhún na nGall",Leitir Mhic an Bhaird,Dhún na nGall,,180293.7815,400959.0001,Healthcenters
+584,An Clochán Liath,"Otharlann Ceantair an Chlocháin Léith, An Clochán Liath, Co. Dhún na nGall.",Otharlann Ceantair an Chlocháin Léith,DhúnnanGall,,177132.7975,411656.8131,Healthcenters
+585,Ionad Sláinte Ailt an Chorráin,"Ailt an Chorráin, Leitir Ceanainn, Co. Dhún na nGall",Ailt an Chorráin,DhúnnanGall,,171987.8604,415321.6601,Healthcenters
+586,Ionad Sláinte Dhoirí Beaga,"Srath na Corcrach, Co. Dhún na nGall",Srath na Corcrach,Dhún na nGall,,181511.2505,426756.4062,Healthcenters
+587,Ionad Sláinte Bhun na Leaca,"Bun na Leaca, Co. Dhún na nGall",Bun na Leaca,Dhún na nGall,,183441.2505,431005.3402,Healthcenters
+588,Ionad Sláinte Dhún Fionnachaidh,"Sráid an Phóna, Dún Fionnachaidh, Co. Dhún na nGall",Sráid an Phóna,DhúnnanGall,,201882.7975,437197.0312,Healthcenters
+589,Ionad Sláinte an Chraoslaigh,"An Craoslach, Co. Dhún na nGall",An Craoslach,Dhún na nGall,,205791.4505,430616.4102,Healthcenters
+590,Dunlavin,"Kilcullen Streeet, Dunlavin, Co. Wicklow.",Kilcullen Streeet,Wicklow,,287264.6566,201764.2339,Healthcenters
+591,Ionad Sláinte Ghaoth Sáile ,"Gaoth Sáile, Co. Mhaigh Eo",Gaoth Sáile,Mhaigh Eo,,75607.227,320093.656,Healthcenters
+592,Ionad Sláinte Ghleann na Muaidhe,"Gleann na Muaidhe, Co. Mhaigh Eo",Gleann na Muaidhe,Mhaigh Eo,,89990.117,333777.594,Healthcenters
+593,Ionad Sláinte hEachléime,"Eachléim, Co. Mhaigh Eo",Eachléim,Mhaigh Eo,,62595.965,320832.938,Healthcenters
+594,Ionad Sláinte Choill Sáile,"Coill Sáile, Co. na Gaillimhe",Coill Sáile,naGaillimhe,,86159.96,235087.9,Healthcenters
+595,Ionad Sláinte an Chaiseal,"Leitheanach, Caiseal, Co. na Gaillimhe.",Leitheanach,naGaillimhe,,80729.71134,241993.875,Healthcenters
+596,"Ionad Sláinte Chloch na Rón,","8 Faiche an Aonaigh, Bóthar an Chósta, Cloch na Rón, Co. na Gaillimhe.", Faiche an Aonaigh,ClochnaRón,,72276.17233,239903.7189,Healthcenters
+597,Ionad Sláinte Sraith Salach,An Sraith Salach Co na Gaillimhe,An Sraith Salach Co na Gaillimhe,naGaillimhe,,84490.922,247735.953,Healthcenters
+598,Ionad Sláinte Fhionnaithe,"Teach na Sagart, Fionnaithe, Co. Maigh Eo",Teach na Sagart,MaighEo,,102051.3804,258541.84,Healthcenters
+599,Ionad Sláinte Thuar Mhic Éadaigh ,"Tuar Mhic Éadaigh, Co. Mhaigh Eo",Tuar Mhic Éadaigh,MaighEo,,109478.9454,267649.406,Healthcenters
+600,Ionad Sláinte Bhaile an Sceilg,"Baile an Sceilg, Co. Chiarraí",Baile an Sceilg,Chiarraí,,42935.82029,65767.70975,Healthcenters
+601,Ionad Sláinte na Muirí,"An Mhuiríoch, Baile na nGall, Co. Chiarraí",An Mhuiríoch,Chiarraí,,38433.11029,106448.0598,Healthcenters
+602,Ionad Sláinte Ché Bhréanainn/an Clochán,"Ionad Pobail, Cé Bhréanainn, Co. Chiarraí",Ionad Pobail,Chiarraí,,50900.00031,111499.9998,Healthcenters
+603,Clonmel,"Western Road, Clonmel, Co. Tipperary.",Western Road,Tipperary,,220177.2645,122446.2088,Healthcenters
+604,Cabra,"Quarry Road, Cabra, Dublin 7.",Quarry Road,Dublin,,313954.9116,236279.1999,Healthcenters
+605,Bandon,"GULLY, CO. CORK",GULLY, Cork,,148192.8485,54036.49368,Healthcenters
+606,Letterkenny,"Pearse Road, Letterkenny, Co. Donegal.",Pearse Road,Donegal,,217195.9225,411539.8751,Healthcenters
+607,Churchfield,"103/105 Knockfree Avenue, Fair Hill, Churchfield, Cork.",Knockfree Avenue, Cork,,166277.4534,72843.91877,Healthcenters
+608,Newbridge,"Newbridge Health Centre, Henry Street, Newbridge, Kildare", Henry Street, Cork,,280132.0127,215071.2761,Healthcenters
+609,Kells,"NAVAN ROAD, CO. MEATH",NAVAN ROAD, MEATH,,275672.4386,275362.469,Healthcenters
+610,Kinsale,"HSE, HEALTH CENTRE, MARKET LANE, CO. CORK", MARKET LANE, Cork,,163737.18,50488.53826,Healthcenters
+611,Donnybrook,"HSE COMMUNITY CARE, VERGEMOUNT HALL, CLONSKEAGH ROAD, DUBLIN 6", CLONSKEAGH ROAD,Dublin,,317299.9281,230967.8872,Healthcenters
+612,Ranelagh Primary Care Centre,"22-26 Sandford Road, Ranelagh, Dublin 6",Sandford Road,Dublin,,316749.2806,231706.9699,Healthcenters
+613,Blackrock,"George's Avenue, Blackrock, Co. Dublin.",George's Avenue,Dublin,,321468.0486,229400.8399,Healthcenters
+614,Cabinteely,"Meadowvale, Clonkeen Road, Blackrock, Co. Dublin.", Clonkeen Road,Dublin,,323114.5466,226030.0859,Healthcenters
+615,Dun Laoghaire,"Centenary House, 35 York Road, Dun Laoghaire, Co. Dublin.", York Road,Dublin,,323801.3316,228179.0649,Healthcenters
+616,Dalkey,"Kilbegnet Close, Dalkey, Co. Dublin.",Kilbegnet Close,Dublin,,326378.3286,226803.5009,Healthcenters
+617,Shankill,"Lower Road, Shankill, Co. Dublin.",Lower Road,Dublin,,325178.8336,221581.2889,Healthcenters
+618,Stillorgan,"St. Brigids, Church Road, Stillorgan, Co. Dublin.",St. Brigids,Dublin,,320418.7726,227466.8199,Healthcenters
+619,Mallow,"12/14 Fair Street Lower, Mallow, Co. Cork.",Fair Street Lower,Cork,,155959.6234,98527.66179,Healthcenters
+620,Mallow,"20 West End, Mallow, Co. Cork.",West End,Cork,,155656.2124,98583.3668,Healthcenters
+621,Mallow,"31/32 Fair Street Upper, Mallow, Co. Cork.",Fair Street Upper,Cork,,155983.2504,98641.2498,Healthcenters
+622,Mallow,"9 West End, Mallow, Co. Cork.",West End,Cork,,155628.6984,98587.4198,Healthcenters
+623,Borrisokane Primary Care Centre,"Convent Lane, Borrisokane",Convent Lane,Dublin,,191388.0785,194057.1879,Healthcenters
+624,Chamber House ,"Chamber House, Chamber Square, Tallaght, Dublin 24",Chamber House,Tallaght,,308435.4336,227663.8541,Healthcenters
+625,Kilmaley ,"An Cluainin, Kilmaley, Ennis, Co Clare",An Cluainin,Clare,,125310.2004,175015.2999,Healthcenters
+626,Doneraile,"Main Street, Doneraile, Co. Cork.",Main Street,Cork,,160081.7814,107336.6878,Healthcenters
+627,Belturbet,"Main Street, Belturbet, Co. Cavan.",Main Street,Cavan,,236570.4705,317077.81,Healthcenters
+628,Greystones,"Victoria Road, Greystones, Co. Wicklow.",Victoria Road,Wicklow,,329227.5946,212737.8589,Healthcenters
+629,Milford ,"Castletroy, Co. Limerick",Castletroy,Limerick,,161238.7194,157847.1249,Healthcenters
+630,Cavan,"Townhall Street, Cavan Town",Townhall Street,Dublin,,241937.1675,304848.219,Healthcenters
+631,Mount Alvernia,"Mount Alvernia Hospital, Mallow, Co. Cork.",Mount Alvernia ,Cork,,153160.1724,97105.9218,Healthcenters
+632,Rathdrum,"Fair Green, Rathdrum, Co. Wicklow.",Fair Green,Wicklow,,318639.5316,188207.5309,Healthcenters
+633,Loughlinstown,"Loughlinstown Drive, Loughlinstown, Co. Dublin.", Loughlinstown,Dublin,,324968.6132,223493.1379,Healthcenters
+634,Sallynoggin,"1 Oakdale Drive, Upper Glenageary Road, Dun Laoghaire, Co. Dublin.", Upper Glenageary Road,Dublin,,324247.2152,227183.6319,Healthcenters
+635,Tinahely,"Barton Street, Tinahely, Arklow, Co. Wicklow.",Barton Street,Wicklow,,303577.9066,172946.3129,Healthcenters
+636,New Ross ,"Hospital Grounds, New Ross, Co Wexford", New Ross,Wexford,,272367.0315,126903.9678,Healthcenters
+637,Newcastlewest ,"Newcastlewest, Co. Limerick.",Newcastlewest,Limerick,,128070.0004,133969.9998,Healthcenters
+638,Mallow,"O'Brien Street, Mallow, Co. Cork.",O'Brien Street,Cork,,156057.0294,98443.1208,Healthcenters
+639,Falcarragh,"Station Road, Falcarragh, Co. Donegal.",Station Road,Donegal,,193427.6255,432027.0002,Healthcenters
+640,Douglas ,"Community Centre, Douglas, Cork",Community Centre,Cork,,169961.5013,69051.1693,Healthcenters
+641,Cavan,"The Arcade, Main Street, Cavan", Main Street,Cavan,,242062.0785,304697.185,Healthcenters
+642,Mallow,"Solas Nua Residential Home, Mallow, Co. Cork.", Mallow,Cork,,156147.5164,99382.1168,Healthcenters
+643,Ionad Sláinte Charraig Airt,"Páirc an Mhaoil Rua, Carraig Airt, Co. Dhún na nGall",Páirc an Mhaoil Rua,DhúnnanGall,,213326.689,436640.1563,Healthcenters
+644,Lucan,"Rosse Court Resource Centre, Balgaddy Road, Lucan, Co. Dublin", Balgaddy Road,Lucan,,305909.5012,233424.8589,Healthcenters
+645,Eyrecourt,"The Square, Eyrecourt, Co. Galway",The Square,Galway,,190989.3285,216786.9379,Healthcenters
+646,Curlew Road,"HSE, HEALTH CENTRE, DUBLIN 12",HSE,Dublin,,311944.6176,232293.9358,Healthcenters
+647,North Strand,Dublin 1.,Dublin 1.,Dublin,,316841.5332,235350.8459,Healthcenters
+648,Ionad Sláinte Gaoth Dobhair,"An Bunbeag, Co. Dhún na nGall",An Bunbeag,Dublin,,180782.1889,423712.0003,Healthcenters
+649,Castlegregory,"Dr. Sills Surgery, Castlegregory, Co. Kerry", Castlegregory,Kerry,,62010.68032,113525.2698,Healthcenters
+650,Ionad Sláinte na Ceathrú Rua,"Ceathrú Rua, Co. Na Gaillimhe.",Ceathrú Rua,Na Gaillimhe,,92835.94536,224600.5159,Healthcenters
+651,Cuan Barra,"Béal Átha an Ghaorthaidh, Co. Chorcaí",Béal Átha an Ghaorthaidh,Chorcaí,,114887.0168,66851.35152,Healthcenters
+652,Ionad Sláinte an Seanphobal,"Loiscreán, An Seanphobal, Co. Phort Láirge",Loiscreán,PhortLáirge,,225974.1305,84781.38979,Healthcenters
+653,Youghal Health Centre,"Unit 4a, Millennium Court, Foxhole, Youghal, Co. Cork", Foxhole,Foxhole,,209404.5006,79875.51457,Healthcenters
+654,St. Brendan's,"Adapt House, Donnellan's Buildings, Rosbrien, Limerick.",Adapt House,Rosbrien,,157334.4614,155804.2189,Healthcenters
+655,Portumna Primary Care Centre,"Patrick Street, Portumna, Co. Galway",Patrick Street,Galway,,185384.4136,204570.3911,Healthcenters
+656,"Cherry Orchard, Primary Care Centre","Ballyfermot, Dublin 10.",Ballyfermot,Dublin,,308450.1262,233055.4999,Healthcenters
+657,St Alphonsus Health Centre,"HSE, Dundalk Primary Health Care Unit, Saint Alphonsus Road, Dundalk, Co. Louth", Saint Alphonsus Road,Dublin,,305792.0459,307414.2178,Healthcenters
+658,Doon,"HSE, Health Clinic, Kilmoylan, Co. Limerick", Kilmoylan,Kilmoylan,,183123.219,150233.672,Healthcenters
+659,Wexford,"Community Services, HSE, Upper George's Street, Wexford", Upper George's Street,Dublin,,304567.473,121998.651,Healthcenters
+660,Kinvara,"Public Health Nurse, HSE, Dungory West, Co. Galway", Dungory West,  Galway,,137582.953,210318.453,Healthcenters
+661,Mulranny,"HSE, Health Centre, Westport, Co. Mayo", Westport,  Mayo,,83359.289,296765.906,Healthcenters
+662,Lisacul,"HSE, Lissdaly Health Centre, Lissydaly, Ballaghadereen, Co. Roscommon", Ballaghadereen,Lissydaly,,157787.3,290232.1,Healthcenters
+663,Bree,"HSE, Health Centre, Sheskin, Malin Head, Co. Donegal", Malin Head,Sheskin,,243225.969,456400.719,Healthcenters
+664,Borris,"District Nurse, HSE, Crow Street Medical Centre, Lower Main Street, Co. Carlow", Lower Main Street,Dublin,,273142.031,150160.359,Healthcenters
+665,Killorglin,"HSE, Health Centre, 2 Mill Road, Co. Kerry",Mill Road,Kerry,,77563.073,96602.256,Healthcenters
+666,Owenacurra Mental Health,"HSE, Owenacurra Centre, The Green, Midleton, Co. Cork", Midleton, Midleton,,188038.016,73874.195,Healthcenters
+667,Fethard,"HSE, Health Centre, Fethard-on-sea, Co. Wexford",HSE,Wexford,,278647.063,105828.008,Healthcenters
+668,Celbridge,"HSE, Shackleton Road, Celbridge, Co. Kildare", Shackleton Road, Kildare,,296958.0296,233664.6299,Healthcenters
+669,Midleton ,"Health Centre, HSE, Midleton Community Hospital, Midleton, Co. Cork", HSE, Midleton,,188160.3289,73911.05454,Healthcenters
+670,Shillelagh,"HSE, Shillelagh Health Centre, Shillelagh, Co. Wicklow", Shillelagh, Wicklow,,298976.417,168142.7469,Healthcenters
+671,Wicklow Primary Healthcare Centre,"HSE, Primary Care Health Centre, Colley Street, Wicklow, ", Colley Street, Wicklow,A67A060,331898.2846,193650.5339,Healthcenters
+672,Achill Health Centre,"Saint Fionnans Road, Achill Sound, Co. Mayo, ",Saint Fionnans Road,Mayo,F28W925,73080.22734,299371.156,Healthcenters
+673,"Adamstown Health Centre,","Adamstown, Co. Wexford, Y21te82",Adamstown,Wexford,,287379.9376,127526.2338,Healthcenters
+674,Adrigole Health Centre,"Cappanaparka East, Adrigole, Co. Cork, ",Cappanaparka East,Cork,P75YE24,80050.40634,49904.47274,Healthcenters
+675,"Allihies Health Centre, ","Cluin, Allihies, Co. Cork, ",Cluin,Cork,P75EK70,58453.97331,45224.41774,Healthcenters
+676,"Ardee Health Centre, ","Market Street, Ardee, Co. Louth, ",Market Street,Louth,A92K51H,295998.4586,290827.218,Healthcenters
+677,Abbeydorney Health Centre,"Abbeydorney Parish Community Hall, Abbeydorney, Co. Kerry, ", Abbeydorney,Kerry,V92YK5X,84734.01635,122822.3198,Healthcenters
+678,Abbeyfeale Health Centre,"Convent Road, Abbeyfeale, Co. Limerick, ",Convent Road,Limerick,V94NN66,111977.4384,126957.9838,Healthcenters
+679,Abbeyknockmoy Health Centre,"Culliagh North, Abbeyknockmoy, Co. Galway, ",Culliagh North,Galway,H54H103,149807.9008,242950.7999,Healthcenters
+680,"Abbeyleix Health Centre,","Ballinakill Road, Abbeyleix, Co. Laois, ",Ballinakill Road,Laois,R32A006,244129.6515,184770.2379,Healthcenters
+681,"Aclare Health Centre, ","Lisheen, Aclare, Co. Sligo, ",Lisheen,Sligo,F91P954,140670.5784,309887.594,Healthcenters
+682,"Adare Health Centre,","Rathkeale Road, Adare, Co. Limerick, ",Rathkeale Road,Limerick,V94R3W0,146145.5414,145956.7548,Healthcenters
+683,"Ahascragh Health Centre, ","Chapel Street, Ahascragh, Ballinasloe, Co. Galway, ",Chapel Street,Galway,H53TR96,177961.9535,238450.75,Healthcenters
+684,"Annacotty Health Centre,","Annacotty, Co. Limerick, ",Annacotty,Limerick,V94YAN5,164121.8004,157525.0419,Healthcenters
+685,"Annascaul Health Centre, ","Church Avenue, Annascaul, Co. Kerry, ",Church Avenue,Kerry,V92KA03,59543.82832,101965.1018,Healthcenters
+686,Primary Care Services,"Saint Brigid's Complex, Kells Road, Ardee, Co. Louth, ", Kells Road,Ardee,A92DRN0,295431.5656,290696.778,Healthcenters
+687,"Ardfert Health Centre,","Farranwilliam, Ardfert, Co. Kerry, ",Farranwilliam,Kerry,V92EKX9,78711.72734,120748.2028,Healthcenters
+688,"Ardfinnan Health Centre, ","68 Castleview, Ardfinnan, Co. Tipperary, ", Ardfinnan,Tipperary,E91T2N6,207594.7735,117428.4588,Healthcenters
+689,"Ardmore Health Centre, ","Rocky Road, Ardmore, Co. Waterford, ",Rocky Road,Waterford,P36TK61,218877.9535,77517.60878,Healthcenters
+690,"Ardrahan Health Centre, ","Ardrahan, Co. Galway, ",Ardrahan,Galway,H91FP64,146142.3594,211957.6409,Healthcenters
+691,Primary Care Health Centre Arklow,"Castle Park, Arklow, Co. Wicklow, Y14ae10", Arklow,Wicklow,,324419.5316,173352.3439,Healthcenters
+692,"Arva Health Centre, ","Drumalt, Arva, Co. Cavan, ",Drumalt,Cavan,H12P527,227755.8595,296846.594,Healthcenters
+693,Asdee Health Centre,"Asdee Community Centre, Asdee, Co. Kerry, ", Asdee,Kerry,V31A257,94171.35236,145673.4058,Healthcenters
+694,Askeaton Heatlh Centre,"Plunkett Road, Askeaton, Co. Limerick, ",Plunkett Road,Limerick,V94XW80,133533.7674,150283.6958,Healthcenters
+695,"Athboy Health Centre, ","The Courtyard, Athboy, Co. Meath, ", Athboy,Meath,C15RH59,271383.4696,263984.313,Healthcenters
+696,"Athea Health Centre, ","Gortnagross, Athea, Co. Limerick, ",Gortnagross,Limerick,V94T3P2,112450.8364,134906.4528,Healthcenters
+697,Athenry Primary Care Centre,"Raheen, Athenry, Co. Galway, ",Raheen,Galway,H65KH93,149603.0004,227968.7999,Healthcenters
+698,"Athy Health Centre, ","Woodstock Street, Athy, Co. Kildare, ",Woodstock Street,Kildare,R14AE80,267686.7505,194230.4999,Healthcenters
+699,"Aughnacliffe Health Centre, ","Smear, Aughnacliffe, Co. Longford, ",Smear,Longford,N39RW13,226314.1005,291346.8,Healthcenters
+700,"Avoca Health Centre, ","Main Street, Avoca, Co. Wicklow, Y14a7p1",Main Street,Wicklow,,320333.4066,180083.7659,Healthcenters
+701,Baggot Street Health Centre,"City Of Dublin Royal Hospital, 14/18 Baggot Street Upper, Dublin 4, ",Baggot Street Upper,Dublin4,D04PH96,316948.5316,232945.1409,Healthcenters
+702,Community Care Centre Ballina,"Mercy Road, Ballina, Co. Mayo, ",Mercy Road,Mayo,F26N9P5,123784.2714,319037.452,Healthcenters
+703,Ballina Health Centre - Tipperary,"Ballina, Co. Tipperary, ",Ballina,Tipperary,V9495N2,170597.3134,173197.1089,Healthcenters
+704,"Ballinaglera Health Centre, ","Drumnafinnila, Ballinaglera, Co. Leitrim, ", Ballinaglera,Leitrim,N41XV04,199393.1095,323054.563,Healthcenters
+705,"Ballinameen Health Centre, ","Knockglass, Ballinameen, Boyle, Co. Roscommon, ", Ballinameen,Roscommon,F52XE00,180032.8005,294221.6,Healthcenters
+706,"Ballinlough Health Centre, ","Srah, Ballinlough, Co. Roscommon, ", Ballinlough,Roscommon,F45PY83,157804.0004,277173.688,Healthcenters
+707,"Ballinteer Health Centre, ","Ballinteer Avenue, Dublin 16, ",Ballinteer Avenue, Dublin,D16YX93,316572.8846,226485.8789,Healthcenters
+708,"Ballivor Health Centre, ","Mullingar Road, Ballivor, Co. Meath, ",Mullingar Road,Meath,C15FY70,268281.2195,254148.922,Healthcenters
+709,Ballyclough,"Ballyclough Community Hall, Ballyclough, Co. Cork, ", Ballyclough,Cork,P51E793,149091.6414,101935.1478,Healthcenters
+710,Ballydehob Health Centre ,"The Parade, Ballydehob, Co. Cork, ", Ballydehob,Cork,P81KF97,98552.07836,35402.57372,Healthcenters
+711,"Ballyduff Health Centre, ","Main Street, Ballyduff, Co. Waterford, ",Main Street,Waterford,P51E0KR,196368.3285,99507.3748,Healthcenters
+712,"Ballyfarnon Health Centre, ","Alderford, Ballyfarnon, Boyle, Co. Roscommon, ",Alderford,Roscommon,F52V838,186595.2975,313717.781,Healthcenters
+713,Aughrim Health Centre - Galway,"Aughrim, Co. Galway, ",Aughrim,Galway,H53PT02,178828.3445,228143.7029,Healthcenters
+714,Aughrim Health Centre - Wicklow,"Main Street, Aughrim, Co. Wicklow, Y14yn70",Main Street,Wicklow,,312941.4696,179656.1879,Healthcenters
+715,"Bagenalstown Health Centre, ","Church Road, Muine Bheag, Co. Carlow, ",Church Road,Carlow,R21K447,270312.6565,161634.3909,Healthcenters
+716,Balbriggan Health Centre,"53 Hampton Street, Balbriggan, Co. Dublin, ",Hampton Street,Dublin,K32CF60,320494.1092,263457.747,Healthcenters
+717,"Baldoyle Health Centre, ","Willie Nolan Road, Dublin 13, ",Willie Nolan Road,Dublin,D13PY27,324420.3586,240365.854,Healthcenters
+718,"Ballaghadereen Health Centre, ","Station Road, Ballaghaderreen, Co. Roscommon, ",Station Road,Roscommon,F45DR90,161888.8754,294640.392,Healthcenters
+719,"Ballinagh Health Centre, ","Ballinagh, Co. Cavan, ",Ballinagh,Cavan,H12RK12,238691.3595,297986.156,Healthcenters
+720,"Ballinakill Health Centre, ","Bride Street, Ballinakill, Co. Laois, ",Bride Street,Laois,R32NW65,246492.2035,180623.6089,Healthcenters
+721,"Ballinalee Health Centre, ","Ballinalee, Co. Longford, ",Ballinalee,Longford,N39Y153,222580.6095,280711.031,Healthcenters
+722,"Ballincollig Health Centre, ","Innishmore, Ballincollig, Co. Cork, ",Innishmore,Cork,P31D832,157997.8594,70629.63277,Healthcenters
+723,Ballingarry Health Centre - Limerick,"Main Street, Ballingarry, Co. Limerick, ",Main Street,Limerick,V94E765,141291.5004,136143.3908,Healthcenters
+724,Ballingarry Health Centre - Thurles,"Ballingarry Upper, Thurles, Co. Tipperary, ",Ballingarry Upper,Tipperary,E41RW56,231077.8595,148402.2968,Healthcenters
+725,"Ballinrobe Health Centre, ","Kilmaine Road, Ballinrobe, Co. Mayo, ",Kilmaine Road,Mayo,F31TW54,119357.3004,263725.8,Healthcenters
+726,"Ballinspittle Health Centre, ","Ballycatten, Ballinspittle, Co. Cork, ",Ballycatten,Cork,P17AF53,158696.8754,45924.80474,Healthcenters
+727,"Ballintra Health Centre, ","Lower Main Street, Ballintra, Co. Donegal, ",Lower Main Street,Donegal,F94DD5K,191719.8915,369814.2191,Healthcenters
+728,Ballintubber Health Centre,"Luffertaun, Ballintubber, Claremorris, Co. Mayo, ",Luffertaun,Mayo,F12T2C9,113890.4844,279525.156,Healthcenters
+729,"Ballitore Health Centre, ","The Square, Ballitore, Co. Kildare, ",The Square,Kildare,R14X299,279485.0946,196067.6559,Healthcenters
+730,"Ballybay Health Centre, ","Main Street, Ballybay, Co. Monaghan, ",Main Street,Monaghan,A75DR04,271675.6316,320575.377,Healthcenters
+731,Primary Care Centre - Kinnegad ,"The Clinic, Main Street, Kinnegad, Co. Westmeath, ", Main Street,Westmeath,N91PX33,259906.2345,245213.063,Healthcenters
+732,"Ballycastle Health Centre, ","Carrowcubic, Ballycastle, Co. Mayo, ",Carrowcubic,Mayo,F26R3K4,111407.0704,337335.1881,Healthcenters
+733,"Ballyconnell  Breffni Care Centre, ","Preaching House Lane, Ballyconnell, Co. Cavan, ",Preaching House Lane,Cavan,H14X048,227174.7975,318858.875,Healthcenters
+734,"Ballycroy Health Centre, ","Cross Hill, Ballycroy, Westport, Co. Mayo, ",Cross Hill,Mayo,F28VF90,80301.55534,309892.969,Healthcenters
+735,"Ballydesmond Health Centre, ","Ballydesmond, Co. Cork, ",Ballydesmond,Cork,P51FW66,115139.2034,103847.8978,Healthcenters
+736,Ballyduff Health Centre - Kerry,"Benmore, Ballyduff, Co. Kerry, ",Benmore,Kerry,V92WCV5,86722.24235,134777.0628,Healthcenters
+737,"Ballyforan Health Centre, ","Ballyforan, Ballinasloe, Co. Roscommon, ",Ballyforan,Roscommon,H53WV12,182275.7665,246735.938,Healthcenters
+738,Ballygall Health Centre,"Seamus Ennis Road, Dublin 11, ",Seamus Ennis Road, Dublin,D11C898,313317.0166,239132.444,Healthcenters
+739,"Ballygar Health Centre, ","High Street, Ballygar, Co. Galway, ",High Street,Galway,F42HK53,178205.5005,252491.734,Healthcenters
+740,"Ballyhahill Health Centre, ","Main Street, Ballyhahill, Co. Limerick, ",Main Street,Limerick,V94XRH3,119029.3204,146041.4528,Healthcenters
+741,"Ballyhaise Health Centre, ","Ballyhaise, Co. Cavan, ",Ballyhaise,Cavan,H12X2T6,244537.4695,310727.625,Healthcenters
+742,Ballyhale Health Centre,"Ballyhale, Co. Kilkenny, ",Ballyhale, Kilkenny,R95X0VX,254379.7345,135506.5308,Healthcenters
+743,"Ballyhaunis Health Centre, ","Upper Main Street, Ballyhaunis, Co. Mayo, ",Upper Main Street,Mayo,F35TR94,149131.6874,279721.545,Healthcenters
+744,"Ballyheigue Health Centre, ","Harty's Terrace, Ballyheigue, Co. Kerry, ",Harty's Terrace,Kerry,V92WY61,75059.77333,128082.0548,Healthcenters
+745,"Ballyjamesduff Health Centre, ","Percy French Park, Ballyjamesduff, Co. Cavan, ",Percy French Park,Cavan,A82AK03,252067.9695,290564.375,Healthcenters
+746,"Ballylinan Health Centre, ","Ballylinan, Co. Laois, ",Ballylinan,  Laois,R14Y156,264301.2505,188359.4689,Healthcenters
+747,"Ballylongford Health Centre, ","Rusheen, Ballylongford, Co. Kerry, ",Rusheen,Kerry,V31VX90,99346.55536,145363.7338,Healthcenters
+748,"ArignaHSE, Derrinisky Health Centre, ","Derrinisky, Arigna, Carrick-on-shannon, Co. Roscommon, ",Derrinisky,Carrick-on-shannon,N41HP63,192967.3135,314420.875,Healthcenters

@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+<html>
+   <head>
+      <meta charset="UTF-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+      <meta name="description" content="Eire Health Service Search Tool">
+      <meta name="author" content="Sujesh Menon">
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+      <meta http-equiv="X-UA-Compatible" content="IE=edge">
+      <!-- Title Page-->
+      <title>
+         <%= title %>
+      </title>
+      <!-- Icons font CSS-->
+      <link href="stylesheets/vendor/mdi-font/css/material-design-iconic-font.min.css" rel="stylesheet" media="all">
+      <link href="stylesheets/vendor/font-awesome-4.7/css/font-awesome.min.css" rel="stylesheet" media="all">
+      <!-- Font special for pages-->
+      <link href="https://fonts.googleapis.com/css?family=Lato:100,100i,300,300i,400,400i,700,700i,900,900i" rel="stylesheet">
+      <link href="https://fonts.googleapis.com/css?family=Poppins:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i" rel="stylesheet">
+      <!-- Vendor CSS-->
+      <link href="stylesheets/vendor/select2/select2.min.css" rel="stylesheet" media="all">
+      <link href="stylesheets/vendor/awesomplete/awesomplete.css" rel="stylesheet" media="all">
+      <link href='http://cdn.jsdelivr.net/g/yasqe@2.2(yasqe.min.css),yasr@2.4(yasr.min.css)' rel='stylesheet' type='text/css' />
+      <!-- Main CSS-->
+      <link href="stylesheets/style.css" rel="stylesheet" media="all">
+      <script type="text/javascript">
+         // Default configuration
+         var sparqled = function() {
+             var config = {
+                 endpoint: "http://ec2-52-210-17-160.eu-west-1.compute.amazonaws.com:8080/health_services/query"
+             };
+             return {
+                 config: config
+             };
+         }();
+      </script>
+   </head>
+   <body background="img/TCD.jpg" onload="getLocation()">
+      <p id="geoloc"></p>
+      <div class="page-wrapper bg-color-1 p-t-165 p-b-100">
+         <div class="wrapper wrapper--w680">
+            <div class="card card-2">
+               <div class="card-body">
+                  <h1> <%= title %> </h1>
+                  <ul class="tab-list">
+                     <li class="tab-list__item active">
+                        <a class="tab-list__link" href="#tab1" onclick="tab = 1; return false;" data-toggle="tab">Hospitals</a>
+                     </li>
+                     <li class="tab-list__item">
+                        <a class="tab-list__link" href="#tab1" onclick="tab = 2; return false;" data-toggle="tab">Health Centre</a>
+                     </li>
+                     <li class="tab-list__item">
+                        <a class="tab-list__link" href="#tab1" onclick="tab = 3; return false;" data-toggle="tab">Nursing Home</a>
+                     </li>
+                     <li class="tab-list__item">
+                        <a class="tab-list__link" href="#tab1" onclick="tab = 4; return false;" data-toggle="tab">Dental Clinic</a>
+                     </li>
+                     <li class="tab-list__item">
+                        <a class="tab-list__link" href="#tab1" onclick="tab = 5; return false;" data-toggle="tab">Pharmacy</a>
+                     </li>
+                     <li class="tab-list__item">
+                        <a class="tab-list__link" href="#tab1" onclick="tab = 6; return false;" data-toggle="tab">All</a>
+                     </li>
+                     <li class="tab-list__item">
+                        <a class="tab-list__link" href="#tab1" onclick="tab = 7; return false;" data-toggle="tab">Stats</a>
+                     </li>
+                     <li class="tab-list__item">
+                        <a class="tab-list__link" href="#tab2" onclick="tab = 8; return false;" data-toggle="tab">SPARQL</a>
+                     </li>
+                  </ul>
+                  <div class="tab-content">
+                     <div class="tab-pane active" id="tab1">
+                        <div class="row row-space">
+                           <div class="col-2">
+                              <div class="input-group">
+                                 <label class="label">Location:</label>
+                                 <div class="rs-select2 js-select-simple select--no-search">
+                                    <select name="geography" id="locationpredicate" onchange="getlist(this.value)">
+                                       <option>County</option>
+                                       <option>Street</option>
+                                       <option>Area</option>
+                                       <option selected="selected">All Ireland</option>
+                                    </select>
+                                    <div class="select-dropdown"></div>
+                                 </div>
+                              </div>
+                           </div>
+                           <div class="col-2">
+                              <div class="input-group">
+                                 <label class="label">Near:</label>
+                                 <div class="rs-select2 js-select-simple select--no-search">
+                                    <select name="near" id="nearpredicate" onchange="change_label()">
+                                       <option selected="selected">Any</option>
+                                       <option>Me</option>
+                                       <option>Coordinates</option>
+                                       <option>Hospital</option>
+                                       <option>Healthcenters</option>
+                                       <option>NursingHome</option>
+                                       <option>Dental</option>
+                                       <option>Pharmacy</option>
+                                    </select>
+                                    <div class="select-dropdown"></div>
+                                 </div>
+                              </div>
+                           </div>
+                        </div>
+                        <div class="input-group">
+                           <label class="label" id="option">Where:</label>
+                           <input class="input--style-1" type="text" name="location" placeholder="City, region or specific health institute" required="required" id="option_val">
+                        </div>
+                        <button id="submit" class="btn-submit">search</button>
+                     </div>
+                     <div class="tab-pane" id="tab2">
+                        <div id="loading"></div>
+                        <div id="yasqe" tabindex="-1"></div>
+                     </div>
+                     <div id="yasr">
+                        <span id='close'>close</span>
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </div>
+      </div>
+      <!-- Jquery JS-->
+      <!--script src="/javascripts/vendor/jquery/jquery.min.js"></script-->
+      <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+      <!-- Vendor JS-->
+      <script src="javascripts/vendor/select2/select2.min.js"></script>
+      <script src="javascripts/vendor/jquery-validate/jquery.validate.min.js"></script>
+      <script src="javascripts/vendor/bootstrap-wizard/bootstrap.min.js"></script>
+      <script src="javascripts/vendor/awesomplete/awesomplete.min.js"></script>
+      <script src="javascripts/vendor/bootstrap-wizard/jquery.bootstrap.wizard.min.js"></script>
+      <script language="javascript" src="/javascripts/gridrefutils.js"></script>
+      <script src='http://cdn.jsdelivr.net/yasqe/2.2/yasqe.bundled.min.js'></script>
+      <script src='http://cdn.jsdelivr.net/yasr/2.4/yasr.bundled.min.js'></script>
+      <!-- Main JS-->
+      <script type="text/javascript" src="/javascripts/query.js"></script>
+      <script type="text/javascript" src="/javascripts/autocompletion.js"></script>
+      <script>
+         var doc = document.getElementById("geoloc");
+         var grutoolbox = gridRefUtilsToolbox();
+         var latitude = null;
+         var longitude = null;
+         var easting = null;
+         var northing = null;
+         
+         function getLocation() {
+             if (navigator.geolocation) {
+                 navigator.geolocation.getCurrentPosition(setPosition);
+             } else {
+                 doc.innerHTML = "Geolocation is not supported by this browser.";
+             }
+         }
+         
+         function setPosition(position) {
+             var irishCoordinate = grutoolbox.latLongToGrid(position.coords.latitude, position.coords.longitude, grutoolbox.TEXT);
+             latitude = position.coords.latitude;
+             longitude = position.coords.longitude;
+             easting = parseFloat(irishCoordinate[0]).toFixed(1);
+             northing = parseFloat(irishCoordinate[1]).toFixed(1);
+             console.log("Latitude: " + latitude + "\nLongitude: " + longitude +"\neasting: " + easting +"\northing: " + northing);
+             /*doc.innerHTML = "Latitude: " + latitude +
+                 "<br>Longitude: " + longitude +
+                 "<br>IR_Longitude: " + easting +
+                 "<br>IR_Longitude: " + northing;*/
+         }
+      </script>
+   </body>
+</html>

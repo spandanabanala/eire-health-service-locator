@@ -1,0 +1,579 @@
+id,service_name,full_address,address_key,County,x,y,Type
+1,Abbey Haven Care Centre & Nursing Home,"Abbey Haven Care Centre & Nursing Home, Carrick Road, Boyle, Roscommon, Roscommon", Carrick Road,Roscommon,181885.281,302267.625,NursingHome
+2,AbbeyBreaffy Nursing Home,"AbbeyBreaffy Nursing Home, Dublin Road, Castlebar, Co. Mayo, Mayo", Dublin Road,Mayo,119310.3161,292487.6856,NursingHome
+3,Abbeygale House,"Farnogue Residential Healthcare Unit, Old Hospital Road, Co Wexford, Wexford", Old Hospital Road,Wexford,303521.756,122155.765,NursingHome
+4,Abbeylands Nursing Home & Alzheimer Unit,"Abbeylands Nursing Home & Alzheimer Unit, Carhoo, Kildorrery, Co. Cork, Cork", Carhoo,Cork,170635.1378,110208.8374,NursingHome
+5,Abbot Close Nursing Home,"Abbot Close Nursing Home, St. Marys Terrace, Askeaton, Co. Limerick, Limerick", St. Marys Terrace,Limerick,133874.4153,150329.1452,NursingHome
+6,Aclare House Nursing Home,"Aclare House, 4/5 Tivoli Terrace South, Dun Laoghaire, Co. Dublin, A96fx74", Tivoli Terrace South,Dublin,323842.3576,228137.8149,NursingHome
+7,Acorn Lodge,"Acorn Lodge, Ballykelly, Cashel, Co. Tipperary, Tipperary", Ballykelly,Tipperary,210354.8139,145383.9286,NursingHome
+8,Adare and District Nursing Home,"Adare and District Nursing Home, Croagh, Co. Limerick, Limerick", Croagh,Limerick,141078.1629,143045.4189,NursingHome
+9,Ailesbury Private Nursing Home,"58 Park Avenue, Dublin 4, D04y437",Park Avenue,Dublin,319096.0046,232004.0759,NursingHome
+10,Aisling House Nursing Home ,"Seabank, Arklow, Co. Wicklow, Y14x670", Arklow,Wicklow,326210.0006,175852.3129,NursingHome
+11,Altadore Nursing Home,"Altadore, Glenageary Road Upper, Glenageary, Co. Dublin, A96ew77", Glenageary Road Upper,Dublin,324719.6106,226982.3029,NursingHome
+12,Alzheimer Care Centre,"Alzheimer Care Centre, Highfield Hospital, Swords Road, Whitehall, Dublin 9 Dublin 9", Highfield Hospital,Dublin,316625.7258,238112.1157,NursingHome
+13,Amberley Home and Retirement Cottages,"Amberley Home and Retirement Cottages, Acres, Fermoy, Co. Cork, Cork", Acres,Cork,177544.0772,100066.6778,NursingHome
+14,An Teaghlach Uilinn,"Cill RÃ¡inne, Maigh Chuilinn, Co. na Gaillimhe", Maigh Chuilinn,Galway,121671.0452,233178.3745,NursingHome
+15,Annabeg Nursing Home,"Meadow Court, Ballybrack, Glenageary, Co. Dublin, A96kw54", Ballybrack,Dublin,324829.0672,224108.1679,NursingHome
+16,Aonad Altranas Pobail-ArÃ¡s RÃ³nÃ¡in,"Mainistir, OileÃ¡in Ãrann, Co. na Gaillimhe", OileÃ¡in Ãrann,Galway,87144.86329,209996.3952,NursingHome
+17,Araglen House Nursing and Convalescent Home,"Araglen House Nursing and Convalescent Home, Loumanagh, Boherbue, Mallow, Co Cork Cork", Loumanagh,Cork,125815.0454,100537.8365,NursingHome
+18,Aras Ghaoth Dobhair,"MÃ­n an Iolair, DoirÃ­ Beaga, Co. DhÃºn na nGall", DoirÃ­ Beaga,Donegal,181296.8988,425320.1354,NursingHome
+19,Aras Mathair Phoil,"Aras Mathair Phoil, Castlerea, Co. Roscommon, Roscommon", Castlerea,Roscommon,167653.1689,279933.7288,NursingHome
+20,Aras Mhic Dara,"An CheathrÃº Rua, Co. na Gaillimhe", Co. na Gaillimhe,Galway,92755.36185,224606.3427,NursingHome
+21,Aras Mhic Shuibhne Nursing Home,"Aras Mhic Shuibhne Nursing Home, Mullinasole, Laghey, Co. Donegal, Donegal", Mullinasole,Donegal,192772.8237,373329.3084,NursingHome
+22,Aras Mhuire Community Nursing Unit,"Aras Mhuire Community Nursing Unit, Dublin Road, Tuam, Co. Galway, Galway", Dublin Road,Galway,143821.4408,251531.7911,NursingHome
+23,Aras Mhuire Nursing Facility,"Aras Mhuire Nursing Home, Medical Missionaries of Mary, Beechgrove, Drogheda, Louth Louth", Medical Missionaries of Mary,Louth,308898.0139,275970.7027,NursingHome
+24,Aras Mhuire Nursing Home,"Aras Mhuire Nursing Home, Greenville, Listowel, Co. Kerry, Kerry", Greenville,Kerry,98262.93781,133805.6151,NursingHome
+25,Aras Ui Dhomhnaill,"Aras Ui Dhomhnaill, Loughnakey, Milford, Co. Donegal, Donegal", Loughnakey,Donegal,220222.5304,424943.1334,NursingHome
+26,Archersrath Nursing Home,"Archersrath Nursing Home, Archersrath, Kilkenny, Kilkenny, Kilkenny", Archersrath,Kilkenny,253387.1927,156859.346,NursingHome
+27,Archview Lodge,"NURSING HOME, DRUMANY, LETTERKENNY, CO. DONEGAL", DRUMANY,Donegal,219816.2988,410618.859,NursingHome
+28,Ard Na Ri Nursing Home,"Ard Na RÃ­ Nursing Home, Holycross, Bruff, Co. Limerick, Limerick", Holycross,Limerick,162811.2459,136099.3086,NursingHome
+29,Ardeen Nursing Home,"Ardeen Nursing Home, Abbey Road, Thurles, Co. Tipperary, Tipperary", Abbey Road,Tipperary,211645.005,158275.1981,NursingHome
+30,Ardsley Nursing Home,"Ardsley Nursing Home, Rocky Road, Farran, Co. Cork, Cork", Rocky Road,Cork,150531.2796,69327.16382,NursingHome
+31,Arus Breffni Nursing Unit,"Arus Breffni Nursing Unit, Manorhamilton, Co. Leitrim, Leitrim", Manorhamilton,Leitrim,188871.9896,339824.0206,NursingHome
+32,Arus Carolan Community Nursing Unit,"Arus Carolan Community Nursing Unit, Mohill, Co. Leitrim, Leitrim", Mohill,Leitrim,208896.6548,296969.4009,NursingHome
+33,Asgard Lodge Nursing Home,"Asgard Lodge Nursing Home, Monument Lane, Kilbride, Arklow, Co. Wicklow Wicklow", Monument Lane,Wicklow,324568.5535,174855.064,NursingHome
+34,Ashborough Lodge,"Ashborough Lodge, Lyre Road, Milltown, Co. Kerry, Kerry", Lyre Road,Kerry,82454.05045,100079.4471,NursingHome
+35,Ashbury Private Nursing Home,"1a Kill Lane, Kill O' The Grange, Blackrock, Co. Dublin, A94rk81",Kill Lane,Dublin,322783.5016,227108.9879,NursingHome
+36,Ashford House Nursing Home,"Ashford House Nursing  Home, 6 Tivoli Terrace East, Dun Laoghaire, Co. Dublin, Co. Dublin", Tivoli Terrace East,Dublin,324040.2277,228167.1633,NursingHome
+37,Ashlawn House Nursing Home,"Ashlawn House Nursing Home, Limerick Road, Nenagh, Co. Tipperary, Tipperary", Limerick Road,Tipperary,181502.7802,176114.5469,NursingHome
+38,Ashley Lodge Nursing Home,"Tully East, Kildare, R51vw22", Kildare,Kildare,273531.6256,209999.4999,NursingHome
+39,Athlunkard House Nursing Home at St. Nicholas,"Athlunkard House Nursing Home at St. Nicholas, Athlunkard, Westbury, Co. Clare, Clare", Athlunkard,Clare,159075.3125,159363.4083,NursingHome
+40,Atlanta Nursing Home,"Sidmonton Road, Bray, Co. Wicklow, A98kw25", Bray,Wicklow,326739.8806,218394.5679,NursingHome
+41,Ave Maria Nursing Home,"Ave Maria Nursing Home, Tooreen, Ballyhaunis, Co. Mayo, Mayo", Tooreen,Mayo,148924.4157,286727.1658,NursingHome
+42,Bailey House Nursing Home,"Bailey House Nursing Home, Killenaule, Thurles, Co. Tipperary, Tipperary", Killenaule,Tipperary,222085.9704,146519.9368,NursingHome
+43,Bailey's Nursing Home,"Bailey's Nursing Home, Mountain Road, Tubbercurry, Co. Sligo, Sligo", Mountain Road,Sligo,152465.0492,311276.0791,NursingHome
+44,Ballard Lodge Nursing Home,"Ballard Lodge Nursing Home, Borris Road, Portlaoise, Co. Laois, Laois", Borris Road,Laois,247440.8314,198686.5353,NursingHome
+45,Ballinamore House Nursing Home,"Ballinamore House Nursing Home, Ballinamore, Kiltimagh, Co. Mayo, Mayo", Ballinamore,Mayo,131324.0806,287099.336,NursingHome
+46,Ballincollig Community Nursing Unit,"Ballincollig Community Nursing Unit, Murphy's Barracks, Ballincollig, Cork, Cork", Murphy's Barracks,Cork,159575.964,70762.93167,NursingHome
+47,Ballincurrig Care Centre Limited,"Ballincurrig Care Centre, Ballincurrig, Leamlara, Co. Cork, Cork", Ballincurrig,Cork,184511.6831,81724.89709,NursingHome
+48,Ballinderry Nursing Home,"Ballinderry Nursing Home, Kilconnell, Ballinasloe, Co. Galway, Galway", Kilconnell,Galway,173041.4579,230576.3578,NursingHome
+49,Ballygar Nursing Home,"Ballygar Nursing Home, Ballygar, Co. Galway, Galway", Ballygar,Galway,178172.5681,252591.5604,NursingHome
+50,Baltinglass District Hospital,"Baltinglass District Hospital, Baltinglass, Co. Wicklow, Wicklow", Baltinglass,Wicklow,286792.5304,188575.7702,NursingHome
+51,Bandon Community Hospital,"Bandon Community Hospital, Bandon, Co. Cork, Cork", Bandon,Cork,149151.3607,55168.15099,NursingHome
+52,Beach Hill Manor,"Beach Hill Manor, Lisfannon, Fahan, Co. Donegal, Donegal", Lisfannon,Donegal,233527.0946,427417.5374,NursingHome
+53,Beaufort House,"Navan Community Health Unit, Athboy Road, Navan, Co. Meath, Meath", Athboy Road,Meath,286681.2998,268004.1567,NursingHome
+54,Beaumont Residential Care,"Beaumont Residential Care, Woodvale Road, Beaumont, Co. Cork, Cork", Woodvale Road,Cork,170870.7827,70905.50105,NursingHome
+55,Beech Lodge Care Facility,"Beech Lodge Care Facility, Bruree, Co. Limerick, Limerick", Bruree,Limerick,157200.8556,156822.927,NursingHome
+56,Beech Park Nursing Home,"Dunmurry West, Kildare, R51pc58", Kildare,Kildare,272512.3006,214998.8999,NursingHome
+57,Beechfield Manor Nursing Home,"Beechfield Manor, Dublin 18, D18p389",Beechfield,Dublin,325353.5256,222134.5379,NursingHome
+58,Beechlawn House Nursing Home,"Beechlawn House Nursing Home, High Park, Gracepark Road, Drumcondra, Dublin 9 Dublin 9", Gracepark Road,Dublin,316999.2788,238083.518,NursingHome
+59,Beechtree Nursing Home & Retirement Accommodation,"Beechtree Nursing Home & Retirement Accomodation, Murragh, Oldtown, Co. Dublin, Co. Dublin", Murragh,Kildare,295859.285,233553.6546,NursingHome
+60,Beechwood House Nursing Home,"Beechwood House Nursing Home, Newcastle West, Co. Limerick, Limerick", Newcastle West,Limerick,128400.7398,133398.7196,NursingHome
+61,Beechwood Nursing Home,"Beechwood Nursing Home, Leighlinbridge, Co. Carlow, Carlow", Leighlinbridge,Carlow,268872.204,165339.7417,NursingHome
+62,Bellvilla Community Unit,"Bellvilla Community Unit, 129 South Circular Road, Dublin 8, Dublin 8",South Circular Road,Dublin,314753.9517,232600.5459,NursingHome
+63,Belmont House Nursing Home,"Galloping Green, Stillorgan Road, Blackrock, Co. Dublin, A94kw44", Stillorgan Road,Dublin,320873.4556,227071.1589,NursingHome
+64,Beneavin House,"Beneavin House, Beneavin Rd, Glasnevin, Dublin 11, Dublin 11", Beneavin Rd,Dublin,314147.1777,239028.6098,NursingHome
+65,Beneavin Lodge,"Beneavin Lodge Nursing Home, Beneavin Road, Glasnevin, Dublin 11, Dublin 11", Beneavin Road,Dublin,314109.0778,239054.052,NursingHome
+66,Bethany House Nursing Home,"Bethany House, Main Street, Tyrrellspass, Co. Westmeath, N91p5p6", Main Street,Westmeath,241180.1725,237570.641,NursingHome
+67,Birr Community Nursing Unit,"Birr Community Nursing Unit, Sandymount, Birr, Co. Offaly, Offaly", Sandymount,Offaly,206097.535,205420.8567,NursingHome
+68,Bishopscourt Residential Care Ltd,"Bishopscourt Residential Care, Liskillea, Waterfall, Co. Cork, Cork", Liskillea,Cork,163561.4162,69053.31538,NursingHome
+69,Blackrock Abbey Nursing Home,"Blackrock Abbey Nursing Home, Blackrock, Dundalk, Co. Louth, Louth", Blackrock,Louth,306467.903,302190.2019,NursingHome
+70,Blackrocks Nursing Home,"Blackrocks Nursing Home, The Green, Foxford, Mayo, Mayo", The Green,Mayo,126946.6938,304374.6918,NursingHome
+71,Blairs Hill Nursing Home,"Blair's Hill Nursing Home, Blair's Hill, Sunday's Well, Cork, Cork", Blair's Hill,Cork,166185.1905,72011.51402,NursingHome
+72,Blarney Nursing and Retirement Home,"Blarney Nursing Home, Killowen, Blarney, Co. Cork, Cork", Killowen,Cork,159430.3637,76676.35577,NursingHome
+73,Borris Lodge Nursing Home,"Borris Lodge Nursing Home, Borris, Co. Carlow, Carlow", Borris,Carlow,272523.3877,150730.7097,NursingHome
+74,Boyne Valley Nursing Home,"Boyne Valley Nursing Home, Dowth, Drogheda, Co. Meath, Meath", Dowth,Meath,303648.42,275014.8212,NursingHome
+75,Boyne View House,"Drogheda Services for the Elderly Boyne View House, Dublin Road, Drogheda, Co. Louth, Louth", Dublin Road,Louth,310349.6765,274494.6813,NursingHome
+76,Brabazon House Nursing Home,"Brabazon House, 2 Gilford Road, Dublin 4, D04tn93",Gilford Road,Dublin,319199.1886,232389.434,NursingHome
+77,Bramleigh Lodge,"Bramleigh Lodge Nursing Home, Cashel Road, Cahir, Co. Tipperary, Tipperary", Cashel Road,Tipperary,205262.675,125255.4807,NursingHome
+78,"Bray Manor Nursing Home, ","47 Meath Road, Bray, Co. Wicklow, A98f433", Bray,Wicklow,327060.0066,218203.8709,NursingHome
+79,Breffni Care Centre,"Breffni Care Centre, Ballyconnell, Co. Cavan, Cavan", Ballyconnell,Cavan,226920.6138,318818.7845,NursingHome
+80,Brentwood Manor,"NURSING HOME, LETTERKENNY ROAD, CONVOY, CO. DONEGAL", LETTERKENNY ROAD,Donegal,221689.4233,401759.1017,NursingHome
+81,Bridhaven Nursing Home,"Bridhaven Nursing Home, Spa Glen, Mallow, Co. Cork, Cork", Spa Glen,Cork,156009.7923,99384.8752,NursingHome
+82,Brindley Manor Private Nursing Home,"LETTERKENNY ROAD, CONVOY, CO. DONEGAL", CONVOY,Donegal,221508.3047,401842.7042,NursingHome
+83,Brookfield Care Centre,"Brookfield Care Centre, Leamlara, Co. Cork, Cork", Leamlara,Cork,181797.0285,79942.80145,NursingHome
+84,Brookhaven Nursing Home,"Brookhaven Nursing Home, Ballyraggett, Co. Kilkenny, Kilkenny", Ballyraggett,Kilkenny,245159.6631,170309.5036,NursingHome
+85,Brooklodge Nursing Home,"Brooklodge Nursing Home, Ballyglunin, Tuam, Co. Galway, Galway", Ballyglunin,Galway,147078.0827,242441.9164,NursingHome
+86,Brookvale Manor,"Brookvale Manor Private Nursing Home, Hazelhill, Ballyhaunis, Co. Mayo, Mayo", Hazelhill,Mayo,148477.3115,279094.2429,NursingHome
+87,Brymore House,"Brymore House Nursing Home, Thormanby Road, Howth, Co. Dublin, Co. Dublin", Thormanby Road,Dublin,329420.1606,238107.2359,NursingHome
+88,Buncrana Community Hospital,"HSE, BUNCRANA NURSING HOME, MAGINN AVENUE, BUNCRANA, CO. DONEGAL", MAGINN AVENUE,Donegal,235099.8234,432034.4127,NursingHome
+89,Bushmount Nursing Home,"Bushmount Nursing Home, Bushmount, Clonakilty, Co. Cork, Cork", Bushmount,Cork,137731.4999,41239.24195,NursingHome
+90,Bushy Park Nursing Home,"Bushy Park Nursing Home, Bushy Park, Borrisokane, Co. Tipperay, Tipperary", Bushy Park,Tipperary,191081.376,193109.1871,NursingHome
+91,Caherass Nursing Home,"Caherass Nursing Home, Caherass Cross, Croom, Co. Limerick, Limerick", Caherass Cross,Limerick,151337.5606,141153.6432,NursingHome
+92,Cahercalla Community Hospital,"Cahercalla Community Hospital, Cahercalla  Road, Ennis, Co. Clare, Clare", Cahercalla  Road,Clare,132283.1242,176094.2809,NursingHome
+93,Caherciveen Community Hospital,"Caherciveen Community Hospital, Valentia Road, Caherciveen, Co. Kerry, Kerry", Valentia Road,Kerry,46365.09214,78989.01833,NursingHome
+94,Cahereen Care Centre,"Cahereen Care Centre, Codrum, Macroom, Co. Cork, Cork", Codrum,Cork,131467.3731,73138.02027,NursingHome
+95,Cahermoyle House Nursing Home,"Cahermoyle House Nursing Home, Ardagh, Co. Limerick, Limerick", Ardagh,Limerick,127886.7366,138652.7058,NursingHome
+96,Cairn Hill Nursing Home,"Cairn Hill Nursing Home, Westminster Road, Foxrock, Dublin 18, Dublin 18", Westminster Road,Dublin,321820.6345,225899.4861,NursingHome
+97,Cairn Hill Nursing Home ,"Millers Wood Lodge, Herbert Road, Bray, Co. Wicklow", Herbert Road,Wicklow,325392.438,217998.969,NursingHome
+98,Caiseal Geal Nursing Home,"Caiseal Geal Nursing Home, Castlegar, Galway City, Galway", Castlegar,Galway,132159.6443,228159.0344,NursingHome
+99,Cara Care Centre,"Cara Care Centre, Northwood Park, Santry, Dublin 9, Dublin 9", Northwood Park,Dublin,315818.801,240622.4567,NursingHome
+100,Cara House,"Cara House, Market Street, Skibbereen, Co Cork, Cork", Market Street,Cork,112342.33,33542.247,NursingHome
+101,Carechoice Ballynoe,"Carechoice Ballynoe, White's Cross, Co. Cork, Cork", White's Cross,Cork,168820.1616,76788.58297,NursingHome
+102,Carechoice Clonakilty,"Carechoice Clonakilty, Clogheen, Clonakilty, Co. Cork, Cork", Clogheen,Cork,137347.3625,40941.58338,NursingHome
+103,Carechoice Dungarvan,"Carechoice Dungarvan, The Burgery, Dungarvan, Co. Waterford, Waterford", The Burgery,Waterford,260700.0994,112615.0896,NursingHome
+104,Carechoice Macroom,"Carechoice Macroom, Gurteenroe, Macroom, Co. Cork, Cork", Gurteenroe,Cork,132880.059,73201.38279,NursingHome
+105,Carechoice Montenotte,"Carechoice Montenotte, Middle Glanmire Road, Montenotte, Cork, Cork", Middle Glanmire Road,Cork,169568.1418,72769.03989,NursingHome
+106,Carlford Nursing Home,"Carlford Nursng Home, Cloughban, Clonroche, Enniscorthy, Co. Wexford Wexford", Cloughban,Wexford,286957.9947,134971.3336,NursingHome
+107,Carlingford Nursing Home,"Carlingford Nursing Home, Old Dundalk Road, Carlingford, Co. Louth, Louth", Old Dundalk Road,Louth,319143.8051,310750.9838,NursingHome
+108,Carndonagh Community Hospital,"Carndonagh Community Hospital, Convent Road, Carndonagh, Co. Donegal, Donegal", Convent Road,Donegal,246965.154,445169.8874,NursingHome
+109,Carrigoran House,"Carrigoran House, Newmarket-on-Fergus, Co. Clare, Clare", Newmarket-on-Fergus,Clare,138537.2673,167108.456,NursingHome
+110,Carthage Nursing Home,"Carthage Nursing Home, Mucklagh, Tullamore, Co. Offaly, Offaly", Mucklagh,Offaly,233873.874,225170.4215,NursingHome
+111,Carysfort Nursing Home,"Arkendale Road, Glenageary, Co. Dublin, A96w566", Glenageary,Dublin,325502.8716,227197.1279,NursingHome
+112,Castle Gardens Nursing Home,"Castle Gardens Nursing Home, Drumgoold, Enniscorthy, Wexford, Wexford", Drumgoold,Wexford,299105.3856,138802.2218,NursingHome
+113,Castlecomer District Hospital,"Castlecomer District Hospital, Castlecomer, Co. Kilkenny, Kilkenny", Castlecomer,Kilkenny,253251.8102,172957.5006,NursingHome
+114,Castlemanor Nursing Home,"Castlemanor Nursing Home, Billis, Drumalee, Co. Cavan, Cavan", Billis,Cavan,243072.5929,305693.3702,NursingHome
+115,Castleross Nursing and Convelescent Centre,"Castleross Nursing and Convalescent Centre, Castleross, Carrickmacross, Co. Monaghan, Monaghan", Castleross,Monaghan,267070.5924,333647.2629,NursingHome
+116,Castletownbere Community Hospital,"Castsletownbere Community Hospital, Castletownbere, Co. Cork, Cork", Castletownbere,Cork,67771.90658,46498.3437,NursingHome
+117,Castleturvin House Nursing Home,"Castleturvin House Nursing Home, Athenry, Co. Galway, Galway", Athenry,Galway,149134.7737,225617.078,NursingHome
+118,Catherine McAuley House,"Catherine McAuley House, Old Dominic Street, Limerick, Limerick", Old Dominic Street,Limerick,157641.362,156711.1415,NursingHome
+119,Catherine McAuley House,"Catherine McAuley House, Beaumont Woods, Beaumont, Dublin 9, Dublin 9", Beaumont Woods,Dublin,317800.4456,238897.7353,NursingHome
+120,Cedar House Nursing Home,"Cedar House, 35 Mount Anville Park, Dublin 14, D14f240", Mount Anville,Dublin,318606.2346,228367.8109,NursingHome
+121,Central Park Nursing Home,"Central Park Nursing Home, Clonberne, Ballinasloe, Co. Galway, Galway", Clonberne,Galway,157179.7803,256722.9234,NursingHome
+122,Cherry Grove Nursing Home,"Cherry Grove Nursing Home, Priesthaggard, Campile, New Ross, Co. Wexford  Wexford", Priesthaggard,Wexford,270261.2675,117633.5867,NursingHome
+123,Cherry Orchard Hospital,"Cherry Orchard Hospital, Ballyfermot, Dublin 10, Dublin 10", Ballyfermot,Dublin,309253.3712,234096.3651,NursingHome
+124,Cherryfield Lodge Nursing Home,"Milltown Park, Dublin 6",Milltown,Dublin,316860.5026,231112.9006,NursingHome
+125,Cherryfield Nursing Home,"Cherryfield Nursing Home, Ballygarret, Gorey, Co. Wexford, Wexford", Ballygarret,Wexford,320310.3222,148536.4109,NursingHome
+126,Cherryfields Housing with Care,"Cherryfields Housing with Care, 2D Cherryfields Lawn, Hartstown, Clonsilla, Dublin 15 Co. Dublin",Cherryfields Lawn,Dublin,305064.844,239212.047,NursingHome
+127,Churchview Nursing Home,"Churchview Nursing Home, 59/61 New Cabra Road, Phibsboro, Dublin 7, Dublin 7",New Cabra Road,Dublin,314451.211,235878.4061,NursingHome
+128,Clarehaven Home,"Clarehaven Home, St. Canice's Road, Glasnevin, Dublin 11, Dublin 11", St. Canice's Road,Dublin,315282.1263,238384.228,NursingHome
+129,Claremount Nursing Home,"Claremount Nursing Home, Claremount, Claremorris, Co. Mayo, Mayo", Claremount,Mayo,134517.6351,276203.5461,NursingHome
+130,Cloghran Nursing Home,"Cloghran Nursing Home, Stockhole Lane, Cloghran, Co Dublin, Co. Dublin", Stockhole Lane,Dublin,318793.031,242854.141,NursingHome
+131,Clonakilty Community Hospital,"Clonakilty Community Hospital, Clonakilty, Co. Cork, Cork", Clonakilty,Cork,138743.309,41558.42098,NursingHome
+132,Clonskeagh Hospital,"Clonskeagh Hospital, Clonskeagh Road, Dublin 6, Dublin 6", Clonskeagh Road,Dublin,317299.7817,230936.0501,NursingHome
+133,Clontarf Private Nursing Home,"Clontarf Private Nursing Home, 5 - 7 Clontarf Road, Clontarf, Dublin 3, Dublin 3", Clontarf Road,Dublin,318881.8334,236035.6633,NursingHome
+134,Clover Lodge Nursing Home Shinrone ,"Main Street, Shinrone, Birr, Co. Offaly, R42ea34", Shinrone,Offaly,205039.1885,192509.0309,NursingHome
+135,Cloverlodge Nursing Home Athy,"Moneen Lane, Athy, Co. Kildare, R14dd43", Athy,Kildare,268398.4695,194557.3129,NursingHome
+136,Cluain Arann Welfare Home,"Cluain Arann Welfare Home, Avondale Crescent, Tipperary Town, Tipperary, Tipperary", Avondale Crescent,Tipperary,189426.4917,136102.442,NursingHome
+137,Cluain Lir Community Nursing Unit,"Cluain Lir Community Nursing Unit, Longford Road, Mullingar, Westmeath, Westmeath", Longford Road,Westmeath,243215.281,253904.984,NursingHome
+138,Cobh Community Hospital,"Cobh Community Hospital, Cobh, Co. Cork, Cork", Cobh,Cork,179419.484,66968.9451,NursingHome
+139,Cois Abhainn Residential Centre,"Cois Abhainn Residential Centre, Greencloyne, Youghal, Co. Cork, Cork", Greencloyne,Cork,209608.312,78807.63587,NursingHome
+140,College View Nursing Home,"College View Nursing Home, Clones Road, Cavan, Co. Cavan, Cavan", Clones Road,Cavan,241834.1851,304557.4537,NursingHome
+141,Community Hospital New Ross,"Community Hospital, Hospital Road, New Ross, Co. Wexford, Wexford", Hospital Road,Wexford,272276.552,126928.2241,NursingHome
+142,Community Hospital of the Assumption,"Community Hospital of the Assumption, Thurles, Co. Tipperary, Tipperary", Thurles,Tipperary,211893.8167,159415.2131,NursingHome
+143,Community Nursing Unit Abbeyleix,"Community Nursing Unit Abbeyleix, Abbeyleix, Co. Laois, Laois", Abbeyleix,Laois,243777.9427,184902.5467,NursingHome
+144,Community Nursing Unit Ballymote,"Community Nursing Unit, Ballymote, Co. Sligo, Sligo", Ballymote,Sligo,166234.0965,315689.5008,NursingHome
+145,Community Nursing Unit Edenderry,"Edenderry Community Nursing Unit, St. Mary's Road, Edenderry, Co. Offaly, Offaly", St. Mary's Road,Offaly,262942.2602,232806.7268,NursingHome
+146,Conna Nursing Home,"Conna Nursing Home, Conna, Mallow, Co. Cork, Cork", Conna,Cork,192705.8061,93461.67206,NursingHome
+147,Connolly Hospital (Silver Birch & Woodland Units),"Connolly Hospital  (Silver Birch & Woodland Units), Blanchardstown, Dublin 15, Dublin 15", Blanchardstown,Dublin,308444.7422,239331.5489,NursingHome
+148,Coral Haven Residential Nursing Home,"Coral Haven Nursing Home, Headford Road, Galway, Galway", Headford Road,Galway,130940.7876,228018.8301,NursingHome
+149,Corbally House Nursing Home,"Corbally House Nursing Home, Mill Road, Corbally, Limerick, Limerick", Mill Road,Limerick,157967.6593,159758.0809,NursingHome
+150,Corpus Christi Nursing Home,"Corpus Christi Nursing Home, Brigown, Mitchelstown, Co. Cork, Cork", Brigown,Cork,181687.3364,112307.0179,NursingHome
+151,Corrandulla Nursing Home,"Corrandulla Nursing Home, Corandulla, Galway, Co. Galway, Galway", Corandulla,Galway,133720.0905,239045.4203,NursingHome
+152,Costello's Care Centre,"Costello's Care Centre, Lanesboro Road, Ballyleague, Co. Roscommon, Roscommon", Lanesboro Road,Roscommon,180399.9663,271456.8515,NursingHome
+153,Cottage Hospital,"Drogheda Services for the Elderly, Cottage Hospital, Scarlet Street, Drogheda, Co. Louth Louth", Scarlet Street,Louth,309160.92,275634.6786,NursingHome
+154,Cottage Nursing Home,"Cottage Nursing Home, Irishtown, Clonmel, Tipperary, Tipperary", Irishtown,Tipperary,219728.8075,122291.3408,NursingHome
+155,Craddock House,"Craddockstown House, Cradockstown Demesne, Naas, Co. Kildare, W91a991", Cradockstown Demesne,Kildare,290736.5006,217560.5779,NursingHome
+156,Cramers Court Nursing Home,"Cramer's Court Nursing Home, Belgooly, Kinsale, Co. Cork, Cork", Belgooly,Cork,166821.4344,53813.9587,NursingHome
+157,Cuan Chaitriona Nursing Home,"Cuan Chaitriona Nursing Home, The Lawn, Castlebar, Co. Mayo, Mayo", The Lawn,Mayo,115072.6965,290145.7024,NursingHome
+158,Cuil Didin,"Cuil Didin, Skahanagh, Tralee, Co. Kerry, Kerry", Skahanagh,Kerry,84577.99384,111822.3747,NursingHome
+159,Curragh Lawn Nursing Home,"Curragh Lawn Nursing Home, Kinneagh, Curragh, Co. Kildare, Kildare", Kinneagh,Kildare,281640.1115,210974.4816,NursingHome
+160,D'Alton Community Nursing Unit,"D'Alton Community Nursing Unit, Claremorris, Co. Mayo, Mayo", Claremorris,Mayo,134216.3088,275330.6659,NursingHome
+161,Dalkey Community Unit for Older Persons,"Dalkey Community Unit for Older Persons, Kilbegnet Close, Dalkey, Co. Dublin, Co. Dublin", Kilbegnet Close,Dublin,326295.4786,226915.8061,NursingHome
+162,Dalkey Lodge Nursing Home,"Dalkey Lodge Nursing Home, Ardbrugh Road, Dalkey, Co. Dublin, Co. Dublin", Ardbrugh Road,Dublin,326040.1762,226223.1799,NursingHome
+163,Dargle Valley Nursing Home,"Dargle Hill, Enniskerry, Co. Wicklow, A98n478", Enniskerry,Wicklow,324185.9696,217077.8129,NursingHome
+164,Darraglynn Nursing Home,"Darraglynn Nursing Home, Carrigaline Road, Douglas, Cork, Cork", Carrigaline Road,Cork,170611.7445,68293.59749,NursingHome
+165,Dealgan House Nursing Home,"Dealgan House Nursing Home, Toberona, Dundalk, Co. Louth, Louth", Toberona,Louth,302921.9985,309099.5146,NursingHome
+166,Dean Maxwell Community Nursing Unit,"Dean Maxwell Community Nursing Unit, The Valley, Roscrea, Co. Tipperary, Tipperary", The Valley,Tipperary,213828.1378,189498.6123,NursingHome
+167,Deerpark House,"Deerpark House Nursing Home, Seafield, Bantry, Co. Cork, Cork", Seafield,Cork,99032.45874,48376.73295,NursingHome
+168,Deerpark Nursing Home,"Deerpark Nursing Home, Deerpark, Lattin, Co. Tipperary, Tipperary", Deerpark,Tipperary,183543.2662,135622.3891,NursingHome
+169,Donore Nursing Home,"13 Sidmonton Road, Bray, Co. Wicklow, A98h336", Bray,Wicklow,326828.0286,218201.6869,NursingHome
+170,Douglas Nursing and Retirement Home,"Douglas Nursing and Retirement Home, Moneygourney, Douglas, Cork, Cork", Moneygourney,Cork,172340.5273,67680.7942,NursingHome
+171,Drakelands House Nursing Home,"Drakelands House Nursing Home, Drakelands, Kilkenny, Kilkenny", Drakelands,Kilkenny,248492.0576,155472.0029,NursingHome
+172,Droimnin Nursing Home,"Droimnin Nursing Home, Brockley Park, Stradbally, Laois, Laois", Brockley Park,Laois,257283.5496,196249.8254,NursingHome
+173,Drumbear Lodge Nursing Home,"Drumbear Lodge Nursing Home, Cootehill Road, Monaghan, Monaghan", Cootehill Road,Monaghan,264319.862,319018.2802,NursingHome
+174,Drumderrig House,"Drumderrig House, Abbeytown, Boyle, Co. Roscommon, Roscommon", Abbeytown,Roscommon,181356.754,302969.8895,NursingHome
+175,Dunabbey House,"Dunabbey House, Dungarvan Community Hospital, Dungarvan, Co. Waterford, Waterford", Dungarvan,Waterford,260700.0994,112615.0896,NursingHome
+176,Dungarvan Community Hospital,"Dungarvan, Waterford, Waterford", Waterford,Waterford,227066.8711,96147.82398,NursingHome
+177,Dunmanway Community Hospital,"Dunmanway Community Hospital, Dunmanway, Co. Cork, Cork", Dunmanway,Cork,123117.3718,52746.37597,NursingHome
+178,"Earlsbrook House Nursing Home, ","41 Meath Road, Bray, Co. Wicklow, A98dh95", Bray,Wicklow,327030.8266,218274.5689,NursingHome
+179,East Ferry House Nursing Home,"East Ferry House Nursing Home, East Ferry, Midleton, Co. Cork, Cork", East Ferry,Cork,185694.3771,67387.58298,NursingHome
+180,Eliza Lodge Nursing Home,"Eliza Lodge Nursing Home, Boheradurrow, Five Roads, Banagher, Co. Offaly Offaly", Boheradurrow,Offaly,200894.9375,215455.5534,NursingHome
+181,Elm Green Nursing Home,"Elm Green Nursing Home, New Dunsink Lane, Castleknock, Dublin 15, Dublin 15", New Dunsink Lane,Dublin,309715.8656,238702.5787,NursingHome
+182,"Elm Grove Nursing Home, ","Elm Grove, Syngefield, Birr, Co. Offaly, R42py13", Syngefield,Offaly,206720.6565,204958.4689,NursingHome
+183,Elm Hall Nursing Home,"Elmhall, Celbridge, Co. Kildare, W23p6ex", Celbridge,Kildare,298843.4696,232812.1559,NursingHome
+184,Elmhurst Nursing Home,"Elmhurst Nursing Home, Hampstead Avenue, Glasnevin, Dublin 9, Dublin 9", Hampstead Avenue,Dublin,315685.9824,238223.0631,NursingHome
+185,Ennis Nursing Home,"Ennis Nursing Home, Showgrounds Road, Drumbiggle, Ennis, Co. Clare Clare", Showgrounds Road,Clare,132918.5409,176652.4089,NursingHome
+186,Ennistymon Community Hospital,"Ennistymon Community Hospital, Dough, Ennistymon, Co. Clare, Clare", Dough,Clare,113460.0251,187900.3879,NursingHome
+187,Esker Lodge Nursing Home,"Esker Lodge Nursing Home, Esker Place, Cathedral Road, Cavan, Cavan", Esker Place,Cavan,241834.1851,304557.4537,NursingHome
+188,Esker Ri,"Esker Ri Nursing Home, Tullamore Road, Clara, Offaly", Tullamore Road,Offaly,233049.4616,225980.0267,NursingHome
+189,Eyrefield Manor Nursing Home,"Church Lane, Greystones, Co. Wicklow, A63kn63", Greystones,Wicklow,329098.9066,212442.2659,NursingHome
+190,Fairfield Nursing Home,"Fairfield Nursing Home, Quarry Road, Drimoleague, Co. Cork, Cork", Quarry Road,Cork,112874.4279,46142.65662,NursingHome
+191,Fairlawns Nursing Home,"Fairlawns Private Nursing Home, Cavan Road, Baileboro, Co. Cavan, Cavan", Cavan Road,Cavan,241834.1851,304557.4537,NursingHome
+192,Fairview Community Unit,"Fairview Community Unit, Griffith Court, Fairview, Dublin 3, Dublin 3", Griffith Court,Dublin,317073.132,236725.674,NursingHome
+193,Falcarragh Communty Hospital,"Otharlann Phobail an FhÃ¡lcarraigh, Aonad Altranais an FhÃ¡lcarraigh, Baile Chonaill, An FÃ¡lcarrach, Co DhÃºn na nGall", Aonad Altranais an FhÃ¡lcarraigh,Donegal,193470.2955,432165.1634,NursingHome
+194,Farranlea House Community Nursing Unit,"Farranlea House CNU, Farranlea Road, Wilton, Cork, Cork", Farranlea Road,Cork,164537.5819,71156.63348,NursingHome
+195,Fearna Manor Nursing Home,"Fearna Manor Nursing Home, Tarmon Road, Castlerea, Co. Roscommon, Roscommon", Tarmon Road,Roscommon,168100.8742,280311.3972,NursingHome
+196,Fearna Nursing Home,"Fearna Nursing Home, Bishop Street, Elphin, Co. Roscommon, Roscommon", Bishop Street,Roscommon,187417.2815,288877.401,NursingHome
+197,Fermoy Community Hospital,"Fermoy Community Hospital, Tallow Road, Fermoy, Co. Cork, Cork", Tallow Road,Cork,182473.9925,98614.01355,NursingHome
+198,Ferndene Nursing Home Blackrock,"Ferndene Nursing Home Blackrock, Deansgrange Road, Blackrock, Co. Dublin", Deansgrange Road,Dublin,322440.59,227064.359,NursingHome
+199,Fingal House Nursing Home,"Seatown West, Swords, Co. Dublin, K67ve44", Swords,Dublin,318471.8526,247479.946,NursingHome
+200,First Care Blainroe Lodge,"Blainroe Lodge, Blainroe, Wicklow, A67vk52", Blainroe,Wicklow,332972.4066,190110.5779,NursingHome
+201,Flannery's Nursing Home,"Flannery's Nursing Home, Chapel Road, Abbeyknockmoy, Tuam, Co. Galway Galway", Chapel Road,Galway,151778.3254,243495.7903,NursingHome
+202,Fold Ireland Anam Cara Housing with Care,"Fold Ireland Anam Cara Housing with Care, St Canice's Road, Glasnevin, Dublin 11, Co. Dublin", St Canice's Road,Dublin,314846.875,238249.016,NursingHome
+203,Friars Lodge Nursing Home,"Friars Lodge Nursing Home, Convent Road, Ballinrobe, Co. Mayo, Mayo", Convent Road,Mayo,120036.6661,264498.6274,NursingHome
+204,Gahan House,"Gahan House, Graiguenamanagh, Co. Kilkenny, Kilkenny", Graiguenamanagh,Kilkenny,270855.4092,143858.1274,NursingHome
+205,Gallen Priory Nursing Home,"Gallen Priory Nursing home, Main Street, Ferbane, Co. Offaly, Offaly", Main Street,Offaly,211519.9902,224840.2236,NursingHome
+206,Garbally View Nursing Home,"Garbally View Nursing Home, Brackernagh, Ballinasloe, Co. Galway, Galway", Brackernagh,Galway,184028.6195,230238.6989,NursingHome
+207,Gascoigne House Nursing Home,"Gasgoigne House, 37-39 Cowper Road, Dublin 6, D06hw18",Cowper Road,Dublin,316134.5316,231051.1879,NursingHome
+208,Glanmire Residential Care Ltd.,"Glanmire Residential Care Ltd., Glyntown, Glanmire, Co. Cork, Cork", Glyntown,Cork,173337.1979,74700.20666,NursingHome
+209,Glebe Nursing Home,"Glebe Road, Enniskerry Road, Dublin 18, D18y201", Enniskerry Road,Dublin,320051.8136,222756.5779,NursingHome
+210,Glenashling Nursing Home,"Oldtown Road, Celbridge, Co. Kildare, W23x279",Oldtown Road,Kildare,296117.0876,233506.9799,NursingHome
+211,Glenaulin Nursing Home,"Glenaulin, Dublin 20, D20yt66",Glenaulin,Dublin,309480.0216,234903.5249,NursingHome
+212,Glencarrig Nursing Home,"Glencarrig Court, Dublin 24, D24kf29",Glencarrig,Dublin,309973.2666,226278.2249,NursingHome
+213,Glendale Nursing Home,"Glendare Nursing Home, Tullow, Co. Carlow, Carlow", Tullow,Carlow,286998.4054,173392.0526,NursingHome
+214,Glendonagh Residential Home,"Glendonagh Residential Home, Dungourney, Midleton, Co Cork, Cork", Dungourney,Cork,193498.3078,80711.68532,NursingHome
+215,Glengara Park Nursing Home,"Glenageary Road Lower, Glenageary, Co. Dublin, A96h242", Glenageary,Dublin,324612.7146,227747.9879,NursingHome
+216,Good Counsel Nursing Home,"Good Counsel Nursing Home, Kilmallock Road, Limerick, Limerick", Kilmallock Road,Limerick,158987.2432,156080.7161,NursingHome
+217,Gormanston Wood Nursing Home,"Gormanston Wood Nursing Home, Gormanston, Co. Meath, Meath", Gormanston,Meath,317850.9259,266232.7519,NursingHome
+218,Gowran Abbey Nursing Home,"Gowran Abbey Nursing Home, Gowran, Co. Kilkenny, Kilkenny", Gowran,Kilkenny,263102.1039,153430.592,NursingHome
+219,Grange Con Nursing Home,"Grange Con Nursing Home, Coolatanavally, Carrigrohane, Co. Cork, Cork", Coolatanavally,Cork,157955.4367,74070.99782,NursingHome
+220,Greenhill Nursing Home,"Greenhill Nursing Home, Waterford Road, Carrick-on-Suir, Tipperary, Tipperary", Waterford Road,Tipperary,241056.9977,122282.6233,NursingHome
+221,Greenpark Nursing Home,"Greenpark Nursing Home, Tullinadaly Road, Tuam, Co. Galway, Galway", Tullinadaly Road,Galway,143418.8908,252628.5974,NursingHome
+222,Greystones Nursing Home,"Church Road, Greystones, Co. Wicklow, A63hk44", Greystones,Wicklow,329320.0946,212598.9379,NursingHome
+223,Griffeen Valley Nursing Home,"Esker Road, Lucan, Co. Dublin, K78v208", Lucan,Dublin,303913.9386,234336.2809,NursingHome
+224,Hamilton Park,"Hamilton Park, Baltrothery, Balbriggan, Co. Dublin, Co. Dublin Co. Dublin", Baltrothery,Dublin,319951.5141,261253.8834,NursingHome
+225,Harbour Lights Nursing Home,"Harbour Lights Nursing Home, Townasligo, Bruckless, Co. Donegal, Donegal", Townasligo,Donegal,172706.8256,377161.0849,NursingHome
+226,Harvey Nursing Home,"Harvey Nursing Home, 25 Upper Glenageary Road, Glenageary, Co. Dublin, Co. Dublin", Upper Glenageary Road,Dublin,323764.2965,227452.8651,NursingHome
+227,Harvey Nursing Home Terenure,"122 Terenure Road West, Dublin 6w, D6wpw58",Terenure Road,Dublin,313446.9346,230364.7069,NursingHome
+228,Haven Bay Care Centre,"Haven Bay Care Centre, Ballinacubby, Kinsale, Co. Cork, Cork", Ballinacubby,Cork,163255.5901,50210.77986,NursingHome
+229,Haven Wood Retirement Home,"Haven Wood Retirement Home, Bishopscourt, Ballygunner, Waterford, Waterford", Bishopscourt,Waterford,260700.0994,112615.0896,NursingHome
+230,Hazel Hall Nursing Home,"Prosperous Road, Clane, Co. Kildare, W91da07",Prosperous Road,Kildare,286517.0866,227364.0969,NursingHome
+231,Heather House Community Nursing Unit,"Heather House Community Nursing Unit, St Marys Orthopaedic Hospital, Gurranabraher, Cork, Cork", Gurranabraher,Cork,165828.7856,72591.36043,NursingHome
+232,Heatherfield Nursing Home,"Heatherfield Nursing Home, Bush Lane, Raynestown, Dunshaughlin, Co. Meath Meath", Bush Lane,Meath,298195.3963,248296.592,NursingHome
+233,Heatherlee Nursing Home,"Heatherlee Nursing Home, Lawlor's Cross, Tralee Road, Killarney, Kerry", Lawlor's Cross,Kerry,95923.26954,96576.74409,NursingHome
+234,Hillcrest House,"NURSING HOME, LONG LANE, LETTERKENNY, CO. DONEGAL", LONG LANE,Donegal,216488.1436,412761.5911,NursingHome
+235,Hillside Nursing Home,"Hillside Nursing Home, Attidermot, Aughrim, Ballinasloe, Co. Galway Galway", Attidermot,Galway,178603.9304,227955.9192,NursingHome
+236,Hillview Nursing Home,"Hillview Nursing Home, Tullow Road, Carlow, Carlow", Tullow Road,Carlow,273211.8725,176522.8134,NursingHome
+237,Hillview Private Nursing & Retirement Residence,"Hillview Private Nursing & Retirement Residence, Rathfeigh, Tara, Co. Meath, Meath", Rathfeigh,Meath,300248.5158,261321.0448,NursingHome
+238,Hollymount Private Nursing and Retirement Home,"Hollymount Private Nursing and Retirement Home, Kilrush, Hollymount, Co. Mayo, Mayo", Kilrush,Mayo,125926.9206,268140.4766,NursingHome
+239,Holy Family Nursing Home,"Holy Family Nursing Home, Magheramore, Killimor, Ballinasloe, Galway Galway", Magheramore,Galway,180508.8917,213474.5857,NursingHome
+240,Holy Ghost Residential Home,"Holy Ghost Residential Home, Cork Road, Waterford, Waterford", Cork Road,Waterford,260037.6043,111432.439,NursingHome
+241,Howth Hill Lodge,"Howth Hill Lodge, Thormanby Road, Howth, Co. Dublin, Co. Dublin", Thormanby Road,Dublin,329459.5514,237920.1321,NursingHome
+242,Innis Ree Lodge,"Innis Ree Lodge, Ballyleague, Lanesboro, Co. Roscommon, Roscommon", Ballyleague,Roscommon,199958.9015,269775.4368,NursingHome
+243,Kanturk Community Hospital,"Kanturk Community Hospital, Kanturk, Co. Cork, Cork", Kanturk,Cork,138038.4266,103182.3185,NursingHome
+244,Kenmare Community Nursing Unit- New Build,"Hospital Road, Kenmare, Co. Kerry, Kerry", Kenmare,Kerry,91173.953,71840.359,NursingHome
+245,Kenmare Nursing Home 'Tir na nOg',"Kenmare Nursing Home 'Tir na nOg', Killaha East, Kenmare, Co. Kerry, Kerry", Killaha East,Kerry,89682.5491,69066.60504,NursingHome
+246,Kerlogue Nursing Home,"Kerlogue Nursing Home, Kerlogue, Wexford, Wexford", Kerlogue,Wexford,305286.2129,118998.629,NursingHome
+247,Kilbrew Recuperation and Nursing Care,"Kilbrew Recuperation and Nursing Care, Curragh, Ashbourne, Co. Meath, Meath", Curragh,Meath,303084.3496,255179.3649,NursingHome
+248,Kilcara House Nursing Home,"Kilcara House Nursing Home, Kilcara, Duagh, Listowel, Co. Kerry Kerry", Kilcara,Kerry,105443.6267,130219.8495,NursingHome
+249,Kilcolgan Nursing Home,"Kilcolgan Nursing Home, Kilcolgan, Co. Galway, Galway", Kilcolgan,Galway,142597.0775,218018.34,NursingHome
+250,"Killarney Community Hospitals (Fuschia, Hawthorn and Heather Wards)","Killarney Community Hospitals (Fuschia, Hawthorn and Heather Wards), St. Margaret's Road, Killarney, Co. Kerry Kerry", St. Margaret's Road,Kerry,95895.83925,91608.71083,NursingHome
+251,Killarney Nursing Home,"Killarney Nursing Home, Rock Road, Killarney, Co. Kerry, Kerry", Rock Road,Kerry,96075.51813,91190.93023,NursingHome
+252,Killeline Nursing Home,"Killeline Nursing Home, Cork Road, Newcastle West, Co. Limerick, Limerick", Cork Road,Limerick,128922.6064,133125.5164,NursingHome
+253,Killiney Grove Nursing Home,"Killiney Grove Nursing Home, Killiney Hill Road, Killiney, Co. Dublin, Co. Dublin", Killiney Hill Road,Dublin,325556.2568,226104.9966,NursingHome
+254,Killure Bridge Nursing Home,"Killure Bridge Nursing Home, Airport Road, Waterford, Waterford", Airport Road,Waterford,260700.0994,112615.0896,NursingHome
+255,Killybegs Community Hospital,"Killybegs Community Hospital, Killybegs, Co. Donegal, Donegal", Killybegs,Donegal,171230.8212,377028.0578,NursingHome
+256,Kilmainhamwood Nursing Home,"Kilmainhamwood Nursing Home, Kilmainhamwood, Kells, Co. Meath, Meath", Kilmainhamwood,Meath,277449.3404,274531.7939,NursingHome
+257,Kilminchy Lodge Nursing Home,"Kilminchy, Portlaoise, Co. Laois, R32wk35", Portlaoise,Laois,249051.0945,199434.9219,NursingHome
+258,Kilrush District Hospital,"Kilrush District Hospital Ltd., Cooraclare Road, Kilrush, Co. Clare, Clare", Cooraclare Road,Clare,99492.38875,155504.2905,NursingHome
+259,Kilrush Nursing Home,"Kilrush Nursing Home, Kilimer Road, Kilrush, Co. Clare, Clare", Kilimer Road,Clare,100635.5,153563.8442,NursingHome
+260,Kiltipper Woods Care Centre,"Stanford Woods Care Centre Ltd, T/A Kiltipper Woods Care Centre, Kiltipper Road, Dublin 24", Kiltipper Road,Dublin,309012.0571,225272.2398,NursingHome
+261,Kiltormer Nursing Home,"Kiltormer Nursing Home, Kiltomer, Ballinasloe, Co. Galway, Galway", Kiltomer,Galway,182381.9795,220281.2905,NursingHome
+262,Kinsale Community Hospital,"Kinsale Community Hospital, Kinsale, Co. Cork, Cork", Kinsale,Cork,163855.9301,50539.97144,NursingHome
+263,Kinvara House,"Kinvara House Nursing Home, 3 - 4 Esplanade, Strand Road, Bray, Co.Wicklow Wicklow", Strand Road,Wicklow,327076.8656,218583.7829,NursingHome
+264,Knightsbridge Nursing Home,"Knightsbridge Nursing Home, Longwood Road, Trim, Co. Meath, Meath", Longwood Road,Meath,279984.6903,256037.3781,NursingHome
+265,Knockeen Nursing Home,"Knockeen Nursing Home, Knockeen, Barntown, Wexford, Wexford", Knockeen,Wexford,297264.6672,122482.1799,NursingHome
+266,Kylemore House Nursing Home,"Kylemore House Nursing Home, Sidmonton Road, Bray, Co. Wicklow, Wicklow", Sidmonton Road,Wicklow,326988.0652,217930.2977,NursingHome
+267,La Verna Nursing Home,"La Verna Nursing Home, 30 Haddon Road, Clontarf, Dublin 3, Dublin 3", Haddon Road,Dublin,319072.8399,236140.9581,NursingHome
+268,Lake House Nursing Home,"Lake House Nursing Home, Portnablagh, Co. Donegal, Donegal", Portnablagh,Donegal,204573.0585,436409.8385,NursingHome
+269,Lakes Nursing Home,"Hill Road, Killaloe, Co. Clare, Clare", Killaloe,Clare,169771.1225,172864.0109,NursingHome
+270,Larchfield  Park Nursing Home,"Larchfield Park Nursing Home, Monread Road, Naas, Co. Kildare, Kildare", Monread Road,Kildare,290438.9772,221472.2009,NursingHome
+271,Laurel Lodge Nursing Home,"Laurel Lodge Nursing Home, Templemichael Glebe, Longford, Co. Longford, Longford", Templemichael Glebe,Longford,214865.3048,276219.1857,NursingHome
+272,Lawson House Nursing Home,"Lawson House Nursing Home, Knockrathkyle, Glenbrien, Enniscorthy, Co. Wexford Wexford", Knockrathkyle,Wexford,300830.8174,136581.0571,NursingHome
+273,Leeson Park House Nursing Home,"Leeson Park House Nursing Home, 10 Leeson Park, Ranelagh, Dublin 6, Dublin 6",Leeson Park,Dublin,316790.9895,232081.5862,NursingHome
+274,Leopardstown Park Hospital,"Leopardstown Park Hospital, Foxrock, Dublin 18, Dublin 18", Foxrock,Dublin,319999.4315,225879.019,NursingHome
+275,Lifford Community Hospital,"Lifford Community Hospital, Lifford, Co. Donegal, Donegal", Lifford,Donegal,233330.1629,398460.3601,NursingHome
+276,Lir Retirement Home,"Lir Retirement Home, Tournafulla, Co.Limerick, Limerick, Limerick", Tournafulla,Limerick,121240.6644,124252.0226,NursingHome
+277,Lisdarn Centre,"Lisdarn Centre, Lisdarn Health Centre, Cavan, Cavan", Lisdarn,Cavan,241834.1851,304557.4537,NursingHome
+278,Lisheen Nursing Home,"Lisheen Nursing Home, Stoneylane, Rathcoole, Co. Dublin, Co. Dublin", Stoneylane,Dublin,302178.5772,226583.6732,NursingHome
+279,Listowel Community Hospital,"Listowel Community Hospital St. Joseph's Ward, Listowel, Co. Kerry, Kerry", Listowel,Kerry,98199.84059,133859.3275,NursingHome
+280,Little Flower Nursing Home,"Little Flower Nursing Home, Labane, Ardrahan, Co. Galway, Galway", Labane,Galway,146412.2106,210641.9905,NursingHome
+281,Lough Corrib Nursing Home,"Lough Corrib Nursing Home, Kilbeg, Headford, Co. Galway, Galway", Kilbeg,Galway,126499.7061,247168.2197,NursingHome
+282,Lough Erril Private Nursing Home,"Lough Erril Private Nursing Home, Lough Erril, Mohill, Co. Leitrim, Leitrim", Lough Erril,Leitrim,205191.678,296863.8551,NursingHome
+283,Lourdesville Nursing Home,"Lourdesville Nursing Home, Athy Road, Kildare Town, Co. Kildare, Kildare", Athy Road,Kildare,272910.1748,212561.0234,NursingHome
+284,Lucan Lodge Nursing Home,"Lucan Lodge Nursing Home, Ardeevin Drive, Lucan, Co. Dublin, Co. Dublin", Ardeevin Drive,Dublin,302796.7121,234810.799,NursingHome
+285,Lusk Community Unit,"Lusk Community Unit, Station Road, Lusk, Co. Dublin, Co. Dublin", Station Road,Dublin,322595.8059,254020.9403,NursingHome
+286,Lystoll Lodge Nursing Home,"Lystoll Lodge Nursing Home, Skehenerin, Listowel, Co. Kerry, Kerry", Skehenerin,Kerry,101968.3115,133938.3234,NursingHome
+287,Mac Bride Community Nursing Unit,"Mac Bride Community Nursing Unit, Westport, Co. Mayo, Mayo", Westport,Mayo,99720.20246,284285.6632,NursingHome
+288,Macroom Community Hospital,"Macroom Community Hospital, Macroom, Co. Cork, Cork", Macroom,Cork,133934.6776,72954.37815,NursingHome
+289,Maple Court Nursing Home,"Maple Court Nursing Home, Dublin Road, Castlepollard, Mullingar, Co. Westmeath Westmeath", Dublin Road,Westmeath,247133.682,269276.1658,NursingHome
+290,Maria Goretti Nursing Home,"Maria Goretti Nursing Home, Proonts, Kilmallock, Co. Limerick, Limerick", Proonts,Limerick,159192.4986,155815.6038,NursingHome
+291,Marian House,"Marian House, Congregation of the Holy Spirit, Kimmage Manor, Whitehall Road, Dublin 12 Dublin 12", Whitehall Road,Dublin,312720.3744,230036.7835,NursingHome
+292,Marian House,"Marian House, Holy Faith Convent, Glasnevin, Dublin 11, Dublin 11", Holy Faith Convent,Dublin,314750.1963,237701.4679,NursingHome
+293,Maryborough Nursing Home,"Maryborough Nursing Home, Maryborough Hill, Douglas, Cork, Cork", Douglas,Cork,171711.7027,67833.20714,NursingHome
+294,Maryfield Nursing Home,"Maryfield Nursing Home, Lucan Road, Chapelizod, Dublin 20, Dublin 20", Lucan Road,Dublin,309940.8209,234534.314,NursingHome
+295,Maryfield Nursing Home,"Maryfield Nursing Home, Farnablake East, Athenry, Galway, Galway", Farnablake East,Galway,150332.9382,226868.6618,NursingHome
+296,Marymount Care Centre,"Marymount Care Centre, Westmanstown, Lucan, Co. Dublin, Co. Dublin", Westmanstown,Dublin,303766.4014,237004.2535,NursingHome
+297,Maynooth Community Care Unit,"Maynooth Community Care Unit, Leinster Street, Maynooth, Co. Kildare, Kildare", Leinster Street,Kildare,293692.7984,237662.3681,NursingHome
+298,Maypark House Nursing Home,"Maypark House Nursing Home, Maypark Lane, Waterford, Waterford", Maypark Lane,Waterford,263325.3457,111323.6992,NursingHome
+299,Meadowlands Nursing Home,"Meadowlands Nursing Home, Dunmore Road, Cloonfad, Co. Roscommon, Roscommon", Dunmore Road,Roscommon,150783.576,270267.9788,NursingHome
+300,Meath Community Unit,"Meath Community Unit, 1-9 Heytesbury Street, Dublin 8, Dublin 8", Heytesbury Street,Dublin,315220.5573,233056.2079,NursingHome
+301,Melview Nursing Home,"Melview Nursing Home, Prior Park, Clonmel, Co. Tipperary, Tipperary", Prior Park,Tipperary,220047.4275,123020.3039,NursingHome
+302,Middletown House Nursing Home,"Middletown House Nursing Home, Ardamine, Gorey, Wexford, Wexford", Ardamine,Wexford,318979.6452,151545.5802,NursingHome
+303,Midleton Community Hospital,"Midleton Community Hospital, Midleton, Co. Cork, Cork", Midleton,Cork,188156.8605,73491.91238,NursingHome
+304,Milford Care Centre,"MILFORD DAY CARE CENTRE, PLASSEY PARK ROAD, CASTLETROY, LIMERICK", PLASSEY PARK ROAD,Limerick,161209.0679,157834.909,NursingHome
+305,Mill Lane Manor Nursing Home,"Mill Lane Manor Nursing Home, Sallins Road, Naas, Co. Kildare, Kildare", Sallins Road,Kildare,289087.2161,220152.2388,NursingHome
+306,Mill Race Nursing Home,"Mill Race Nursing Home, Bridge Street, Ballinasloe, Co. Galway, Galway", Bridge Street,Galway,185587.0908,231203.521,NursingHome
+307,Millbrae Lodge Nursing Home,"Millbrae Lodge Nursing Home, Newport, Co. Tipperary, Tipperary", Newport,Tipperary,170939.5099,161954.3189,NursingHome
+308,Millbury Nursing Home,"Millbury Nursing Home, Common's Road, Navan, Co. Meath, Meath", Common's Road,Meath,285880.0579,266604.4458,NursingHome
+309,Millhouse Care Centre,"Millhouse Care Centre, Newtown Commons, New Ross, Co. Wexford, Wexford", Newtown Commons,Wexford,273761.2542,128267.4141,NursingHome
+310,Moate Nursing Home,"Moate Nursing Home, Dublin Road, Moate, Co. Westmeath, Westmeath", Dublin Road,Westmeath,220191.34,238471.883,NursingHome
+311,Mont Vista,"Mont Vista, Retreat Road, Athlone, Co. Westmeath, Westmeath", Retreat Road,Westmeath,205384.544,241386.9255,NursingHome
+312,Mooncoin Residential Care Centre,"Mooncoin Residential Care Centre, Pollrone, Mooncoin, Co. Kilkenny, Kilkenny", Pollrone,Kilkenny,250679.5952,116103.1377,NursingHome
+313,Moorehall Lodge Ardee,"Moorehall Lodge, Hale Street, Ardee, Co. Louth, Louth", Hale Street,Louth,296421.3732,290397.156,NursingHome
+314,Moorehall Lodge Drogheda,"Moorehall Lodge, Drogheda, Dublin Road, Drogheda, Louth Louth", Drogheda,Louth,296459.438,290415.375,NursingHome
+315,Mount Alvernia Hospital,"Mount Alvernia Hospital, Newberry, Mallow, Cork, Cork", Newberry,Cork,152619.7467,95624.73058,NursingHome
+316,Mount Cara,"Mount Cara, Redemption Road, Blackpool, Cork, Cork", Redemption Road,Cork,167098.895,72846.135,NursingHome
+317,Mount Carmel Nursing Home,"Mount Carmel Nursing Home, Abbey Street, Roscrea, Tipperary, Tipperary", Abbey Street,Tipperary,213232.845,188984.667,NursingHome
+318,Mount Carmel Supported Care Home,"Mount Carmel Supported Care Home, Prologue, Callan, Co. Kilkenny, Kilkenny", Prologue,Kilkenny,241058.8997,143534.5078,NursingHome
+319,Mount Hybla Nursing Home,"Mount Hybla Nursing Home, Farmleigh Woods, Castleknock, Dublin 15, Dublin 15", Farmleigh Woods,Dublin,309231.063,236521.797,NursingHome
+320,Mount Tabor Nursing Home,"Mount Tabor Nursing Home and Care Centre, Sandymount Green, Sandymount, Dublin 4, Dublin 4", Sandymount Green,Dublin,318969.8541,232803.2579,NursingHome
+321,Mountbellew Nursing Home,"Mountbellew Nursing Home, Mountbellew, Co. Galway, Galway", Mountbellew,Galway,166913.6239,246724.6508,NursingHome
+322,Mountpleasant Lodge,"Mountpleasant Lodge, Kilcock to Clane Road, Kilcock, Co. Kildare, Kildare", Kilcock to Clane Road,Kildare,286090.638,237522.9201,NursingHome
+323,Moy Ridge Nursing Home,"Moyridge Nursing Home, Ridgepool Road, Ballina, Co. Mayo, Mayo", Ridgepool Road,Mayo,124414.1417,318431.207,NursingHome
+324,Moycullen Nursing Home,"Moycullen Nursing Home, Ballinahalla, Moycullen, Co. Galway, Galway", Ballinahalla,Galway,121863.5822,235152.5377,NursingHome
+325,Moyglare Nursing Home,"Moyglare Nursing Home, Moyglare Road, Maynooth, Co. Kildare, Kildare", Moyglare Road,Kildare,293193.9128,238833.6239,NursingHome
+326,Moyne Nursing Home,"Moyne Nursing Home, The Moyne, Enniscorthy, Co. Wexford, Wexford", The Moyne,Wexford,297156.8175,142398.3707,NursingHome
+327,Mullinahinch House Private Nursing Home,"Mullinahinch House Private Nursing Home, Mullinahinch, Co. Monaghan, Monaghan", Mullinahinch,Monaghan,267070.5924,333647.2629,NursingHome
+328,Mullross Nursing Home,"Mullross Nursing Home - Partnership, Kilclare, Carrick on 'Shannon, Leitrim", Kilclare,Leitrim,198943.109,306546.219,NursingHome
+329,Mystical Rose Private Nursing Home,"Mystical Rose Nursing Home, Knockdoemor, Claregalway, Co. Galway, Galway", Knockdoemor,Galway,138650.8718,235993.5078,NursingHome
+330,Nazareth House,"Fahan, Lifford, Co. Donegal", Lifford,Donegal,233888.4324,426868.6664,NursingHome
+331,Nazareth House,"Nazareth House, Malahide Road, Dublin 3, Dublin 3", Malahide Road,Dublin,318193.6441,237201.6774,NursingHome
+332,Nazareth House,"Nazareth House, Dromahane, Mallow, Co Cork, Cork", Dromahane,Cork,155589.3493,98620.1154,NursingHome
+333,Nazareth Nursing Home,"Nazareth Nursing Home, Church Hill, Sligo, Sligo", Church Hill,Sligo,159573.9555,314108.062,NursingHome
+334,Nenagh Manor Nursing Home,"Nenagh Manor Nursing Home, Yewston, Nenagh, Co. Tipperary, Tipperary", Yewston,Tipperary,186118.546,178880.9793,NursingHome
+335,New Houghton Hospital,"New Haughton Hospital, Hospital Road, New Ross, Co. Wexford, Wexford", Hospital Road,Wexford,272276.552,126928.2241,NursingHome
+336,New Lodge Nursing Home,"New Lodge Nursing Home, C/o Bloomfield Care Centre, Stocking Lane, Rathfarnham, Dublin 16 Dublin 16", Stocking Lane,Dublin,313128.9459,226205.3274,NursingHome
+337,Newbrook Lodge Nursing Home,"Newbrook Lodge Nursing Home, Ballymahon Road, Mullingar, Co. Westmeath, Westmeath", Ballymahon Road,Westmeath,241626.2258,252004.641,NursingHome
+338,Newbrook Nursing Home,"Newbrook Nursing Home, Ballymahon Road, Mullingar, Co. Westmeath, Westmeath", Ballymahon Road,Westmeath,241506.1365,251943.5925,NursingHome
+339,Newpark Care Centre,"Newpark, The Ward, Co. Dublin, D11rw27", The Ward,Dublin,310846.8136,245628.719,NursingHome
+340,Newtownpark House,"Newtownpark House, Newtownpark Avenue, Blackrock, Co. Dublin, Co. Dublin", Newtownpark Avenue,Dublin,321713.3353,227811.987,NursingHome
+341,Nightingale Nursing Home,"Nightingale Nursing Home, Lowville, Ahascragh, Ballinasloe, Co. Galway Galway", Lowville,Galway,177690.6427,237866.1758,NursingHome
+342,Northbrook Nursing Home,"Northbrook House, 26 Northbrook Road, Ranelagh, Dublin 6, Dublin 6", Northbrook Road,Dublin,316323.5029,232481.0682,NursingHome
+343,Norwood Grange,"Norwood Grange, Ballinora, Waterfall, Cork, Cork", Ballinora,Cork,160012.4612,68024.85275,NursingHome
+344,O'Gorman Home,"O'Gorman Home, Castle Street, Ballyragget, Co. Kilkenny, Kilkenny", Castle Street,Kilkenny,244855.1668,170768.4916,NursingHome
+345,Oak View Nursing Home,"Oak View Nursing Home, The Commons, Belturbet, Co. Cavan, Cavan", The Commons,Cavan,238301.475,313315.779,NursingHome
+346,Oakdale Nursing Home,"Oakdale Nursing Home, Kilmalogue, Gracefield, Portarlington, Co. Offaly Offaly", Kilmalogue,Offaly,251739.3656,213353.8261,NursingHome
+347,Oakfield Nursing Home,"Oakfield Nursing Home, Courtown, Gorey, Co. Wexford, Wexford", Courtown,Wexford,319773.0709,156193.7578,NursingHome
+348,Oaklands Nursing home,"Oaklands Nursing Home, Derry, Listowel, Co. Kerry, Kerry", Derry,Kerry,103591.89,137650.0852,NursingHome
+349,Oaklodge Nursing Home,"Oaklodge Nursing Home, Churchtown South, Cloyne, Co. Cork, Cork", Churchtown South,Cork,194310.0971,63894.28182,NursingHome
+350,Oakwood Nursing Home,"Oakwood Private Nursing Home, Circular Road, Ballaghaderreen, Co. Roscommon, Roscommon", Circular Road,Roscommon,162049.9523,294725.3864,NursingHome
+351,Oakwood Nursing Home,"Oakwood Private Nursing Home, Hawthorne Drive, Roscommon Town, Co. Roscommon, Roscommon", Hawthorne Drive,Roscommon,188924.2069,264423.1325,NursingHome
+352,Ocean View Retirement and Nursing Home,"Ocean View Retirement and Nursing Home, Knockglassmore, Camp, Tralee, Co. Kerry Kerry", Knockglassmore,Kerry,70591.84026,109800.7471,NursingHome
+353,Oghill Nursing Home,"Oghill Nursing Home, Oghill, Monasterevin, Co. Kildare, Kildare", Oghill,Kildare,266892.2628,208969.565,NursingHome
+354,Oranmore Nursing Home,"Oranmore Nursing Home, Bushfield, Oranmore, Galway, Galway", Bushfield,Galway,140992.5337,225209.6778,NursingHome
+355,Oriel House,"Oriel House, St. Davnet's Complex, Rooskey, Monaghan, Monaghan", St. Davnet's Complex,Monaghan,266843.6929,333788.45,NursingHome
+356,Orwell House Nursing Home,"Orwell House Nursing Home, 112 Orwell Road, Rathgar, Dublin 6, Dublin 6", Orwell Road,Dublin,315661.0769,229726.9459,NursingHome
+357,Ospideal Pobail Chorca Dhuibhne (West Kerry Community Hospital),"BÃ³thar an Phoist, Daingean UÃ­ ChÃºis, Co. ChiarraÃ­", Daingean UÃ­ ChÃºis,Kerry,44802.64137,101166.1861,NursingHome
+358,Otharlann Pobail an ChlochÃ¡in Leith,"BÃ³thar Ghaoth Dobhair, An ClochÃ¡n Liath, Co. DÃºn na nGall.", An ClochÃ¡n Liath,Donegal,176902.259,411402.2581,NursingHome
+359,Oughterard Manor,"Oughterard Manor, Oughterard, Co Galway, Galway", Oughterard,Galway,112259.036,243046.938,NursingHome
+360,Our Lady of Consolation Nursing Home,"Our Lady of Consolation Nursing Home, Arden Road, Tullamore, Co. Offaly, Offaly", Arden Road,Offaly,233873.874,225170.4215,NursingHome
+361,Our Lady of Fatima Home,"Our Lady of Fatima Home, Oakpark Road, Tralee, Co. Kerry, Kerry", Oakpark Road,Kerry,85047.55318,115779.8671,NursingHome
+362,Our Lady of Lourdes Care Facility,"Our Lady of Lourdes Care Facility, Kilcummin Village, Killarney, Co. Kerry, Kerry", Kilcummin Village,Kerry,99812.85717,89657.67366,NursingHome
+363,Our Lady's Hospice and Care Services,"Our Lady's Hospice and Care Services, Harold's Cross, Dublin 6W, Dublin 6w", Harold's Cross,Dublin,314560.5691,232050.1806,NursingHome
+364,Our Lady's Manor Nursing Home,"Our Lady's Manor Nursing Home, Dublin Road, Edgeworthstown, Longford, Longford", Dublin Road,Longford,225970.5601,271284.0962,NursingHome
+365,Padre Pio House Nursing Home,"Padre Pio House Nursing Home, Churchtown, Mallow, Co. Cork, Cork", Churchtown,Cork,150197.0455,113575.9128,NursingHome
+366,Padre Pio Nursing Home,"Padre Pio Nursing Home, Holycross, Thurles, Co. Tipperary, Tipperary", Holycross,Tipperary,209503.68,154142.4243,NursingHome
+367,Padre Pio Nursing Home,"Padre Pio Nursing Home, Sunnyside, Upper Rochestown, Cork, Cork", Sunnyside,Cork,174579.2841,68437.03025,NursingHome
+368,Padre Pio Nursing Home,"Padre Pio Nursing Home, 50 / 51A Cappaghmore, Clondalkin, Dublin 22, Dublin 22",  Cappaghmore,Dublin,306251.7967,232159.8464,NursingHome
+369,Padre Pio Rest Home,"Padre Pio Rest Home, Cappoquin, Co. Waterford, Waterford", Cappoquin,Waterford,210228.5671,99470.32677,NursingHome
+370,Parke House Nursing Home,"Parke House Nursing Home, Kilcock, Co. Kildare, Kildare", Kilcock,Kildare,286421.3597,240632.3172,NursingHome
+371,Patterson's Nursing Home,"Patterson's Nursing Home, Lismackin, Roscrea, Co. Tipperary, Tipperary", Lismackin,Tipperary,213570.2025,183238.7317,NursingHome
+372,Peamount Hospital,"Peamount Hospital, Newcastle, Co. Dublin, Co. Dublin", Newcastle,Dublin,301716.3965,230793.7619,NursingHome
+373,Phoenix Park Community Nursing Units,"Phoenix Park Community Nursing Units, St. Mary's Hospital, Phoenix Park, Dublin 20, Dublin 20", St. Mary's Hospital,Dublin,310798.9058,234636.901,NursingHome
+374,Pilgrims Rest Nursing Home,"Pilgrim's Rest Nursing Home, Barley Hill, Westport, Co. Mayo, Mayo", Barley Hill,Mayo,98074.11314,286555.6838,NursingHome
+375,Plunkett Community Nursing Unit,"Plunkett Community Nursing Unit, Elphin Street, Boyle, Co. Roscommon, Roscommon", Elphin Street,Roscommon,180156.8728,302209.2516,NursingHome
+376,Portiuncula Nursing Home,"Portiuncula Nursing Home, Multyfarnham, Mullingar, Co. Westmeath, Westmeath", Multyfarnham,Westmeath,240260.198,264450.5082,NursingHome
+377,Portumna Retirement Village,"Portumna Retirement Village, St. Brendan's Road, Portumna, Co. Galway, Galway", St. Brendan's Road,Galway,184883.9876,204977.9251,NursingHome
+378,Powdermill Nursing Home,"Powdermill Nursing Home, Gunpowder Mill, Ballincollig, Co. Cork, Cork", Gunpowder Mill,Cork,159302.9301,71296.59192,NursingHome
+379,Queen of Peace Centre,"Queen of Peace Centre, Garville Avenue, Rathgar, Dublin 6, Dublin 6", Garville Avenue,Dublin,316200.6766,232647.183,NursingHome
+380,Queen of Peace Nursing Home,"Queen of Peace Nursing Home, Churchfield, Knock, Co. Mayo, Mayo", Churchfield,Mayo,139130.5018,282433.0254,NursingHome
+381,Raheen Community Hospital,"Raheen Community Hospital, Tuamgraney, Scariff, Ennis, Co. Clare Clare", Tuamgraney,Clare,165902.9712,182661.2637,NursingHome
+382,Raheny Community Nursing Unit,"Raheny Community Nursing Unit, Harmonstown Road, Raheny, Dublin 5, Dublin 5", Harmonstown Road,Dublin,320788.7665,238545.3532,NursingHome
+383,Raheny House Nursing Home,"Raheny House Nursing Home, Raheny House, 476 Howth Road, Raheny, Dublin 5 Dublin 5",Howth Road,Dublin,321093.8923,238062.9026,NursingHome
+384,Ramelton Community Hospital,"Ramelton Community Hospital, Ramelton, Letterkenny, Co. Donegal, Donegal", Ramelton,Donegal,222827.5196,421287.5879,NursingHome
+385,Rathkeevan Nursing Home,"Rathkeevan Nursing Home, Rathkeevan, Clonmel, Co. Tipperary, Tipperary", Rathkeevan,Tipperary,214971.8034,124542.1847,NursingHome
+386,Ratoath Manor Nursing Home,"Ratoath Manor Nursing Home, Ratoath, Co. Meath, Meath", Ratoath,Meath,302189.5655,251805.427,NursingHome
+387,Regina House Community Nursing Unit,"Regina House Community Nursing Unit, Kilrush, Co. Clare, Clare", Kilrush,Clare,99535.63746,155664.2672,NursingHome
+388,Residential Care Home Unit 5 & Unit 6 (Merlin Park Hospital),"Residential Care Home Unit 5 & Unit 6 (Merlin Park Hospital), Dublin Road, Galway, Galway", Dublin Road,Galway,133723.0511,225612.9357,NursingHome
+389,Retreat Nursing Home,"Retreat Nursing Home, Loughandonning, Bonnavalley, Athlone, Westmeath Westmeath", Loughandonning,Westmeath,205584.5416,241122.5225,NursingHome
+390,Riada House Community Nursing Unit,"Riada House Community Nursing Unit, Arden Road, Tullamore, Co. Offaly, Offaly", Arden Road,Offaly,233873.874,225170.4215,NursingHome
+391,Riverdale House,"Riverdale House, Blackwater, Ardnacrusha, Co. Clare, Clare", Blackwater,Limerick,157200.8556,156822.927,NursingHome
+392,Riverdale Nursing Home,"Riverdale Nursing Home, Laragh, Ballon, Co. Carlow, Carlow", Laragh,Carlow,282747.8706,164442.9124,NursingHome
+393,Riverside Nursing Home,"Riverside Nursing Home, Toberburr Road, St. Margarets, Co. Dublin, Co. Dublin", Toberburr Road,Dublin,312918.8948,243705.2844,NursingHome
+394,Riverside Nursing Home,"Riverside Care Centre, Milltown, Abbeydorney, Tralee, Co. Kerry Kerry", Milltown,Kerry,84350.84285,122645.6487,NursingHome
+395,Rivervale Nursing Home,"Rivervale Nursing Home, Old Birr Road, Nenagh, Co. Tipperary, Tipperary", Old Birr Road,Tipperary,187267.6919,179983.8884,NursingHome
+396,Rochestown Nursing Home,"Rochestown Nursing Home, Monastery Road, Rochestown, Co. Cork, Cork", Monastery Road,Cork,174527.456,68417.02428,NursingHome
+397,Rockshire Care Centre,"Rockshire Care Centre, Rockshire Road, Ferrybank, Co. Waterford, Waterford", Rockshire Road,Kilkenny,260601.1625,113576.6659,NursingHome
+398,Ros Aoibhinn,"Ros Aoibhinn Nursing Home, Irish Street, Bunclody, Co. Wexford, Wexford", Irish Street,Wexford,291227.3246,156704.9753,NursingHome
+399,Rosary Hill House Nursing Home,"Rosary Hill House Nursing Home, Stradbally, Castleconnell, Co. Limerick, Limerick", Stradbally,Limerick,157200.8556,156822.927,NursingHome
+400,Rosedale Residential Home,"Rosedale Residential Home, Upper Kilmacow, Co. Kilkenny, Kilkenny", Upper Kilmacow,Kilkenny,255298.2805,117536.7427,NursingHome
+401,Roselodge Nursing Home,"Roselodge Nursing Home, Killucan, Co. Westmeath, Westmeath", Killucan,Westmeath,256812.9931,251692.7527,NursingHome
+402,Rosemount House Nursing Home,"Rosemount Nursing Home, Garrabeg Road, Church Street, Gort, Co. Galway Galway", Garrabeg Road,Galway,144820.0248,202033.7725,NursingHome
+403,Rosenalee Care Centre Ltd.,"Rosenalee Care Centre, Poulavone, Ballincollig, Co. Cork, Cork", Poulavone,Cork,160224.6728,70925.99494,NursingHome
+404,Roseville House Nursing Home,"Roseville House Nursing Home, Killonan, Ballysimon, Limerick, Limerick", Killonan,Limerick,157200.8556,156822.927,NursingHome
+405,Roseville Nursing Home,"Roseville Nursing Home, 49 Meath Road, Bray, Co. Wicklow, Wicklow",Meath Road,Wicklow,327038.3857,218202.9739,NursingHome
+406,Royal Hospital Donnybrook,"Royal Hospital Donnybrook, Morehampton Road, Donnybrook, Dublin 4, Dublin 4", Morehampton Road,Dublin,317166.6928,232042.2817,NursingHome
+407,Rush Nursing Home,"Rush Nursing Home, Kenure, Skerries Road, Rush, Co.Dublin Co. Dublin", Kenure,Dublin,326293.8863,255016.0523,NursingHome
+408,Rushmore Nursing Home,"Rushmore Nursing Home, Knocknacarra, Galway, Galway", Knocknacarra,Galway,126095.5838,223944.6439,NursingHome
+409,Ryevale Nursing Home,"Ryevale Nursing Home, Ryevale Mill, Leixlip, Co. Kildare, Kildare", Ryevale Mill,Kildare,299847.2559,236384.0182,NursingHome
+410,Sacred Heart Hospital,"Sacred Heart Hospital, Old Dublin Road, Carlow, Carlow", Old Dublin Road,Carlow,272192.1955,177061.1922,NursingHome
+411,Sacred Heart Hospital,"Sacred Heart Hospital, Pontoon Road, Castlebar, Co. Mayo, Mayo", Pontoon Road,Mayo,117778.8296,295284.9518,NursingHome
+412,Sacred Heart Hospital Roscommon,"Sacred Heart Hospital, Golf Link Road, Roscommon, Roscommon", Golf Link Road,Roscommon,187714.5275,263212.3091,NursingHome
+413,Sacred Heart Nursing Home,"Sacred Heart Nursing Home, Crosspatrick, Johnstown, Co. Kilkenny, Kilkenny", Crosspatrick,Kilkenny,226843.5538,169078.8243,NursingHome
+414,Sacred Heart Residence,"Sacred Heart Residence, Sybil Hill Road, Raheny, Dublin 5, Dublin 5", Sybil Hill Road,Dublin,320179.8085,237322.8341,NursingHome
+415,Sacred Hearts Nursing Home,"Sacred Hearts Nursing Home, Roslea Road, Clones, Co. Monaghan, Monaghan", Roslea Road,Monaghan,267070.5924,333647.2629,NursingHome
+416,SacrÃ© Coeur Nursing Home,"SacrÃ© Coeur Nursing Home, Station Road, Tipperary Town, Tipperary Town, Tipperary", Station Road,Tipperary,189138.5712,135247.4283,NursingHome
+417,Sally Park Nursing Home,"Sally Park Nursing Home, Sally Park Close, Firhouse, Dublin 24, Dublin 24", Sally Park Close,Dublin,311231.4301,227380.4064,NursingHome
+418,San Remo Nursing Home,"San Remo Nursing Home, 14/ 15 Sidmonton Road, Bray, Wicklow, Wicklow",Sidmonton Road,Wicklow,326880.1921,218210.7966,NursingHome
+419,Sancta Maria,"Sancta Maria, Gallow's Hill, Cratloe, Co. Clare, Clare", Gallow's Hill,Clare,148219.6017,161556.8515,NursingHome
+420,Sancta Maria Nursing Home,"Sancta Maria Nursing Home, Parke, Kinnegad, Co. Meath, Meath", Parke,Meath,261511.7922,241931.191,NursingHome
+421,Santa Sabina House,"Santa Sabina House, Dominican Sisters, Navan Road, Cabra, Dublin 7 Dublin 7", Dominican Sisters,Dublin,312184.6733,236728.1414,NursingHome
+422,Seanchara Community Unit,"Seanchara Community Unit, St. Canice's Road, Glasnevin, Dublin 11, Dublin 11", St. Canice's Road,Dublin,315003.3977,238451.5636,NursingHome
+423,Shalom Nursing Home,"Shalom Nursing Home, Presentation Convent, Kilcock, Co. Klidare, Kildare", Presentation Convent,Kildare,288494.7665,239872.4189,NursingHome
+424,Shannagh Bay Nursing Home,"Shannagh Bay Nursing Home, Strand Road, Bray, Co. Wicklow, Wicklow", Strand Road,Wicklow,327123.7686,218439.0615,NursingHome
+425,Shannon Lodge Nursing Home,"Shannon Lodge Nursing Home, Rooskey, Co. Roscommon, Roscommon", Rooskey,Roscommon,197129.5925,242779.1315,NursingHome
+426,Sheelin Nursing Home,"Sheelin Nursing Home, Tonagh, Mountnugent, Co. Cavan, Cavan", Tonagh,Cavan,241834.6492,304556.9014,NursingHome
+427,Shrewsbury House Nursing Home,"Shrewsbury House Nursing Home, 164 Clonliffe Road, Drumcondra, Dublin 3, Dublin 3",Clonliffe Road,Dublin,316386.2356,236125.1781,NursingHome
+428,Silvergrove Nursing Home,"Silvergrove Nursing Home, Main Street, Clonee, Co. Meath, Meath", Main Street,Meath,303077.3381,241738.5769,NursingHome
+429,Simpsons Hospital,"Simpson's Hospital, Ballinteer Road, Dundrum, Dublin 16, Dublin 16", Ballinteer Road,Dublin,316904.7047,227564.8737,NursingHome
+430,Skibbereen Community Hospital,"Skibbereen Community Hospital, Coolnagarrane, Skibbereen, Co. Cork, Cork", Coolnagarrane,Cork,112412.1825,35098.87684,NursingHome
+431,Skibbereen Residential Care Centre,"Skibbereen Residential Care Centre, Baltimore Road, Skibbereen, Co. Cork, Cork", Baltimore Road,Cork,112005.9394,32956.0694,NursingHome
+432,Sligo Nursing Home,"Mowlam Nursing Home, Ballytivnan, Sligo, Sligo", Ballytivnan,Sligo,169456.99,337237.257,NursingHome
+433,Sonas Care Centre,"Sonas Care Centre, Cloverhill, Roscommon, Roscommon", Cloverhill,Roscommon,161435.9668,295518.3129,NursingHome
+434,Sonas Care Centre Ard na Greine,"Sonas Care Centre Ard na Greine, Enniscrone, Co. Sligo, Sligo", Enniscrone,Sligo,128443.8823,329564.3898,NursingHome
+435,"Sonas Care Centre, Cloghanboy","Sonas Care Centre, Cloghanboy, Ballymahon Road, Athlone, Westmeath Westmeath", Cloghanboy,Westmeath,205346.4603,242266.2523,NursingHome
+436,St Anne's Private Nursing Home,"St. Anne's Nursing Home, Sonnagh, Charlestown, Co. Mayo, Mayo", Sonnagh,Mayo,145593.7388,301076.0211,NursingHome
+437,St Brigid's Inchicore,"St Brigid's Inchicore, Rear of Bulfin Court, Inchicore, Dublin 8", Rear of Bulfin Court,Dublin,312198.344,233402.094,NursingHome
+438,St Camillus Nursing Centre,"St Camillus Nursing Centre, Killucan, Westmeath, Westmeath", Killucan,Westmeath,256952.5338,251927.3797,NursingHome
+439,St Columban's Retirement Home,"St. Columban's Retirement Home, Dalgan Park, Navan, Co. Meath, Meath",Dalgan Park,Meath,290829.3872,263165.5579,NursingHome
+440,St Eithne's Rest Care Centre,"St. Eithne's Rest Care Centre, Corbally, Tulsk, Castlerea, Roscommon Roscommon", Corbally,Roscommon,184059.083,280695.5777,NursingHome
+441,St. Anne's Community Nursing Home,"St. Anne's Community Nursing Home, Westport Road, Clifden, Co. Galway, Galway", Westport Road,Galway,65628.63054,251117.3017,NursingHome
+442,St. Anthony's Nursing Home,"St. Anthony's Nursing Home, Kilduff Castle, Pallasgreen, Co. Limerick, Limerick", Kilduff Castle,Limerick,177601.0896,145971.8969,NursingHome
+443,St. Anthonyâs Nursing Home,"St. Anthonyâs Nursing Home, Church Street, Balbriggan, Co. Dublin", Church Street,Dublin,320425.4481,263622.4496,NursingHome
+444,St. Attracta's Nursing Home,"St. Attracta's Nursing Home, Hagfield, Charlestown, Co. Mayo, Mayo", Hagfield,Mayo,147844.4147,298789.86,NursingHome
+445,St. Augustine's Community Nursing Unit,"St. Augustine's Community Nursing Unit, Cathedral Road, Ballina, Co. Mayo, Mayo", Cathedral Road,Mayo,124797.2972,318861.8216,NursingHome
+446,St. Brendan's High Support Unit,"St. Brendan's High Support Unit, Mulranny, Westport, Mayo, Mayo", Mulranny,Mayo,83751.58877,296809.1215,NursingHome
+447,St. Brendan's Home,"St. Brendan's Home, Lake Road, Loughrea, Co. Galway, Galway", Lake Road,Galway,162296.5505,215624.8248,NursingHome
+448,St. Brigid's Home,"St. Brigid's Nursing Home, Crooksling, Brittas, Co. Dublin, Co. Dublin", Crooksling,Dublin,302775.8735,223579.1427,NursingHome
+449,St. Brigid's Hospital,"St. Brigid's Hospital, Shaen, Portlaoise, Co. Laois, Laois", Shaen,Laois,250230.2936,203293.6706,NursingHome
+450,St. Camillus Community Hospital,"St. Camillus Community Hospital, Shelbourne Road, Limerick, Limerick", Shelbourne Road,Limerick,156692.6495,157955.7643,NursingHome
+451,St. Carthage's House,"St. Carthage's House, Lismore, Co. Waterford, Waterford", Lismore,Waterford,204692.713,97684.10916,NursingHome
+452,St. Catherine's Nursing Home,"St. Catherine's Nursing Home, Bothar BuÃ­, Newcastlewest, Co. Limerick, Limerick", Bothar BuÃ­,Limerick,128068.7511,133395.2019,NursingHome
+453,St. Catherine's Nursing Home,"St. Catherine's Nursing Home, Freshford, Co. Kilkenny, Kilkenny", Freshford,Kilkenny,240612.5378,164757.6204,NursingHome
+454,St. Clair's Nursing Home,"St. Clair's Nursing Home, Ballinderry, Mullingar, Co. Westmeath, Westmeath", Ballinderry,Westmeath,243669.2987,251936.4581,NursingHome
+455,St. Clare's Home,"St. Clare's Home, Griffith Avenue, Glasnevin, Dublin 11, Dublin 11", Griffith Avenue,Dublin,315006.3535,237975.6914,NursingHome
+456,St. Colman's Residential Care Centre,"St. Colman's Residential Care Centre, Rathdrum, Co. Wicklow, Wicklow", Rathdrum,Wicklow,318959.6181,188314.2065,NursingHome
+457,St. Colmcille's Nursing Home,"St. Colmcille's Nursing Home, Oldcastle Road, Kells, Co. Meath, Meath", Oldcastle Road,Meath,273073.2392,276044.4335,NursingHome
+458,St. Columba's Hospital,"St. Columba's Hospital, Thomastown, Co. Kilkenny, Kilkenny", Thomastown,Kilkenny,258967.0802,142449.9455,NursingHome
+459,St. Columba's Nursing Home,"St. Columba's Nursing Home, Cloughballymore House, Ballinderreen, Co. Galway, Galway", Cloughballymore House,Galway,139723.2855,214119.3682,NursingHome
+460,St. Columban's Nursing Home,"St. Columban's Nursing Home, Magheramore, Wicklow, Co. Wicklow, Wicklow", Magheramore,Wicklow,332208.5303,188978.976,NursingHome
+461,St. Columban's Nursing Home,"St. Columban's Nursing Home, Magheramore, Wicklow, Wicklow", Magheramore,Wicklow,332324.625,188987.109,NursingHome
+462,St. Conlon's Community Nursing Unit,"St. Conlon's Community Nursing Unit, Church Road, Nenagh, Co. Tipperary, Tipperary", Church Road,Tipperary,189059.4569,135818.6256,NursingHome
+463,St. Davids Retirement Home,"St. David's Retirement Home, Gentian Hill, Salthill, Galway, Galway", Gentian Hill,Galway,126043.3555,223624.0051,NursingHome
+464,St. Dominic Savio Nursing Home,"St. Dominic Savio Nursing Home, Cahilly, Liscannor, Co. Clare, Clare", Cahilly,Clare,106011.7704,188497.74,NursingHome
+465,St. Doolagh's Park Care and Rehabilitation Centre,"St. Doolagh's Park Care and Rehabilitation Centre, Malahide Road, Balgriffin, Dublin 17, Dublin 17", Malahide Road,Dublin,321144.5347,241729.6814,NursingHome
+466,St. Elizabeth's Nursing Home,"St. Elizabeth's Nursing Home, Kells Road, Athboy, Co. Meath, Meath", Kells Road,Meath,272199.2664,264327.8377,NursingHome
+467,St. Eunan's Nursing and Convalescent Home,"Rough Park, Ramelton Road, Letterkenny, Co. Donegal", Ramelton Road,Donegal,217940.843,411798.2282,NursingHome
+468,St. Fiacc's House,"St. Fiacc's House, Killeshin Road, Graiguecullen, Carlow, Carlow", Killeshin Road,Carlow,271982.5489,176761.4769,NursingHome
+469,St. Finbarr's Hospital,"St. Finbarr's Hospital, Douglas Road, Cork, Cork", Douglas Road,Cork,168304.661,70867.65754,NursingHome
+470,St. Fionnan's Community Nursing Unit,"St. Fionnan's Community Nursing Unit, Achill Sound, Co. Mayo, Mayo", Achill Sound,Mayo,73318.32206,299557.9587,NursingHome
+471,St. Francis' Nursing Home,"St. Francis' Nursing Home, Mount Oliver, Dundalk, Co. Louth, Louth", Mount Oliver,Louth,304395.1742,307776.444,NursingHome
+472,St. Francis' Nursing Home,"St. Francis' Nursing Home, Kilkerrin, Ballinasloe, Co. Galway, Galway", Kilkerrin,Galway,161704.914,257160.6303,NursingHome
+473,St. Gabriel's Community Hospital,"St. Gabriel's Community Hospital, Schull, Cork, Cork", Schull,Cork,92255.16967,31245.41822,NursingHome
+474,St. Gabriel's Nursing Home,"St. Gabriel's Nursing Home, Glenayle Road, Edenmore, Dublin 5, Dublin 5", Glenayle Road,Dublin,320932.6085,239291.3869,NursingHome
+475,St. Glady's Nursing Home,"St. Glady's Nursing Home, 53 Kimmage Road Lower, Harold's Cross, Dublin 6, Dublin 6", Kimmage Road Lower,Dublin,314331.3174,231590.8995,NursingHome
+476,St. Gobnait's Nursing Home,"St. Gobnait's Nursing Home, Ballyagran, Kilmallock, Co. Limerick, Limerick", Ballyagran,Limerick,149446.5264,128358.8952,NursingHome
+477,St. Ita's Hospital,"St. Ita's Hospital, Gortboy, Newcastlewest, Co. Limerick, Limerick", Gortboy,Limerick,128370.0061,134293.0703,NursingHome
+478,St. James's Hospital,"St. James' Hospital Residential Unit, Hospital 4, PO Box 580, Dublin 8, Dublin 8", Hospital 4,Dublin,313659.8263,233592.1242,NursingHome
+479,St. John's Community Hospital Enniscorthy,"St. John's Community Hospital, Munster Hill, Enniscorthy, Co. Wexford, Wexford", Munster Hill,Wexford,296995.6134,139198.9221,NursingHome
+480,St. John's Hospital,"St. John's Hospital, Ballytivnan, Sligo, Sligo", Ballytivnan,Sligo,169363.436,336880.5938,NursingHome
+481,St. John's House of Rest,"St. John's House, 202 Merrion Road, Dublin 4, Dublin 4", Merrion Road,Dublin,319266.8039,231168.3289,NursingHome
+482,St. Joseph's Care Centre,"St. Joseph's Care Centre, Presentation Convent, Tuam, Co. Galway, Galway", Presentation Convent,Galway,143602.3605,251902.216,NursingHome
+483,St. Joseph's Care Centre,"St. Joseph's Care Centre, Dublin Road, Longford, Longford", Dublin Road,Longford,214903.3355,274945.0258,NursingHome
+484,St. Joseph's Centre,"St. Joseph's Centre, Crinken Lane, Shankill, Co. Dublin, Co. Dublin", Crinken Lane,Dublin,325129.6429,221008.489,NursingHome
+485,St. Joseph's Community Hospital,"St. Joseph's Community Hospital, Millstreet, Co. Cork, Cork", Millstreet,Cork,127204.9721,90326.73739,NursingHome
+486,St. Joseph's Community Hospital Stranorlar,"St. Joseph's Community Hospital, Stranorlar, Co. Donegal, Donegal", Stranorlar,Donegal,214846.4063,395251.6825,NursingHome
+487,St. Joseph's Community Nursing Unit,"St. Joseph's Community Nursing Unit, Trim, Co. Meath, Meath", Trim,Meath,280228.0277,257071.9191,NursingHome
+488,St. Joseph's Home,"St. Joseph's Home, Killorglin, Co. Kerry, Kerry", Killorglin,Kerry,77792.64268,96429.72078,NursingHome
+489,St. Joseph's Hospital,"St. Joseph's Hospital, Bon Secours Care Village, Mount Desert, Lee Road, Cork", Bon Secours Care Village,Cork,163346.6886,72022.63408,NursingHome
+490,St. Joseph's Hospital,"St. Joseph's Hospital, Lifford Road, Ennis, Co. Clare, Clare", Lifford Road,Clare,134088.1891,178227.2512,NursingHome
+491,St. Joseph's Hospital Ardee,"St. Joseph's Hospital Ardee, Ardee, Co. Louth, Louth", Ardee,Louth,296137.7355,290484.3758,NursingHome
+492,St. Joseph's Nursing Home,"St. Joseph's Nursing Home, Derrymore East, Tralee, Co. Kerry, Kerry", Derrymore East,Kerry,75108.60423,111262.1839,NursingHome
+493,St. Joseph's Nursing Home,"St. Joseph's Nursing Home, Mountsackville, Chapelizod, Dublin 20, Dublin 20", Mountsackville,Dublin,310358.063,234418.46,NursingHome
+494,St. Joseph's Nursing Home,"St. Joseph's Nursing Home, Clones Road, Ballybay, Co. Monaghan, Monaghan", Clones Road,Monaghan,267070.5924,333647.2629,NursingHome
+495,St. Joseph's Nursing Home,"St. Joseph's Nursing Home, Lurgan Glebe, Virginia, Co. Cavan, Cavan", Lurgan Glebe,Cavan,241834.1851,304557.4537,NursingHome
+496,St. Joseph's Nursing Home,"St. Joseph's Nursing Home, Killowen, Kenmare, Co. Kerry, Kerry", Killowen,Kerry,92115.39325,71361.02096,NursingHome
+497,St. Joseph's Nursing Home - Little Sisters of the Poor,"St. Joseph's Nursing Home - Little Sisters of the Poor, Abbey Road, Ferrybank, Waterford, Waterford", Abbey Road,Waterford,260225.1537,111925.7172,NursingHome
+498,"St. Joseph's Supported Care Home,","Kilmoganny, Co. Kilkenny",Kilmoganny,Kilkenny,245812.5739,134609.6409,NursingHome
+499,St. Joseph's Unit,"St. Joseph's Unit, Bantry General Hospital, Bantry, Co. Cork, Cork", Bantry,Cork,99675.29799,48504.15557,NursingHome
+500,St. Jude's Nursing Home,"St. Jude's Residential Care, Borrisoleigh, Thurles, Co. Tipperary, Tipperary", Borrisoleigh,Tipperary,198198.1283,167021.9862,NursingHome
+501,St. Kieran's Nursing Home,"St. Kieran's Nursing Home, Rathcabin, Roscrea, Co. Tipperary, Tipperary", Rathcabin,Tipperary,189059.4569,135818.6256,NursingHome
+502,St. Lazerian's House,"St. Lazerian's House, Royal Oak Road, Bagnelstown, Co. Carlow, Carlow", Royal Oak Road,Carlow,271982.5489,176761.4769,NursingHome
+503,St. Louis Nursing Home,"St. Louis Nursing Home, Clonmore, Tralee, Co. Kerry, Kerry", Clonmore,Kerry,83942.18783,114091.0221,NursingHome
+504,St. Luke's Home,"St. Luke's Home, Castle Road, Mahon, Cork, Cork", Castle Road,Cork,172571.3673,71778.77249,NursingHome
+505,St. Martha's Nursing Home,"St. Martha's Nursing Home, Glenswilly House, Cappauniac, Cahir, Co. Tipperary Tipperary", Glenswilly House,Tipperary,200333.3958,128871.0184,NursingHome
+506,St. Martha's Nursing Home,"St. Martha's Nursing Home, Love Lane, Charleville, Co. Cork, Cork", Love Lane,Cork,153168.6602,122958.6012,NursingHome
+507,St. Mary's Centre Nursing Home,"St. Mary's Centre Nursing Home, St. Mary's Ctr Telford Ltd, 185/ 201 Merrion Road, Dublin 4, Dublin 4",Merrion Road,Dublin,319449.1382,230800.3977,NursingHome
+508,St. Mary's Home,"St. Mary's Home, Pembroke Park, Ballsbridge, Dublin 4, Dublin 4", Pembroke Park,Dublin,317268.1887,232218.9103,NursingHome
+509,St. Mary's Hospital,"Drogheda Services for the Elderly St. Mary's Hospital, Dublin Road, Drogheda, Co. Louth, Louth", Dublin Road,Louth,310201.1292,274542.071,NursingHome
+510,St. Mary's Hospital,"St. Mary's Hospital, Sherlock Road, Castleblayney, Co. Monaghan, Monaghan", Sherlock Road,Monaghan,282051.7919,319647.5642,NursingHome
+511,St. Mary's Residential Care Centre,"St Mary's Nursing Home, Shantalla Road, Galway, Galway", Shantalla Road,Galway,128900.0005,225227.2107,NursingHome
+512,St. Michael's Nursing Home,"St. Michael's Nursing Home, 100 Acres East, Caherconlish, Limerick, Limerick", Acres East,Limerick,168102.6195,149338.9697,NursingHome
+513,St. Monica's Nursing Home,"St. Monica's Nursing Home, 28 - 38 Belvedere Place, Dublin 1, Dublin 1", Belvedere,Dublin,315986.5295,235624.7857,NursingHome
+514,St. Oliver Plunkett,"St. Oliver Plunkett Hospital, Dublin Road, Dundalk, Co. Louth, Louth", Dublin Road,Louth,305249.6811,304967.2965,NursingHome
+515,St. Pappin's Nursing Home,"Ballymun Road, Ballymun, Dublin 9, Dublin 9", Ballymun,Dublin,315414.2027,238654.9962,NursingHome
+516,St. Patrick's Community Hospital,"St. Patrick's Community Hospital, Summerhill, Carrick on Shannon, Co. Leitrim, Leitrim", Summerhill,Leitrim,194088.2469,299803.7645,NursingHome
+517,St. Patrick's Hospital,"St. Patrick's Hospital, John's Hill, Waterford, Waterford", John's Hill,Waterford,261041.8481,111479.2736,NursingHome
+518,St. Patrick's Hospital Cashel,"St. Patrick's Hospital, Cashel, Co. Tipperary, Tipperary", Cashel,Tipperary,207399.3599,140142.3014,NursingHome
+519,St. Patrick's Nursing Home,"St. Patrick's Nursing Home - Cowper Care, Dublin Street, Baldoyle, Dublin 13, Dublin 13", Dublin Street,Dublin,324551.5533,240111.5976,NursingHome
+520,St. Patricks Hospital Cork,"St. Patrick's Hospital (Cork) Ltd., Curraheen Road, Curraheen, Cork, Cork", Curraheen Road,Cork,168315.1408,72524.9391,NursingHome
+521,St. Paul's Nursing Home,"St. Paul's Nursing Home, Dooradoyle, Limerick, Limerick", Dooradoyle,Limerick,156316.9004,154225.442,NursingHome
+522,St. Phelim's Nursing Home,"St. Phelim's Nursing Home, Dromahair, Co. Leitrim, Leitrim", Dromahair,Leitrim,180380.7136,331008.2691,NursingHome
+523,St. Teresa's Nursing Home,"St. Teresa's Nursing Home, Friar Street, Cashel, Co. Tipperary, Tipperary", Friar Street,Tipperary,207816.9025,140533.4983,NursingHome
+524,St. Theresa's Nursing Home,"St. Theresa's Nursing Home, Dublin Road, Thurles, Co. Tipperary, Tipperary", Dublin Road,Tipperary,213665.2848,158729.9797,NursingHome
+525,St. Theresa's Nursing Home,"St. Theresa's Nursing Home, Leadmore East, Kilkee Road, Kilrush, Co. Clare Clare", Leadmore East,Clare,98798.20098,155972.9727,NursingHome
+526,St. Ursula's Nursing Home,"St. Ursula's Nursing Home, Golf Links Road, Bettystown, Co. Meath, Meath", Golf Links Road,Meath,315870.6975,273629.2661,NursingHome
+527,St. Vincent's Care Centre,"St. Vincent's Care Centre, Coosan Road, Athlone, Co. Westmeath, Westmeath", Coosan Road,Westmeath,203870.8434,241835.8164,NursingHome
+528,St. Vincent's Community Nursing Unit,"St. Vincent's Community Nursing Unit, Mountmellick, Co. Laois, Laois", Mountmellick,Laois,244848.9182,207943.6525,NursingHome
+529,St. Vincent's Hospital,"St. Vincent's Hospital, Athy, Co. Kildare, Kildare", Athy,Kildare,267401.2099,194619.6769,NursingHome
+530,St.Stephens Unit 1,"Unit 1 St Stephen's Hospital, Sarsfield Court, Glanmire, Cork, Cork", Sarsfield Court,Cork,172562.8623,78038.04274,NursingHome
+531,Stella Maris Nursing Home,"Stella Maris Nursing Home, Cummer, Tuam, Co. Galway, Galway", Cummer,Galway,140381.2847,246156.9874,NursingHome
+532,Stella Maris Nursing Home,"Stella Maris Nursing Home, Baylough, Athlone, Co. Westmeath, Westmeath", Baylough,Westmeath,202189.4192,241560.8711,NursingHome
+533,Strathmore Lodge Nursing Home,"Strathmore Lodge Nursing Home, Friary Walk, Callan, Co. Kilkenny, Kilkenny", Friary Walk,Kilkenny,241822.4459,144451.1937,NursingHome
+534,Strawhall Nursing Home,"Strawhall Nursing Home, Strawhall, Fermoy, Co. Cork, Cork", Strawhall,Cork,182423.5091,98461.80289,NursingHome
+535,Sullivan Centre,"Sullivan Centre, Cathedral Road, Cavan, Cavan", Cathedral Road,Cavan,241957.5646,305602.6893,NursingHome
+536,Summerville Healthcare,"Summerville Healthcare, Strandhill, Co. Sligo, Sligo", Strandhill,Sligo,161218.3139,335605.2063,NursingHome
+537,Suncroft Lodge Nursing Home,"Suncroft Lodge Nursing Home, The Curragh, Co. Kildare, Kildare", The Curragh,Kildare,278278.2144,211119.8231,NursingHome
+538,Sunhill Nursing Home,"Sunhill Nursing Home, Blackhall Road, Termonfeckin, Louth", Blackhall Road,Louth,314011.7444,280805.7452,NursingHome
+539,Support Care Facility Prague House,"Support Care Facility Prague House, Freshford, Co. Kilkenny, Kilkenny", Freshford,Kilkenny,240612.5378,164757.6204,NursingHome
+540,Swords Nursing Home,"Swords Nursing Home, Mount Ambrose, Swords, Co. Dublin, Co. Dublin", Mount Ambrose,Dublin,314039.8408,247740.9555,NursingHome
+541,TLC Centre Maynooth,"TLC Centre Maynooth, Straffan Road, Maynooth, Co. Kildare, Kildare", Straffan Road,Kildare,293673.2148,235313.1946,NursingHome
+542,TLC Centre Santry,"Northwood Park, Santry, Dublin 9, Dublin 9", Santry,Dublin,316165.1258,240764.8783,NursingHome
+543,TLC City West,"TLC City West, Cooldown Commons, Fortunestown Lane, Citywest, Co. Dublin", Cooldown Commons,Dublin,305495.0643,227262.146,NursingHome
+544,Talbot Lodge Nursing Home,"Talbot Lodge Nursing Home, Kinsealy, Co. Dublin, Co. Dublin", Kinsealy,Dublin,321690.028,243500.6136,NursingHome
+545,Tara Care Centre,"Tara Care Centre, 5/ 6 Putland Road, Bray, Co. Wicklow, Wicklow", Putland Road,Wicklow,327028.4289,217815.3525,NursingHome
+546,Tara Winthrop Private Clinic,"Tara Winthrop Private Clinic, Nevinstown Lane, Pinnock Hill, Swords, Co. Dublin Co. Dublin", Nevinstown Lane,Dublin,317997.6783,245889.2084,NursingHome
+547,Teach Altra Nursing Home,"Teach Altra Nursing Home, Scarteen, Newmarket, Co. Cork, Cork", Scarteen,Cork,131428.826,107554.6855,NursingHome
+548,Teach Altranais Charna,"Carna, Co. na Gaillimhe",Charna,Galway,77373.41711,231971.542,NursingHome
+549,Tearmainn Bhride Nursing Home,"Tearmainn Bhride Nursing Home, Brideswell, Athlone, Co. Roscommon, Roscommon", Brideswell,Roscommon,196502.7055,243462.2838,NursingHome
+550,The Croft Nursing Home,"2 Goldenbridge Walk, Dublin 8, D08ay24",Goldenbridge,Dublin,311598.4066,232961.2469,NursingHome
+551,"The Holy Family Residence, ","Little Sisters Of The Poor, Roebuck Road, Dublin 14, D14c7w2", Roebuck Road,Dublin,318181.7136,229497.8069,NursingHome
+552,The Marlay Nursing Home,"The Marlay Nursing Home, Kellystown Road, Rathfarnham, Dublin 16, Dublin 16", Kellystown Road,Dublin,315627.3999,225641.9427,NursingHome
+553,The Park Nursing Home,"The Park Nursing Home, Plassey Park Road, Castletroy, Co. Limerick, Limerick", Plassey Park Road,Limerick,157201.4587,156822.2541,NursingHome
+554,The Rock Nursing Unit,"The Rock Nursing Unit, Ballyshannon, Co. Donegal, Donegal", Ballyshannon,Donegal,187693.2688,361450.8918,NursingHome
+555,The Sheil Community Hospital,"The Shiel Community Hospital, College Street, Ballyshannon, Co. Donegal, Donegal", College Street,Donegal,187693.2688,361450.8918,NursingHome
+556,The Tower Nursing Home,"The Tower Nursing Home, 94/ 95 Cappaghmore, Clondalkin, Dublin 22, Dublin 22", Cappaghmore,Dublin,306592.0378,232292.9218,NursingHome
+557,The Village Nursing Care Centre,"The Village Nursing Care Centre, Ballygarriff, Craughwell, Co. Galway, Galway", Ballygarriff,Galway,145000.1523,220938.5817,NursingHome
+558,Thomond Lodge Nursing Home,"Thomond Lodge Nursing Home, Ballymahon, Co. Longford, Longford", Ballymahon,Longford,215352.8319,256945.0937,NursingHome
+559,Thorpe's Nursing Home,"Thorpe's Nursing Home, Clarina, Co. Limerick, Limerick", Clarina,Limerick,150357.3713,153808.2759,NursingHome
+560,Tinnypark Nursing Home,"Tinnypark, Callan Road, Kilkenny, Kilkenny", Callan Road,Kilkenny,248634.0655,152712.7135,NursingHome
+561,Tralee Community Nursing Unit,"Tralee Community Nursing Unit, Tralee, Co. Kerry, Kerry", Tralee,Kerry,83640.15865,114432.8954,NursingHome
+562,TÃ­ Aire,"TÃ­ Aire, Tallagh Road, Belmullet, Co. Mayo, Mayo", Tallagh Road,Mayo,69841.10767,333834.3928,NursingHome
+563,Valentia Hospital,"Valentia Hospital, Valentia Island, Co. Kerry, Kerry", Valentia Island,Kerry,37084.89684,73425.9021,NursingHome
+564,Valentia House Nursing Home,"Valentia House Nursing Home, Camolin, Enniscorthy, Co. Wexford, Wexford", Camolin,Wexford,306369.4771,152601.4579,NursingHome
+565,Villa Marie Nursing Home,"Villa Marie Nursing Home, Grange, Templemore Road, Roscrea, Co. Tipperary Tipperary", Grange,Tipperary,214224.9267,187568.1233,NursingHome
+566,Virginia Health Care Centre,"Virginia Health Care Centre, Dublin Road, Virginia, Cavan, Cavan", Dublin Road,Cavan,260640.3725,287569.49,NursingHome
+567,Waterford Nursing Home,"Ballinakill Downs, Dunmore Road, Waterford, Waterford", Dunmore Road,Waterford,262912.3232,110960.8986,NursingHome
+568,Willowbrook Lodge,"Willowbrook Lodge, Mocklershill, Fethard, Co. Tipperary, Tipperary", Mocklershill,Tipperary,213394.0019,139976.9876,NursingHome
+569,Willowbrook Nursing Home,"Willowbrook Nursing Home, Borohard, Newbridge, Co. Kildare, Kildare", Borohard,Kildare,283197.2159,217564.9802,NursingHome
+570,Windfield Nursing Home,"Windfield Nursing Home, Waynestown, Summerhill Road, Dunboyne, Co. Meath Meath", Waynestown,Meath,297260.4837,243855.7146,NursingHome
+571,Windmill House Nursing Home,"Windmill House Nursing Home, Churchtown, Mallow, Co. Cork, Cork", Churchtown,Cork,150220.2431,113552.3021,NursingHome
+572,Woodlands House Nursing Home,"Woodlands House Nursing Home, Trim Road, Navan, Co. Meath, Meath", Trim Road,Meath,286889.8942,267272.6411,NursingHome
+573,Woodlands Nursing Home,"Woodlands Nursing Home, Bishopswood, Dundrum, Co. Tipperary, Tipperary", Bishopswood,Tipperary,198101.7834,146676.292,NursingHome
+574,Wygram Nursing Home,"Wygram Nursing Home, Iberius House, Common quay Street, Wexford, Wexford", Iberius House,Wexford,304917.438,122001.094,NursingHome
+575,Youghal Community Hospital,"Youghal Community Hospital, Cork Hill, Youghal, Cork, Cork", Cork Hill,Cork,209932.8144,78164.76669,NursingHome
+576,Youghal and District Nursing Home,"Youghal and District Nursing Home, Gortroe, Youghal, Co. Cork, Cork", Gortroe,Cork,205907.8009,75270.14693,NursingHome
+577,Ãras Chois Fharraige,"Pairc, An SpidÃ©al, Co Na Gaillimhe", An SpidÃ©al,Galway,115995.6703,222542.1511,NursingHome
+578,Ãras Deirbhle Community Nursing Unit,"Ãras Deirbhle Community Nursing Unit, Belmullet Community Hospital, Belmullet, Mayo, Mayo", Belmullet Community Hospital,Mayo,70418.17239,332851.4453,NursingHome

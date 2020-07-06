@@ -1,0 +1,84 @@
+1. All triples:
+
+SELECT ?subject ?predicate ?object WHERE {          
+	  ?subject ?predicate ?object .
+	}
+
+
+2. Hospitals and nursing homes in Galway:
+
+SELECT DISTINCT ?name ?entity ?address ?street WHERE {          
+	 ?address <http://www.w3.org/2006/vcard/ns#county> ?county .
+  FILTER (regex(?county, "galway", "i")) 
+  	 # ?address <http://www.w3.org/2006/vcard/ns#county> "Galway" .
+	 ?entity <vcard:Address> ?address .
+	 ?entity <http://xmlns.com/foaf/0.1/name> ?name .
+	 ?address <http://www.w3.org/2006/vcard/ns#address_key> ?street .
+	?entity <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> ?class .
+  FILTER (?class IN (<http://www.example.org/ns#NursingHomes>, <http://www.example.org/ns#Hospital>))
+	 }
+
+
+3. All organisations with "University" in the name:
+
+SELECT ?name ?county WHERE {          
+	 ?address <http://www.w3.org/2006/vcard/ns#county> ?county .
+	 ?entity <vcard:Address> ?address .
+	  ?entity <http://xmlns.com/foaf/0.1/name> ?name .
+	  FILTER (regex(?name, "university", "i") )
+	 ?address <http://www.w3.org/2006/vcard/ns#address_key> ?street .
+	 }
+
+
+4. Search frequency of organisations per county:
+
+SELECT ?county (COUNT(?county) as ?count) WHERE {          
+	 ?address <http://www.w3.org/2006/vcard/ns#county> ?county .
+	 ?entity <vcard:Address> ?address .
+	  ?entity <http://xmlns.com/foaf/0.1/name> ?name .
+	 ?address <http://www.w3.org/2006/vcard/ns#address_key> ?street .
+#	?entity <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.example.org/ns#Hospital> .
+	 } GROUP BY ?county
+
+
+5. Search using Street name and County:
+
+SELECT DISTINCT ?name ?address ?county ?street WHERE {          
+		 ?address <http://www.w3.org/2006/vcard/ns#county> "Dublin" .
+	  	?address <http://www.w3.org/2006/vcard/ns#county> ?county .
+	  	?address <http://www.w3.org/2006/vcard/ns#address_key> "Main Street" .
+	  ?address <http://www.w3.org/2006/vcard/ns#address_key> ?street .
+		 ?entity <vcard:Address> ?address .
+		 ?entity <http://xmlns.com/foaf/0.1/name> ?name .
+		#?entity <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/vcard/DentalDetails> .
+		 }
+
+
+6. Search using Street name only:
+
+SELECT DISTINCT ?name ?entity ?county ?street ?fa WHERE {          
+		 ?address <http://www.w3.org/2006/vcard/ns#address_key> "Main Street" .
+  		?address <http://www.w3.org/2006/vcard/ns#county> ?county .
+  ?address <http://www.w3.org/2006/vcard/ns#full_address> ?fa .
+		 ?entity <vcard:Address> ?address .
+		 ?entity <http://xmlns.com/foaf/0.1/name> ?name .
+  ?address <http://www.w3.org/2006/vcard/ns#address_key> ?street .
+		 }
+
+
+7. Distribution of Organisations for a County:
+
+SELECT ?class (COUNT(?class) as ?count) WHERE { 
+	?address <http://www.w3.org/2006/vcard/ns#county> "Dublin" .
+ 	?address <http://www.w3.org/2006/vcard/ns#county> ?county .
+ 	?address <http://www.w3.org/2006/vcard/ns#full_address> ?fa .
+  	?entity <vcard:Address> ?address .
+	?entity <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> ?class.
+  FILTER (?class not in (<http://xmlns.com/foaf/0.1/Organization>))
+	 } 
+GROUP BY ?class
+
+
+
+
+
